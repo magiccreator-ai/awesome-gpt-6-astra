@@ -7,7 +7,7 @@ We’ll keep adding new demos as we discover and review them. Star this reposito
 
 **[Explore the visual gallery on MagicCreator →](<https://magiccreator.ai/astra>)** — browse previews, filter by category, and find creator-supplied live demos.
 
-38 cases · 10 creator-supplied live links · Latest recorded review: 2026-09-07
+48 cases · 16 creator-supplied live links · Latest recorded review: 2026-09-07
 
 This is a case directory, not a prompt collection or an independent benchmark. Model attribution, build times and results are based on the linked creator posts; inclusion does not mean the work has been reproduced or every demo tested. This is an independent community collection, not affiliated with OpenAI.
 
@@ -23,11 +23,11 @@ The preview belongs to its creator and links to the original post; this reposito
 
 ## Contents
 
-- [GPT-6 Astra Games & Playable Demos](#games) (10)
+- [GPT-6 Astra Games & Playable Demos](#games) (13)
 - [GPT-6 Astra Blender & 3D Demos](#blender) (9)
-- [GPT-6 Astra Website & Web App Demos](#web) (11)
+- [GPT-6 Astra Website & Web App Demos](#web) (17)
 - [GPT-6 Astra Video Creation Showcase](#video) (6)
-- [GPT-6 Astra Drawing & Pixel Art](#art) (2)
+- [GPT-6 Astra Drawing & Pixel Art](#art) (3)
 - [Suggest a demo](#suggest-a-demo)
 
 <a id="games"></a>
@@ -122,6 +122,18 @@ The author says Astra built and deployed the game and then created the promotion
 
 [Original post](<https://x.com/TheRohanVarma/status/2096744577332068549>) · [Live demo](<https://elderwood-realms.rohannvarma.chatgpt.site/>) · [Visual gallery details](<https://magiccreator.ai/astra#elderwood-realms>)
 
+### Astral War
+
+[![Astral War — preview from the creator’s post](<https://pbs.twimg.com/amplify_video_thumb/2096062838892814336/img/ME5ZS6OhoEsNAfH6.jpg>)](<https://x.com/0xRishi/status/2096079660605997264>)
+
+A browser shooter with living and undead modes, solo play and author-reported online multiplayer.
+
+**Creator:** [Rishi](<https://x.com/0xRishi>) · **Tools / format:** Three.js, Meshy, ElevenLabs, Multiplayer
+
+The creator used Astra Ultra with Three.js, Meshy and ElevenLabs to expand Modern Claudefare, an earlier Opus 5 project. Multiplayer and controller support are author-reported and have not been playtested here.
+
+[Original post](<https://x.com/0xRishi/status/2096079660605997264>) · [Live demo](<http://astralwar.io>) · [Visual gallery details](<https://magiccreator.ai/astra#astral-war>)
+
 ### Anti-Gravity Combat Racer
 
 [![Anti-Gravity Combat Racer — preview from the creator’s post](<https://pbs.twimg.com/amplify_video_thumb/2095966450385289216/img/u4EnBwNxU0h3lQgI.jpg>)](<https://x.com/superalesha/status/2095967568825582044>)
@@ -157,6 +169,30 @@ A sailing game with colorful ocean lighting, moving waves and stylized or realis
 The creator credits Astra with Sunwake and says it used Blender to refine the boat. The post shows gameplay; water physics and a standalone playable release have not been independently verified.
 
 [Original post](<https://x.com/Dimillian/status/2096863961203220741>) · [Visual gallery details](<https://magiccreator.ai/astra#sunwake>)
+
+### Rink Life
+
+[![Rink Life — preview from the creator’s post](<https://pbs.twimg.com/amplify_video_thumb/2096981099964772352/img/V5In6125jJkkEGp0.jpg>)](<https://x.com/JakeBoyles/status/2096983366327226501>)
+
+A first-person browser rink-management sim with ice resurfacing, bookings and concession tasks.
+
+**Creator:** [Jake Boyles](<https://x.com/JakeBoyles>) · **Tools / format:** Three.js, Simulation, Ice rink
+
+The creator credits Astra and Three.js, describing a persistent ice-wear grid that also drives reflections. Desktop, mobile and save behavior are author-reported and have not been playtested here.
+
+[Original post](<https://x.com/JakeBoyles/status/2096983366327226501>) · [Live demo](<https://vyrld.com/w/rink-life>) · [Visual gallery details](<https://magiccreator.ai/astra#rink-life>)
+
+### Bubble Wrap Simulator
+
+[![Bubble Wrap Simulator — preview from the creator’s post](<https://pbs.twimg.com/amplify_video_thumb/2096980056065314816/img/_duxg6slMRbzLtu1.jpg>)](<https://x.com/crtvTeknologist/status/2096980188126986533>)
+
+A Three.js playground for firing a rocket launcher into a room made of bubble wrap.
+
+**Creator:** [FinkTheArtist](<https://x.com/crtvTeknologist>) · **Tools / format:** Three.js, Destruction, Open source
+
+The creator credits Astra and Three.js and shares a live demo, with source code in an author reply. Gameplay and physics have not been independently tested.
+
+[Original post](<https://x.com/crtvTeknologist/status/2096980188126986533>) · [Live demo](<https://bubble-wrap-simulator.vercel.app/>) · [Creator’s code](<https://github.com/finktheartist/bubble-wrap-simulator.git>) · [Visual gallery details](<https://magiccreator.ai/astra#bubble-wrap-simulator>)
 
 <a id="blender"></a>
 
@@ -362,6 +398,18 @@ The author attributes the website to Astra and shares the creation prompt in a r
 
 [Original post](<https://x.com/akshdeeps_001/status/2096776530005488028>) · [Visual gallery details](<https://magiccreator.ai/astra#earth-civilization-timeline>)
 
+### Clouds in Motion
+
+[![Clouds in Motion — preview from the creator’s post](<https://pbs.twimg.com/amplify_video_thumb/2096568034442027008/img/Qc9iu7MCzMMEK5tl.jpg>)](<https://x.com/shinboson/status/2096568055413231902>)
+
+Real-time cloud rendering in a browser, presented as an Astra side project.
+
+**Creator:** [𝞍 Shin Megami Boson 𝞍](<https://x.com/shinboson>) · **Tools / format:** Cloud rendering, Browser
+
+The creator credits Astra for a semianalytic cloud-rendering experiment and says it runs on an iPhone. Device performance has not been independently tested.
+
+[Original post](<https://x.com/shinboson/status/2096568055413231902>) · [Live demo](<https://clouds-in-motion.pages.dev>) · [Visual gallery details](<https://magiccreator.ai/astra#clouds-in-motion>)
+
 ### Nine-Cylinder Radial Engine
 
 [![Nine-Cylinder Radial Engine — preview from the creator’s post](<https://pbs.twimg.com/amplify_video_thumb/2096576241038188545/img/OzGNyaFGGhg5OfrD.jpg>)](<https://x.com/techartist_/status/2096577974242033738>)
@@ -373,6 +421,42 @@ An interactive browser model that illustrates the mechanics of a radial engine.
 The creator credits Astra for the code and shows the interaction in a video. No separate live URL was found in the collected post, so the original is the viewing destination.
 
 [Original post](<https://x.com/techartist_/status/2096577974242033738>) · [Visual gallery details](<https://magiccreator.ai/astra#radial-engine>)
+
+### Voxel Ship in a Bottle
+
+[![Voxel Ship in a Bottle — preview from the creator’s post](<https://pbs.twimg.com/amplify_video_thumb/2095698775075622912/img/X2vJ3HmhZXcG8lNC.jpg>)](<https://x.com/DeryaTR_/status/2095699049722581065>)
+
+A Three.js ship-in-a-bottle scene with waves, gulls, a small harbor and coral reefs.
+
+**Creator:** [Derya Unutmaz, MD](<https://x.com/DeryaTR_>) · **Tools / format:** Three.js, Voxel art
+
+The creator credits GPT-6 Astra for the Three.js scene, cinematic video and music. The post provides a video; its physics claims have not been independently validated.
+
+[Original post](<https://x.com/DeryaTR_/status/2095699049722581065>) · [Visual gallery details](<https://magiccreator.ai/astra#voxel-ship-in-a-bottle>)
+
+### Shared Notes with Astra
+
+[![Shared Notes with Astra — preview from the creator’s post](<https://pbs.twimg.com/amplify_video_thumb/2096757334433562624/img/G9iHomZ5VdFD9Gro.jpg>)](<https://x.com/skulladult/status/2096764060121673931>)
+
+A shared notes page where Astra follows the author's writing and responds on the same canvas.
+
+**Creator:** [cooker](<https://x.com/skulladult>) · **Tools / format:** Shared canvas, Live collaboration
+
+The creator demonstrates Astra as a live collaborator, including correction of a deliberately wrong equation. The post does not specify how the app was built or establish general mathematical reliability.
+
+[Original post](<https://x.com/skulladult/status/2096764060121673931>) · [Visual gallery details](<https://magiccreator.ai/astra#shared-notes-with-astra>)
+
+### Interactive iPhone History
+
+[![Interactive iPhone History — preview from the creator’s post](<https://pbs.twimg.com/amplify_video_thumb/2096917421718163457/img/qM5HjO10Vqq203oe.jpg>)](<https://x.com/blueemi99/status/2096917792737911131>)
+
+An iPhone history website with interactive phones, period-style interfaces, apps and keyboards.
+
+**Creator:** [bluedev](<https://x.com/blueemi99>) · **Tools / format:** Interactive history, UI recreation
+
+The creator says the website was made using Astra and shares a demo and video. These are interface recreations; their historical fidelity has not been independently checked.
+
+[Original post](<https://x.com/blueemi99/status/2096917792737911131>) · [Live demo](<https://iphone-archive.vercel.app>) · [Visual gallery details](<https://magiccreator.ai/astra#interactive-iphone-history>)
 
 ### Boeing 777 Landing Sim
 
@@ -386,6 +470,18 @@ The creator attributes the simulator to Astra Pro and claims it follows aircraft
 
 [Original post](<https://x.com/LuminaBench/status/2096946420234207459>) · [Visual gallery details](<https://magiccreator.ai/astra#boeing-777-landing>)
 
+### Directional Sticker Peel
+
+[![Directional Sticker Peel — preview from the creator’s post](<https://pbs.twimg.com/amplify_video_thumb/2096983336837378048/img/AMVXa9m4e44oWHC8.jpg>)](<https://x.com/johnnnavent/status/2096983463760904311>)
+
+A 3D sticker interaction that changes its peeling direction with the edge being dragged.
+
+**Creator:** [johnnn](<https://x.com/johnnnavent>) · **Tools / format:** 3D interaction, Arena, UI animation
+
+The creator attributes the interaction to OpenAI Astra and says it was made on Arena. The original post contains a demonstration video but no separate demo URL.
+
+[Original post](<https://x.com/johnnnavent/status/2096983463760904311>) · [Visual gallery details](<https://magiccreator.ai/astra#directional-sticker-peel>)
+
 ### Asteria Spaceship Explorer
 
 A solar-system explorer with a spaceship exterior and an observation lounge overlooking planets.
@@ -395,6 +491,18 @@ A solar-system explorer with a spaceship exterior and an observation lounge over
 The creator credits Astra with React, Three.js and Blender. Sampled video frames show the solar-system view, ship and lounge. The creator provides a live link; interactive functionality has not been independently tested.
 
 [Original post](<https://x.com/wengsiong22/status/2096941914906144784>) · [Live demo](<https://asteria.wengsiong22.workers.dev/>) · [Visual gallery details](<https://magiccreator.ai/astra#asteria-spaceship-explorer>)
+
+### Equal Earth Map
+
+[![Equal Earth Map — preview from the creator’s post](<https://pbs.twimg.com/media/HRn60OKaoAEMfBG.jpg>)](<https://x.com/stevwangdev/status/2096983019294974011>)
+
+A map website exploring Equal Earth and the trade-offs of flattening a globe.
+
+**Creator:** [stevwang.dev](<https://x.com/stevwangdev>) · **Tools / format:** Maps, Geography, Astra Light
+
+The creator credits GPT-6 Astra Light and shares a screenshot and demo URL. Projection behavior and geographic accuracy have not been independently validated.
+
+[Original post](<https://x.com/stevwangdev/status/2096983019294974011>) · [Live demo](<https://your-equal-earth.pages.dev/>) · [Visual gallery details](<https://magiccreator.ai/astra#equal-earth-map>)
 
 ### Adonis Restaurant Demo
 
@@ -523,6 +631,18 @@ A Hatsune Miku drawing shared with a recording of the result.
 The creator says ChatGPT Pro Astra drew Hatsune Miku. The post does not identify the drawing software or provide a reusable prompt or project. The workflow has not been independently reproduced.
 
 [Original post](<https://x.com/qibiz_me/status/2096000743786627103>) · [Visual gallery details](<https://magiccreator.ai/astra#hatsune-miku-drawing>)
+
+### Astra Poster Studies
+
+[![Astra Poster Studies — preview from the creator’s post](<https://pbs.twimg.com/media/HRn8faybsAAEsUX.jpg>)](<https://x.com/JaydenDavisNC/status/2096986857158377757>)
+
+Three poster designs shared by their creator as work made using Astra.
+
+**Creator:** [Jayden Davis](<https://x.com/JaydenDavisNC>) · **Tools / format:** Posters, Graphic design
+
+The creator explicitly credits Astra and attaches three images. The post does not specify the design tools, prompts or amount of manual editing.
+
+[Original post](<https://x.com/JaydenDavisNC/status/2096986857158377757>) · [Visual gallery details](<https://magiccreator.ai/astra#astra-poster-studies>)
 
 ## Suggest a demo
 
