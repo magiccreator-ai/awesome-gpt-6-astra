@@ -36,42 +36,6 @@ The preview belongs to its creator and links to the original post; this reposito
 
 Browser games, combat prototypes and game-engine experiments. Live links are included when supplied by the creator.
 
-### Jelly Baby Playground
-
-[![Jelly Baby Playground — preview from the creator’s post](<https://pbs.twimg.com/amplify_video_thumb/2096364109210202112/img/_-nTPLScjLl70avL.jpg>)](<https://x.com/scottstts/status/2096364764054131119>)
-
-A glossy jelly character you can stretch, throw and bounce around a wooden tabletop, with live play and source code.
-
-**Creator:** [Scott](<https://x.com/scottstts>) · **Tools / format:** Three.js, WebGPU, Physics toy
-
-The creator attributes the Three.js game to Astra. The linked repository documents movement, stretching and playground activities. The live page requires WebGPU; gameplay has not been independently tested.
-
-[Original post](<https://x.com/scottstts/status/2096364764054131119>) · [Live demo](<https://jelly.scottsun.io/>) · [Creator’s code](<https://github.com/scottstts/Jelly-Baby>) · [Visual gallery details](<https://magiccreator.ai/astra#jelly-baby>)
-
-### Sunwake Sailing Game
-
-[![Sunwake Sailing Game — preview from the creator’s post](<https://pbs.twimg.com/amplify_video_thumb/2096863862188548096/img/Z8oV2C6EO9BVrhOk.jpg>)](<https://x.com/Dimillian/status/2096863961203220741>)
-
-A sailing game with colorful ocean lighting, moving waves and stylized or realistic rendering modes.
-
-**Creator:** [Thomas Ricouard](<https://x.com/Dimillian>) · **Tools / format:** Sailing, Blender assets, Water rendering
-
-The creator credits Astra with Sunwake and says it used Blender to refine the boat. The post shows gameplay; water physics and a standalone playable release have not been independently verified.
-
-[Original post](<https://x.com/Dimillian/status/2096863961203220741>) · [Visual gallery details](<https://magiccreator.ai/astra#sunwake>)
-
-### Afterlight Robot World
-
-[![Afterlight Robot World — preview from the creator’s post](<https://pbs.twimg.com/amplify_video_thumb/2096580463288803328/img/_S5-VDnQ9RJh9URY.jpg>)](<https://x.com/anshuc/status/2096584624432374151>)
-
-A dystopian robot game scene with rain, warm lights, detailed streets and procedural birds.
-
-**Creator:** [Anshu](<https://x.com/anshuc>) · **Tools / format:** Three.js, Blender assets, Image generation
-
-The creator describes iterating with Astra, Blender, Three.js and image generation for visual targets and textures. They corrected glitches manually and say optimization and testing are still needed. Shown as a recording.
-
-[Original post](<https://x.com/anshuc/status/2096584624432374151>) · [Visual gallery details](<https://magiccreator.ai/astra#afterlight-robot-world>)
-
 ### Rocket League Style Game
 
 [![Rocket League Style Game — preview from the creator’s post](<https://pbs.twimg.com/amplify_video_thumb/2096028515099660288/img/SQ7xgsqG8hoVZ5P1.jpg>)](<https://x.com/LLMJunky/status/2096028790925488452>)
@@ -86,18 +50,6 @@ The creator confirms this is their own Astra benchmark inspired by Rocket League
 
 [Original post](<https://x.com/LLMJunky/status/2096028790925488452>) · [Visual gallery details](<https://magiccreator.ai/astra#rocket-league-style-benchmark>)
 
-### Universe Duel
-
-[![Universe Duel — preview from the creator’s post](<https://pbs.twimg.com/amplify_video_thumb/2096254500579540993/img/UXLhYa_-rokNMOgq.jpg>)](<https://x.com/hayashimon1/status/2096255665778069957>)
-
-A browser robot duel with dashes, homing attacks and laser-blade combat.
-
-**Creator:** [ハヤシモン｜AI × 個人開発](<https://x.com/hayashimon1>) · **Tools / format:** Browser game
-
-The creator describes an iterative Astra build, refining the robot movements through feedback. A browser demo is linked in the original post.
-
-[Original post](<https://x.com/hayashimon1/status/2096255665778069957>) · [Live demo](<https://universe-duel.vercel.app>) · [Visual gallery details](<https://magiccreator.ai/astra#universe-duel>)
-
 ### Age of Empires IV on Apple Silicon
 
 [![Age of Empires IV on Apple Silicon — preview from the creator’s post](<https://pbs.twimg.com/amplify_video_thumb/2096364962629431296/img/xB4kNtDvFHHRftRZ.jpg>)](<https://x.com/marc_ibrahim/status/2096365209111724235>)
@@ -110,17 +62,41 @@ The creator credits Astra with improving an existing game's performance on Apple
 
 [Original post](<https://x.com/marc_ibrahim/status/2096365209111724235>) · [Visual gallery details](<https://magiccreator.ai/astra#age-of-empires-iv-apple-silicon>)
 
-### Elderwood Realms
+### Universe Duel
 
-[![Elderwood Realms — preview from the creator’s post](<https://pbs.twimg.com/amplify_video_thumb/2096743123301117952/img/W_anzk30lopccNnJ.jpg>)](<https://x.com/TheRohanVarma/status/2096744577332068549>)
+[![Universe Duel — preview from the creator’s post](<https://pbs.twimg.com/amplify_video_thumb/2096254500579540993/img/UXLhYa_-rokNMOgq.jpg>)](<https://x.com/hayashimon1/status/2096255665778069957>)
 
-A RuneScape-inspired multiplayer browser world, with its own showcase trailer.
+A browser robot duel with dashes, homing attacks and laser-blade combat.
 
-**Creator:** [Rohan Varma](<https://x.com/TheRohanVarma>) · **Tools / format:** Browser game, Multiplayer
+**Creator:** [ハヤシモン｜AI × 個人開発](<https://x.com/hayashimon1>) · **Tools / format:** Browser game
 
-The author says Astra built and deployed the game and then created the promotional video. The live link is author-supplied; multiplayer reliability has not been independently tested.
+The creator describes an iterative Astra build, refining the robot movements through feedback. A browser demo is linked in the original post.
 
-[Original post](<https://x.com/TheRohanVarma/status/2096744577332068549>) · [Live demo](<https://elderwood-realms.rohannvarma.chatgpt.site/>) · [Visual gallery details](<https://magiccreator.ai/astra#elderwood-realms>)
+[Original post](<https://x.com/hayashimon1/status/2096255665778069957>) · [Live demo](<https://universe-duel.vercel.app>) · [Visual gallery details](<https://magiccreator.ai/astra#universe-duel>)
+
+### Afterlight Robot World
+
+[![Afterlight Robot World — preview from the creator’s post](<https://pbs.twimg.com/amplify_video_thumb/2096580463288803328/img/_S5-VDnQ9RJh9URY.jpg>)](<https://x.com/anshuc/status/2096584624432374151>)
+
+A dystopian robot game scene with rain, warm lights, detailed streets and procedural birds.
+
+**Creator:** [Anshu](<https://x.com/anshuc>) · **Tools / format:** Three.js, Blender assets, Image generation
+
+The creator describes iterating with Astra, Blender, Three.js and image generation for visual targets and textures. They corrected glitches manually and say optimization and testing are still needed. Shown as a recording.
+
+[Original post](<https://x.com/anshuc/status/2096584624432374151>) · [Visual gallery details](<https://magiccreator.ai/astra#afterlight-robot-world>)
+
+### Jelly Baby Playground
+
+[![Jelly Baby Playground — preview from the creator’s post](<https://pbs.twimg.com/amplify_video_thumb/2096364109210202112/img/_-nTPLScjLl70avL.jpg>)](<https://x.com/scottstts/status/2096364764054131119>)
+
+A glossy jelly character you can stretch, throw and bounce around a wooden tabletop, with live play and source code.
+
+**Creator:** [Scott](<https://x.com/scottstts>) · **Tools / format:** Three.js, WebGPU, Physics toy
+
+The creator attributes the Three.js game to Astra. The linked repository documents movement, stretching and playground activities. The live page requires WebGPU; gameplay has not been independently tested.
+
+[Original post](<https://x.com/scottstts/status/2096364764054131119>) · [Live demo](<https://jelly.scottsun.io/>) · [Creator’s code](<https://github.com/scottstts/Jelly-Baby>) · [Visual gallery details](<https://magiccreator.ai/astra#jelly-baby>)
 
 ### A Godot Roguelike Level
 
@@ -133,6 +109,18 @@ A 3D combat level with changing weather, weapons, abilities and day-night cycles
 The creator credits Astra, Blender and Godot. This entry is a recorded level demonstration, not a downloadable or browser-playable game.
 
 [Original post](<https://x.com/op7418/status/2096494840431386950>) · [Visual gallery details](<https://magiccreator.ai/astra#godot-roguelike>)
+
+### Elderwood Realms
+
+[![Elderwood Realms — preview from the creator’s post](<https://pbs.twimg.com/amplify_video_thumb/2096743123301117952/img/W_anzk30lopccNnJ.jpg>)](<https://x.com/TheRohanVarma/status/2096744577332068549>)
+
+A RuneScape-inspired multiplayer browser world, with its own showcase trailer.
+
+**Creator:** [Rohan Varma](<https://x.com/TheRohanVarma>) · **Tools / format:** Browser game, Multiplayer
+
+The author says Astra built and deployed the game and then created the promotional video. The live link is author-supplied; multiplayer reliability has not been independently tested.
+
+[Original post](<https://x.com/TheRohanVarma/status/2096744577332068549>) · [Live demo](<https://elderwood-realms.rohannvarma.chatgpt.site/>) · [Visual gallery details](<https://magiccreator.ai/astra#elderwood-realms>)
 
 ### Anti-Gravity Combat Racer
 
@@ -157,6 +145,18 @@ A small PvP-style arena that can be played solo or with a friend.
 The author describes an early Astra + Blender prototype made in about four hours. It is explicitly unfinished; gameplay and multiplayer availability may change.
 
 [Original post](<https://x.com/jumperz/status/2096600055301984738>) · [Live demo](<http://rogue-omega.vercel.app>) · [Visual gallery details](<https://magiccreator.ai/astra#rogue-arena>)
+
+### Sunwake Sailing Game
+
+[![Sunwake Sailing Game — preview from the creator’s post](<https://pbs.twimg.com/amplify_video_thumb/2096863862188548096/img/Z8oV2C6EO9BVrhOk.jpg>)](<https://x.com/Dimillian/status/2096863961203220741>)
+
+A sailing game with colorful ocean lighting, moving waves and stylized or realistic rendering modes.
+
+**Creator:** [Thomas Ricouard](<https://x.com/Dimillian>) · **Tools / format:** Sailing, Blender assets, Water rendering
+
+The creator credits Astra with Sunwake and says it used Blender to refine the boat. The post shows gameplay; water physics and a standalone playable release have not been independently verified.
+
+[Original post](<https://x.com/Dimillian/status/2096863961203220741>) · [Visual gallery details](<https://magiccreator.ai/astra#sunwake>)
 
 <a id="blender"></a>
 
@@ -188,18 +188,6 @@ The creator reports 3,295 editable objects reconstructed from a reference drawin
 
 [Original post](<https://x.com/tomkrcha/status/2095756085890310311>) · [Visual gallery details](<https://magiccreator.ai/astra#steam-train>)
 
-### Palace of Fine Arts
-
-[![Palace of Fine Arts — preview from the creator’s post](<https://pbs.twimg.com/amplify_video_thumb/2095652923917361152/img/HLx68_TTVmLK5LJa.jpg>)](<https://x.com/sharifshameem/status/2095653641164329143>)
-
-San Francisco's Palace of Fine Arts recreated in Blender and presented in a rendered architectural video.
-
-**Creator:** [Sharif Shameem](<https://x.com/sharifshameem>) · **Tools / format:** Blender, Architecture, Reference reconstruction
-
-The creator says Astra gathered reference photos, iterated on a headless Blender scene and rendered the video, with a few manual corrections. They report no video models were used; the workflow has not been independently reproduced.
-
-[Original post](<https://x.com/sharifshameem/status/2095653641164329143>) · [Visual gallery details](<https://magiccreator.ai/astra#palace-of-fine-arts>)
-
 ### Blender to Unreal House
 
 [![Blender to Unreal House — preview from the creator’s post](<https://pbs.twimg.com/amplify_video_thumb/2095596669320810496/img/W43WylmZrzBLZ-Ye.jpg>)](<https://x.com/Dimillian/status/2095596700815516004>)
@@ -214,6 +202,18 @@ The creator presents an Astra-assisted house workflow from Blender to Unreal Eng
 
 [Original post](<https://x.com/Dimillian/status/2095596700815516004>) · [Visual gallery details](<https://magiccreator.ai/astra#blender-to-unreal-house>)
 
+### Palace of Fine Arts
+
+[![Palace of Fine Arts — preview from the creator’s post](<https://pbs.twimg.com/amplify_video_thumb/2095652923917361152/img/HLx68_TTVmLK5LJa.jpg>)](<https://x.com/sharifshameem/status/2095653641164329143>)
+
+San Francisco's Palace of Fine Arts recreated in Blender and presented in a rendered architectural video.
+
+**Creator:** [Sharif Shameem](<https://x.com/sharifshameem>) · **Tools / format:** Blender, Architecture, Reference reconstruction
+
+The creator says Astra gathered reference photos, iterated on a headless Blender scene and rendered the video, with a few manual corrections. They report no video models were used; the workflow has not been independently reproduced.
+
+[Original post](<https://x.com/sharifshameem/status/2095653641164329143>) · [Visual gallery details](<https://magiccreator.ai/astra#palace-of-fine-arts>)
+
 ### Verdant Forest
 
 [![Verdant Forest — preview from the creator’s post](<https://pbs.twimg.com/amplify_video_thumb/2096262956774490112/img/9UcY8pI6LuZ8v2c_.jpg>)](<https://x.com/LexnLin/status/2096263046918197609>)
@@ -225,6 +225,18 @@ A walkable forest built in Three.js, with dense grass, ferns and custom lighting
 Astra wrote the scene and custom shaders. The creator reports a five-hour build; object counts and timing have not been independently reproduced.
 
 [Original post](<https://x.com/LexnLin/status/2096263046918197609>) · [Live demo](<https://verdant-forest.lexn8.chatgpt.site>) · [Visual gallery details](<https://magiccreator.ai/astra#verdant-forest>)
+
+### Street Scene from an Image
+
+[![Street Scene from an Image — preview from the creator’s post](<https://pbs.twimg.com/amplify_video_thumb/2096619986119016448/img/DnxNHOzY0HSwEHqW.jpg>)](<https://x.com/Yokohara_h/status/2096622171011666003>)
+
+A reference image becomes a Blender street scene, followed by a process breakdown.
+
+**Creator:** [Hirokazu Yokohara](<https://x.com/Yokohara_h>) · **Tools / format:** Blender, Image reference
+
+The creator reports using Astra to model the environment and edit the breakdown. They also note that the result still needs work; the preview is a prototype, not a production-quality claim.
+
+[Original post](<https://x.com/Yokohara_h/status/2096622171011666003>) · [Visual gallery details](<https://magiccreator.ai/astra#blender-street>)
 
 ### Walk Through Van Gogh
 
@@ -249,18 +261,6 @@ Portraits and illustrations become rotating cards with parallax and holographic 
 The creator combines image preparation and Blender work in a reusable workflow. A public repository is linked by the author; the workflow itself has not been run by this directory.
 
 [Original post](<https://x.com/everettfish0408/status/2096765359282061544>) · [Creator’s code](<https://github.com/EverettFish/holo-card-studio>) · [Visual gallery details](<https://magiccreator.ai/astra#holographic-cards>)
-
-### Street Scene from an Image
-
-[![Street Scene from an Image — preview from the creator’s post](<https://pbs.twimg.com/amplify_video_thumb/2096619986119016448/img/DnxNHOzY0HSwEHqW.jpg>)](<https://x.com/Yokohara_h/status/2096622171011666003>)
-
-A reference image becomes a Blender street scene, followed by a process breakdown.
-
-**Creator:** [Hirokazu Yokohara](<https://x.com/Yokohara_h>) · **Tools / format:** Blender, Image reference
-
-The creator reports using Astra to model the environment and edit the breakdown. They also note that the result still needs work; the preview is a prototype, not a production-quality claim.
-
-[Original post](<https://x.com/Yokohara_h/status/2096622171011666003>) · [Visual gallery details](<https://magiccreator.ai/astra#blender-street>)
 
 ### Taj Mahal in Blender
 
@@ -304,6 +304,28 @@ The creator credits Astra with building the visualization. The collected post in
 
 [Original post](<https://x.com/DilumSanjaya/status/2096280244663775423>) · [Visual gallery details](<https://magiccreator.ai/astra#v8-engine>)
 
+### macOS 27 Simulator
+
+A browser-based macOS desktop simulation with Finder and app interfaces.
+
+**Creator:** [Max Weinbach](<https://x.com/mweinbach>) · **Tools / format:** Desktop simulation, ChatGPT Sites
+
+The creator attributes the simulator to Astra and reports a 75-minute build, cloud sync and working apps. The page was readable during the earlier review; login, syncing and app functionality have not been independently tested.
+
+[Original post](<https://x.com/mweinbach/status/2095596867081916653>) · [Live demo](<https://macos-27-simulator.mweinbach.chatgpt.site/>) · [Visual gallery details](<https://magiccreator.ai/astra#macos-27-simulator>)
+
+### Seoul 3D Atlas
+
+[![Seoul 3D Atlas — preview from the creator’s post](<https://pbs.twimg.com/amplify_video_thumb/2096557441312034816/img/v3Iur3rDygYBuOdR.jpg>)](<https://x.com/synabreu/status/2096557555086725159>)
+
+Explore a miniature Seoul with landmark fly-throughs and day-to-night lighting.
+
+**Creator:** [synabreu](<https://x.com/synabreu>) · **Tools / format:** Three.js, OpenStreetMap
+
+Astra helped build an interactive Three.js map from existing geographic data. Buildings are simplified and some heights are estimated; this is not a survey-grade reconstruction.
+
+[Original post](<https://x.com/synabreu/status/2096557555086725159>) · [Live demo](<https://seoul-3d-atlas.synabreu.chatgpt.site/>) · [Visual gallery details](<https://magiccreator.ai/astra#seoul-atlas>)
+
 ### Moonlit Forge Studio
 
 [![Moonlit Forge Studio — preview from the creator’s post](<https://pbs.twimg.com/amplify_video_thumb/2096204966549663744/img/Uzdz8t2v75PQhifx.jpg>)](<https://x.com/op7418/status/2096205141187956887>)
@@ -316,15 +338,17 @@ The creator describes Astra modeling in Blender, importing into Three.js, adding
 
 [Original post](<https://x.com/op7418/status/2096205141187956887>) · [Live demo](<https://moonlit-forge-studio.op7418.chatgpt.site>) · [Visual gallery details](<https://magiccreator.ai/astra#moonlit-forge>)
 
-### macOS 27 Simulator
+### Three.js Interface Studies
 
-A browser-based macOS desktop simulation with Finder and app interfaces.
+[![Three.js Interface Studies — preview from the creator’s post](<https://pbs.twimg.com/amplify_video_thumb/2096509525641805824/img/yNsuHCnwMB66M_qf.jpg>)](<https://x.com/MengTo/status/2096510126244999366>)
 
-**Creator:** [Max Weinbach](<https://x.com/mweinbach>) · **Tools / format:** Desktop simulation, ChatGPT Sites
+Liquid-glass controls, procedural objects and motion-driven web interfaces.
 
-The creator attributes the simulator to Astra and reports a 75-minute build, cloud sync and working apps. The page was readable during the earlier review; login, syncing and app functionality have not been independently tested.
+**Creator:** [Meng To](<https://x.com/MengTo>) · **Tools / format:** Three.js, UI design
 
-[Original post](<https://x.com/mweinbach/status/2095596867081916653>) · [Live demo](<https://macos-27-simulator.mweinbach.chatgpt.site/>) · [Visual gallery details](<https://magiccreator.ai/astra#macos-27-simulator>)
+Meng To shares several interface experiments made with Astra and Three.js. This is a collection of visual studies in one source post, not a single released application.
+
+[Original post](<https://x.com/MengTo/status/2096510126244999366>) · [Visual gallery details](<https://magiccreator.ai/astra#threejs-interfaces>)
 
 ### Earth History Timeline
 
@@ -338,17 +362,29 @@ The author attributes the website to Astra and shares the creation prompt in a r
 
 [Original post](<https://x.com/akshdeeps_001/status/2096776530005488028>) · [Visual gallery details](<https://magiccreator.ai/astra#earth-civilization-timeline>)
 
-### Seoul 3D Atlas
+### Nine-Cylinder Radial Engine
 
-[![Seoul 3D Atlas — preview from the creator’s post](<https://pbs.twimg.com/amplify_video_thumb/2096557441312034816/img/v3Iur3rDygYBuOdR.jpg>)](<https://x.com/synabreu/status/2096557555086725159>)
+[![Nine-Cylinder Radial Engine — preview from the creator’s post](<https://pbs.twimg.com/amplify_video_thumb/2096576241038188545/img/OzGNyaFGGhg5OfrD.jpg>)](<https://x.com/techartist_/status/2096577974242033738>)
 
-Explore a miniature Seoul with landmark fly-throughs and day-to-night lighting.
+An interactive browser model that illustrates the mechanics of a radial engine.
 
-**Creator:** [synabreu](<https://x.com/synabreu>) · **Tools / format:** Three.js, OpenStreetMap
+**Creator:** [Techartist](<https://x.com/techartist_>) · **Tools / format:** Interactive model, Browser
 
-Astra helped build an interactive Three.js map from existing geographic data. Buildings are simplified and some heights are estimated; this is not a survey-grade reconstruction.
+The creator credits Astra for the code and shows the interaction in a video. No separate live URL was found in the collected post, so the original is the viewing destination.
 
-[Original post](<https://x.com/synabreu/status/2096557555086725159>) · [Live demo](<https://seoul-3d-atlas.synabreu.chatgpt.site/>) · [Visual gallery details](<https://magiccreator.ai/astra#seoul-atlas>)
+[Original post](<https://x.com/techartist_/status/2096577974242033738>) · [Visual gallery details](<https://magiccreator.ai/astra#radial-engine>)
+
+### Boeing 777 Landing Sim
+
+[![Boeing 777 Landing Sim — preview from the creator’s post](<https://pbs.twimg.com/amplify_video_thumb/2096943524281286656/img/5zywNFWnlxigq4FG.jpg>)](<https://x.com/LuminaBench/status/2096946420234207459>)
+
+A recorded aircraft landing simulator with a Boeing 777-300ER model and flight telemetry controls.
+
+**Creator:** [Lumina](<https://x.com/LuminaBench>) · **Tools / format:** 3D simulation, Aircraft, Flight telemetry
+
+The creator attributes the simulator to Astra Pro and claims it follows aircraft specifications. Flight physics, dimensions and landing-gear accuracy have not been independently validated. No live simulator URL was provided.
+
+[Original post](<https://x.com/LuminaBench/status/2096946420234207459>) · [Visual gallery details](<https://magiccreator.ai/astra#boeing-777-landing>)
 
 ### Asteria Spaceship Explorer
 
@@ -374,61 +410,11 @@ The creator says Astra and Blender helped build this work-in-progress product de
 
 [Original post](<https://x.com/ElieAsaade/status/2096946103350608154>) · [Visual gallery details](<https://magiccreator.ai/astra#adonis-restaurant>)
 
-### Three.js Interface Studies
-
-[![Three.js Interface Studies — preview from the creator’s post](<https://pbs.twimg.com/amplify_video_thumb/2096509525641805824/img/yNsuHCnwMB66M_qf.jpg>)](<https://x.com/MengTo/status/2096510126244999366>)
-
-Liquid-glass controls, procedural objects and motion-driven web interfaces.
-
-**Creator:** [Meng To](<https://x.com/MengTo>) · **Tools / format:** Three.js, UI design
-
-Meng To shares several interface experiments made with Astra and Three.js. This is a collection of visual studies in one source post, not a single released application.
-
-[Original post](<https://x.com/MengTo/status/2096510126244999366>) · [Visual gallery details](<https://magiccreator.ai/astra#threejs-interfaces>)
-
-### Boeing 777 Landing Sim
-
-[![Boeing 777 Landing Sim — preview from the creator’s post](<https://pbs.twimg.com/amplify_video_thumb/2096943524281286656/img/5zywNFWnlxigq4FG.jpg>)](<https://x.com/LuminaBench/status/2096946420234207459>)
-
-A recorded aircraft landing simulator with a Boeing 777-300ER model and flight telemetry controls.
-
-**Creator:** [Lumina](<https://x.com/LuminaBench>) · **Tools / format:** 3D simulation, Aircraft, Flight telemetry
-
-The creator attributes the simulator to Astra Pro and claims it follows aircraft specifications. Flight physics, dimensions and landing-gear accuracy have not been independently validated. No live simulator URL was provided.
-
-[Original post](<https://x.com/LuminaBench/status/2096946420234207459>) · [Visual gallery details](<https://magiccreator.ai/astra#boeing-777-landing>)
-
-### Nine-Cylinder Radial Engine
-
-[![Nine-Cylinder Radial Engine — preview from the creator’s post](<https://pbs.twimg.com/amplify_video_thumb/2096576241038188545/img/OzGNyaFGGhg5OfrD.jpg>)](<https://x.com/techartist_/status/2096577974242033738>)
-
-An interactive browser model that illustrates the mechanics of a radial engine.
-
-**Creator:** [Techartist](<https://x.com/techartist_>) · **Tools / format:** Interactive model, Browser
-
-The creator credits Astra for the code and shows the interaction in a video. No separate live URL was found in the collected post, so the original is the viewing destination.
-
-[Original post](<https://x.com/techartist_/status/2096577974242033738>) · [Visual gallery details](<https://magiccreator.ai/astra#radial-engine>)
-
 <a id="video"></a>
 
 ## GPT-6 Astra Video Creation Showcase
 
 Examples of Astra contributing to video workflows through code, scene construction or orchestration. Other rendering, image and audio tools are credited separately.
-
-### Manhattan City Flyover
-
-[![Manhattan City Flyover — preview from the creator’s post](<https://pbs.twimg.com/amplify_video_thumb/2095612637182922752/img/zw51jZqWxsQnYpA6.jpg>)](<https://x.com/Dimillian/status/2096478021234426059>)
-
-A cinematic flyover of a modeled Manhattan skyline with warm lighting and sweeping camera views.
-
-**Creator:** [Thomas Ricouard](<https://x.com/Dimillian>) · **Tools / format:** Cityscape, 3D animation, Camera motion
-
-The creator says Astra modeled the cityscape using topography and map data and produced the flyover video. Geographic accuracy and the underlying project have not been independently checked; the post does not name the renderer.
-
-**Disclosure:** Demo shared by a model-team member.
-
-[Original post](<https://x.com/Dimillian/status/2096478021234426059>) · [Visual gallery details](<https://magiccreator.ai/astra#manhattan-flyover>)
 
 ### A Listing Becomes a Film
 
@@ -468,18 +454,6 @@ The author describes a multi-tool build: Astra for code, Blender for scene recre
 
 [Original post](<https://x.com/MengTo/status/2096213835460084184>) · [Visual gallery details](<https://magiccreator.ai/astra#game-and-trailer>)
 
-### Astra Launch Motion Film
-
-[![Astra Launch Motion Film — preview from the creator’s post](<https://pbs.twimg.com/amplify_video_thumb/2096209195934838784/img/BQsIkf9d-zjmHrmR.jpg>)](<https://x.com/athrix_codes/status/2096209514248958161>)
-
-A reference-led motion-graphics launch video made with HyperFrames.
-
-**Creator:** [Athrix ☄️](<https://x.com/athrix_codes>) · **Tools / format:** HyperFrames, ElevenLabs
-
-The creator credits Astra and HyperFrames for the video workflow, with ElevenLabs for the voice and sound effects. It is a community-made launch film, not an official OpenAI announcement.
-
-[Original post](<https://x.com/athrix_codes/status/2096209514248958161>) · [Visual gallery details](<https://magiccreator.ai/astra#hyperframes-launch>)
-
 ### Blender to Seedance
 
 [![Blender to Seedance — preview from the creator’s post](<https://pbs.twimg.com/amplify_video_thumb/2096633140811051008/img/RQDWw_ICh3AU8pgG.jpg>)](<https://x.com/azed_ai/status/2096633164047565120>)
@@ -493,6 +467,32 @@ Astra codes the geometry; a Blender Clay Renderer plugin hands the scene to Drea
 **Disclosure:** Partner post.
 
 [Original post](<https://x.com/azed_ai/status/2096633164047565120>) · [Visual gallery details](<https://magiccreator.ai/astra#blender-to-seedance>)
+
+### Astra Launch Motion Film
+
+[![Astra Launch Motion Film — preview from the creator’s post](<https://pbs.twimg.com/amplify_video_thumb/2096209195934838784/img/BQsIkf9d-zjmHrmR.jpg>)](<https://x.com/athrix_codes/status/2096209514248958161>)
+
+A reference-led motion-graphics launch video made with HyperFrames.
+
+**Creator:** [Athrix ☄️](<https://x.com/athrix_codes>) · **Tools / format:** HyperFrames, ElevenLabs
+
+The creator credits Astra and HyperFrames for the video workflow, with ElevenLabs for the voice and sound effects. It is a community-made launch film, not an official OpenAI announcement.
+
+[Original post](<https://x.com/athrix_codes/status/2096209514248958161>) · [Visual gallery details](<https://magiccreator.ai/astra#hyperframes-launch>)
+
+### Manhattan City Flyover
+
+[![Manhattan City Flyover — preview from the creator’s post](<https://pbs.twimg.com/amplify_video_thumb/2095612637182922752/img/zw51jZqWxsQnYpA6.jpg>)](<https://x.com/Dimillian/status/2096478021234426059>)
+
+A cinematic flyover of a modeled Manhattan skyline with warm lighting and sweeping camera views.
+
+**Creator:** [Thomas Ricouard](<https://x.com/Dimillian>) · **Tools / format:** Cityscape, 3D animation, Camera motion
+
+The creator says Astra modeled the cityscape using topography and map data and produced the flyover video. Geographic accuracy and the underlying project have not been independently checked; the post does not name the renderer.
+
+**Disclosure:** Demo shared by a model-team member.
+
+[Original post](<https://x.com/Dimillian/status/2096478021234426059>) · [Visual gallery details](<https://magiccreator.ai/astra#manhattan-flyover>)
 
 <a id="art"></a>
 
