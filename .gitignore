@@ -1,0 +1,8 @@
+.DS_Store
+# Public repository contains presentation artifacts only.
+/data/
+/cases.json
+/scripts/
+/test/
+/tests/
+/node_modules/
