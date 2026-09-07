@@ -37,6 +37,8 @@ Browser games, combat prototypes and game-engine experiments. Live links are inc
 
 ### Universe Duel
 
+[![Universe Duel — preview from the creator’s post](<https://pbs.twimg.com/amplify_video_thumb/2096254500579540993/img/UXLhYa_-rokNMOgq.jpg>)](<https://x.com/hayashimon1/status/2096255665778069957>)
+
 A browser robot duel with dashes, homing attacks and laser-blade combat.
 
 **Creator:** [ハヤシモン｜AI × 個人開発](<https://x.com/hayashimon1>) · **Tools / format:** Browser game
@@ -46,6 +48,8 @@ The creator describes an iterative Astra build, refining the robot movements thr
 [Original post](<https://x.com/hayashimon1/status/2096255665778069957>) · [Live demo](<https://universe-duel.vercel.app>) · [Visual gallery details](<https://magiccreator.ai/astra/universe-duel>)
 
 ### Elderwood Realms
+
+[![Elderwood Realms — preview from the creator’s post](<https://pbs.twimg.com/amplify_video_thumb/2096743123301117952/img/W_anzk30lopccNnJ.jpg>)](<https://x.com/TheRohanVarma/status/2096744577332068549>)
 
 A RuneScape-inspired multiplayer browser world, with its own showcase trailer.
 
@@ -57,6 +61,8 @@ The author says Astra built and deployed the game and then created the promotion
 
 ### Rogue Arena Prototype
 
+[![Rogue Arena Prototype — preview from the creator’s post](<https://pbs.twimg.com/amplify_video_thumb/2096597402794774528/img/yl89COOiIwGFMkiE.jpg>)](<https://x.com/jumperz/status/2096600055301984738>)
+
 A small PvP-style arena that can be played solo or with a friend.
 
 **Creator:** [JUMPERZ](<https://x.com/jumperz>) · **Tools / format:** Blender, Multiplayer
@@ -67,6 +73,8 @@ The author describes an early Astra + Blender prototype made in about four hours
 
 ### A Godot Roguelike Level
 
+[![A Godot Roguelike Level — preview from the creator’s post](<https://pbs.twimg.com/amplify_video_thumb/2096494188548550656/img/uCmzr3Tx-OpNUE5c.jpg>)](<https://x.com/op7418/status/2096494840431386950>)
+
 A 3D combat level with changing weather, weapons, abilities and day-night cycles.
 
 **Creator:** [歸藏(guizang.ai)](<https://x.com/op7418>) · **Tools / format:** Godot, Blender
@@ -76,6 +84,8 @@ The creator credits Astra, Blender and Godot. This entry is a recorded level dem
 [Original post](<https://x.com/op7418/status/2096494840431386950>) · [Visual gallery details](<https://magiccreator.ai/astra/godot-roguelike>)
 
 ### Anti-Gravity Combat Racer
+
+[![Anti-Gravity Combat Racer — preview from the creator’s post](<https://pbs.twimg.com/amplify_video_thumb/2095966450385289216/img/u4EnBwNxU0h3lQgI.jpg>)](<https://x.com/superalesha/status/2095967568825582044>)
 
 A futuristic racing prototype with neon tracks and Blender-made vehicle models.
 
@@ -93,6 +103,8 @@ Blender models, image-to-scene experiments and interactive 3D worlds. This categ
 
 ### Verdant Forest
 
+[![Verdant Forest — preview from the creator’s post](<https://pbs.twimg.com/amplify_video_thumb/2096262956774490112/img/9UcY8pI6LuZ8v2c_.jpg>)](<https://x.com/LexnLin/status/2096263046918197609>)
+
 A walkable forest built in Three.js, with dense grass, ferns and custom lighting shaders.
 
 **Creator:** [Leon Lin](<https://x.com/LexnLin>) · **Tools / format:** Three.js, Custom shaders
@@ -102,6 +114,8 @@ Astra wrote the scene and custom shaders. The creator reports a five-hour build;
 [Original post](<https://x.com/LexnLin/status/2096263046918197609>) · [Live demo](<https://verdant-forest.lexn8.chatgpt.site>) · [Visual gallery details](<https://magiccreator.ai/astra/verdant-forest>)
 
 ### Steam Train in Blender
+
+[![Steam Train in Blender — preview from the creator’s post](<https://pbs.twimg.com/amplify_video_thumb/2095754646069354497/img/Pz6DsxqZ529t3QdE.jpg>)](<https://x.com/tomkrcha/status/2095756085890310311>)
 
 An old steam-train drawing reconstructed as a detailed, editable Blender model.
 
@@ -113,6 +127,8 @@ The creator reports 3,295 editable objects reconstructed from a reference drawin
 
 ### Holographic 3D Cards
 
+[![Holographic 3D Cards — preview from the creator’s post](<https://pbs.twimg.com/amplify_video_thumb/2096765283948187648/img/iCVFvP_KllH3WckA.jpg>)](<https://x.com/everettfish0408/status/2096765359282061544>)
+
 Portraits and illustrations become rotating cards with parallax and holographic highlights.
 
 **Creator:** [EverettFish](<https://x.com/everettfish0408>) · **Tools / format:** Blender, Image assets
@@ -123,6 +139,8 @@ The creator combines image preparation and Blender work in a reusable workflow. 
 
 ### Walk Through Van Gogh
 
+[![Walk Through Van Gogh — preview from the creator’s post](<https://pbs.twimg.com/amplify_video_thumb/2095776416302280708/img/IzfZe03VWW3gBzC6.jpg>)](<https://x.com/petergostev/status/2095776685807346105>)
+
 Six paintings reimagined as one walkable, painterly Three.js town.
 
 **Creator:** [Peter Gostev](<https://x.com/petergostev>) · **Tools / format:** Three.js, Interactive world
@@ -132,6 +150,8 @@ The creator attributes the scene to Astra Max and provides a hosted version. It 
 [Original post](<https://x.com/petergostev/status/2095776685807346105>) · [Live demo](<https://van-goghs-town.surge.sh/>) · [Visual gallery details](<https://magiccreator.ai/astra/van-gogh-town>)
 
 ### Street Scene from an Image
+
+[![Street Scene from an Image — preview from the creator’s post](<https://pbs.twimg.com/amplify_video_thumb/2096619986119016448/img/DnxNHOzY0HSwEHqW.jpg>)](<https://x.com/Yokohara_h/status/2096622171011666003>)
 
 A reference image becomes a Blender street scene, followed by a process breakdown.
 
@@ -149,6 +169,8 @@ Interface studies, browser visualizations and interactive web applications, with
 
 ### Seoul 3D Atlas
 
+[![Seoul 3D Atlas — preview from the creator’s post](<https://pbs.twimg.com/amplify_video_thumb/2096557441312034816/img/v3Iur3rDygYBuOdR.jpg>)](<https://x.com/synabreu/status/2096557555086725159>)
+
 Explore a miniature Seoul with landmark fly-throughs and day-to-night lighting.
 
 **Creator:** [synabreu](<https://x.com/synabreu>) · **Tools / format:** Three.js, OpenStreetMap
@@ -158,6 +180,8 @@ Astra helped build an interactive Three.js map from existing geographic data. Bu
 [Original post](<https://x.com/synabreu/status/2096557555086725159>) · [Live demo](<https://seoul-3d-atlas.synabreu.chatgpt.site/>) · [Visual gallery details](<https://magiccreator.ai/astra/seoul-atlas>)
 
 ### Three.js Interface Studies
+
+[![Three.js Interface Studies — preview from the creator’s post](<https://pbs.twimg.com/amplify_video_thumb/2096509525641805824/img/yNsuHCnwMB66M_qf.jpg>)](<https://x.com/MengTo/status/2096510126244999366>)
 
 Liquid-glass controls, procedural objects and motion-driven web interfaces.
 
@@ -169,6 +193,8 @@ Meng To shares several interface experiments made with Astra and Three.js. This 
 
 ### Nine-Cylinder Radial Engine
 
+[![Nine-Cylinder Radial Engine — preview from the creator’s post](<https://pbs.twimg.com/amplify_video_thumb/2096576241038188545/img/OzGNyaFGGhg5OfrD.jpg>)](<https://x.com/techartist_/status/2096577974242033738>)
+
 An interactive browser model that illustrates the mechanics of a radial engine.
 
 **Creator:** [Techartist](<https://x.com/techartist_>) · **Tools / format:** Interactive model, Browser
@@ -178,6 +204,8 @@ The creator credits Astra for the code and shows the interaction in a video. No 
 [Original post](<https://x.com/techartist_/status/2096577974242033738>) · [Visual gallery details](<https://magiccreator.ai/astra/radial-engine>)
 
 ### Interactive V8 Engine
+
+[![Interactive V8 Engine — preview from the creator’s post](<https://pbs.twimg.com/amplify_video_thumb/2096278610743304192/img/jZDskFFb29_SDdCk.jpg>)](<https://x.com/DilumSanjaya/status/2096280244663775423>)
 
 A detailed interactive engine visualization, demonstrated in a short video.
 
@@ -195,6 +223,8 @@ Examples of Astra contributing to video workflows through code, scene constructi
 
 ### Blender to Seedance
 
+[![Blender to Seedance — preview from the creator’s post](<https://pbs.twimg.com/amplify_video_thumb/2096633140811051008/img/RQDWw_ICh3AU8pgG.jpg>)](<https://x.com/azed_ai/status/2096633164047565120>)
+
 A geometry-first workflow that turns a Blender scene into a rendered video.
 
 **Creator:** [Amira Zairi](<https://x.com/azed_ai>) · **Tools / format:** Blender, Seedance 2.5
@@ -207,6 +237,8 @@ Astra codes the geometry; a Blender Clay Renderer plugin hands the scene to Drea
 
 ### A Listing Becomes a Film
 
+[![A Listing Becomes a Film — preview from the creator’s post](<https://pbs.twimg.com/amplify_video_thumb/2095611898968547328/img/EKCYWcJTBrAMT4e6.jpg>)](<https://x.com/realYunfanYe/status/2095612137582526615>)
+
 A house-listing photo set becomes a 3D house and a promotional video.
 
 **Creator:** [Yunfan Ye](<https://x.com/realYunfanYe>) · **Tools / format:** 3D reconstruction, Video
@@ -217,6 +249,8 @@ Astra is credited with reconstructing the house and creating the video from list
 
 ### Astra Launch Motion Film
 
+[![Astra Launch Motion Film — preview from the creator’s post](<https://pbs.twimg.com/amplify_video_thumb/2096209195934838784/img/BQsIkf9d-zjmHrmR.jpg>)](<https://x.com/athrix_codes/status/2096209514248958161>)
+
 A reference-led motion-graphics launch video made with HyperFrames.
 
 **Creator:** [Athrix ☄️](<https://x.com/athrix_codes>) · **Tools / format:** HyperFrames, ElevenLabs
@@ -226,6 +260,8 @@ The creator credits Astra and HyperFrames for the video workflow, with ElevenLab
 [Original post](<https://x.com/athrix_codes/status/2096209514248958161>) · [Visual gallery details](<https://magiccreator.ai/astra/hyperframes-launch>)
 
 ### From Game to Trailer
+
+[![From Game to Trailer — preview from the creator’s post](<https://pbs.twimg.com/amplify_video_thumb/2096211412188352512/img/O-XH2WuJE7Stlyzf.jpg>)](<https://x.com/MengTo/status/2096213835460084184>)
 
 A Three.js game is recreated in Blender scenes and turned into a trailer.
 
