@@ -11,7 +11,7 @@ GPT-6 Astraを使ったゲーム、Blender・3D、ウェブサイト、動画、
 >
 > 新しく見つけた作品を、元の出典や公開されている体験リンクとともに随時追加しています。リポジトリにスターを付けて保存し、また新しい作品を見に来てください。
 
-70件の事例 · 作者提供の体験リンク31件 · 最新の記録上の確認日：2026-09-08
+75件の事例 · 作者提供の体験リンク31件 · 最新の記録上の確認日：2026-09-08
 
 **[MagicCreatorのビジュアルギャラリーへ →](<https://magiccreator.ai/ja/astra>)** — プレビューを見て、分類で絞り込み、作者提供の体験リンクを探せます。
 
@@ -32,10 +32,10 @@ GPT-6 Astraを使ったゲーム、Blender・3D、ウェブサイト、動画、
 ## 目次
 
 - [GPT-6 Astraのゲームと体験デモ](#games) (24)
-- [GPT-6 AstraのBlender・3Dデモ](#blender) (10)
-- [GPT-6 Astraのウェブサイト・アプリ](#web) (21)
-- [GPT-6 Astraの動画制作事例](#video) (8)
-- [GPT-6 Astraのイラスト・ピクセルアート](#art) (4)
+- [GPT-6 AstraのBlender・3Dデモ](#blender) (11)
+- [GPT-6 Astraのウェブサイト・アプリ](#web) (22)
+- [GPT-6 Astraの動画制作事例](#video) (9)
+- [GPT-6 Astraのイラスト・ピクセルアート](#art) (6)
 - [GPT-6 Astraのその他の事例](#others) (3)
 - [作品を推薦する](#suggest-a-demo)
 
@@ -345,6 +345,18 @@ Peter Gostevは、このBlenderによる再現をAstraで制作したと説明�
 
 [元投稿](<https://x.com/tomkrcha/status/2095756085890310311>) · [ギャラリーの詳細](<https://magiccreator.ai/ja/astra#steam-train>)
 
+### Blender で再現した Rickroll
+
+[![Blender で再現した Rickroll — 作者の元投稿からのプレビュー](<https://pbs.twimg.com/amplify_video_thumb/2096612896734367744/img/gG87Jkr02i3dXWhn.jpg>)](<https://x.com/reach_vb/status/2096612996256579653>)
+
+Vaibhav Srivastav が公開した、参考動画と並べて比較できる Blender 製 Rickroll の再現。
+
+**作者:** [Vaibhav (VB) Srivastav](<https://x.com/reach_vb>) · **ツール・形式:** Blender, アニメーション, 動画比較
+
+作者は Astra の使用を明記し、Web 素材とサブエージェントによる出力確認を使って Rickroll を Blender で再現し、参考動画と並べるプロンプトを共有しています。投稿には58秒の動画があります。費用と制作時間は未検証で、編集可能なプロジェクトやコードへのリンクは確認できませんでした。
+
+[元投稿](<https://x.com/reach_vb/status/2096612996256579653>) · [ギャラリーの詳細](<https://magiccreator.ai/ja/astra#rickroll-blender-recreation>)
+
 ### BlenderからUnrealへ：住宅シーン
 
 [![BlenderからUnrealへ：住宅シーン — 作者の元投稿からのプレビュー](<https://pbs.twimg.com/amplify_video_thumb/2095596669320810496/img/W43WylmZrzBLZ-Ye.jpg>)](<https://x.com/Dimillian/status/2095596700815516004>)
@@ -494,6 +506,18 @@ Finderやアプリ画面を備えた、ブラウザー上のmacOSデスクトッ
 作者はAstraで制作し、75分の制作時間、クラウド同期、動作するアプリを報告しています。以前の確認ではページを読めましたが、ログイン、同期、アプリの機能は独立にテストしていません。
 
 [元投稿](<https://x.com/mweinbach/status/2095596867081916653>) · [体験する](<https://macos-27-simulator.mweinbach.chatgpt.site/>) · [ギャラリーの詳細](<https://magiccreator.ai/ja/astra#macos-27-simulator>)
+
+### Gameboy 風ポートフォリオ
+
+[![Gameboy 風ポートフォリオ — 作者の元投稿からのプレビュー](<https://pbs.twimg.com/amplify_video_thumb/2095964001633181696/img/k0L6hSx57bijWrds.jpg>)](<https://x.com/Angaisb_/status/2095964361105789424>)
+
+Gameboy を思わせる画面と操作ボタンを備えた、携帯ゲーム機型のポートフォリオサイト。
+
+**作者:** [Angel 🌼](<https://x.com/Angaisb_>) · **ツール・形式:** ポートフォリオ, レトロなインターフェース, Web デザイン
+
+作者は GPT-6 Astra でポートフォリオを制作したと述べ、録画を共有しています。プレビューには方向キーと操作説明を備えた携帯ゲーム機型の画面が表示されています。メディアは確認しましたが、実際の操作は独立にテストしていません。収集した投稿からはデモやソースコードへのリンクは確認できませんでした。
+
+[元投稿](<https://x.com/Angaisb_/status/2095964361105789424>) · [ギャラリーの詳細](<https://magiccreator.ai/ja/astra#gameboy-style-portfolio>)
 
 ### ソウル3Dアトラス
 
@@ -725,6 +749,18 @@ AstraがFinal Cutに撮影素材を取り込み、カラー調整とクリップ
 
 [元投稿](<https://x.com/davis7/status/2095742249275699415>) · [ギャラリーの詳細](<https://magiccreator.ai/ja/astra#final-cut-edit-preparation>)
 
+### T 細胞の教育動画
+
+[![T 細胞の教育動画 — 作者の元投稿からのプレビュー](<https://pbs.twimg.com/amplify_video_thumb/2095658785511452672/img/RLAFsFr9VU_3S6jt.jpg>)](<https://x.com/DeryaTR_/status/2095659170661904804>)
+
+Derya Unutmaz が、Remotion と Imagegen のビジュアルを使って Astra で制作した T 細胞の教育動画を公開。
+
+**作者:** [Derya Unutmaz, MD](<https://x.com/DeryaTR_>) · **ツール・形式:** Remotion, Imagegen, 教育動画
+
+作者は Astra、Remotion、Imagegen で台本作成と動画編集を行い、Astra がナレーション用に HeyGen を提案したと述べています。添付動画は約5分42秒です。動画制作の事例として紹介しており、医学的・科学的な正確性は独立に検証していません。医療上の助言ではありません。
+
+[元投稿](<https://x.com/DeryaTR_/status/2095659170661904804>) · [ギャラリーの詳細](<https://magiccreator.ai/ja/astra#t-cell-remotion-explainer>)
+
 ### ビキニタウンのファン映像
 
 [![ビキニタウンのファン映像 — 作者の元投稿からのプレビュー](<https://pbs.twimg.com/amplify_video_thumb/2096377710390239233/img/g6A2gGVGbxN-Fr1h.jpg>)](<https://x.com/groovestreetgen/status/2096377742916981247>)
@@ -832,6 +868,30 @@ Asepriteで制作した初音ミクのピクセルアート。制作過程の録
 作者はChatGPT Pro Astraが初音ミクを描いたと説明しています。投稿には作画ソフト名、再利用できるプロンプト、プロジェクトはありません。制作手順は独立に再現していません。
 
 [元投稿](<https://x.com/qibiz_me/status/2096000743786627103>) · [ギャラリーの詳細](<https://magiccreator.ai/ja/astra#hatsune-miku-drawing>)
+
+### Canva で描いた肖像画
+
+[![Canva で描いた肖像画 — 作者の元投稿からのプレビュー](<https://pbs.twimg.com/amplify_video_thumb/2095991877577359360/img/MpolDyw89ejSOXM2.jpg>)](<https://x.com/iam_zachi/status/2095992132620136677>)
+
+Zachi が GPT-6 Astra に自分を描くよう依頼し、Canva での肖像画制作の録画を公開。
+
+**作者:** [Zachi](<https://x.com/iam_zachi>) · **ツール・形式:** Canva, 肖像画, 描画
+
+作者は Canva での肖像画制作に GPT-6 Astra を使ったと述べ、録画を共有しています。投稿からは自動操作の具体的な構成は確認できず、編集可能な Canva ドキュメントも提供されていません。制作手順と結果は独立に再現していません。
+
+[元投稿](<https://x.com/iam_zachi/status/2095992132620136677>) · [ギャラリーの詳細](<https://magiccreator.ai/ja/astra#canva-portrait-drawing>)
+
+### PlayStation 4 コントローラーの SVG
+
+[![PlayStation 4 コントローラーの SVG — 作者の元投稿からのプレビュー](<https://pbs.twimg.com/media/HRZdIOuXwAsLsJZ.jpg>)](<https://x.com/MarsForTech/status/2095965250386284866>)
+
+MarsForTech が GPT-6 Astra Max で生成した SVG として、PlayStation 4 コントローラーのイラストを公開。
+
+**作者:** [MarsForTech](<https://x.com/MarsForTech>) · **ツール・形式:** SVG, PlayStation 4, イラスト
+
+作者は GPT-6 Astra Max を使い、入力画像なしで11分54秒かけてコントローラーの SVG を生成したと報告しています。投稿にはプレビュー画像がありますが、収集した資料では SVG ファイルは確認できませんでした。ベクター構造と所要時間は独立に検証していません。
+
+[元投稿](<https://x.com/MarsForTech/status/2095965250386284866>) · [ギャラリーの詳細](<https://magiccreator.ai/ja/astra#playstation-4-controller-svg>)
 
 ### Astraのポスターデザイン実験
 

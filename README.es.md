@@ -11,7 +11,7 @@ Una colección seleccionada de demos de GPT-6 Astra: juegos, Blender y 3D, webs,
 >
 > Añadimos nuevos descubrimientos con sus fuentes originales y los enlaces de demo disponibles. Dale una estrella a este repositorio para guardar la colección y volver a descubrir más.
 
-70 ejemplos · 31 enlaces de demo aportados por creadores · Última revisión registrada: 2026-09-08
+75 ejemplos · 31 enlaces de demo aportados por creadores · Última revisión registrada: 2026-09-08
 
 **[Explora la galería visual en MagicCreator →](<https://magiccreator.ai/es/astra>)** — Mira vistas previas, filtra por categoría y encuentra demos enlazadas por sus creadores.
 
@@ -32,10 +32,10 @@ La vista previa pertenece a su creador y enlaza la publicación original; este r
 ## Índice
 
 - [Juegos y demos jugables de GPT-6 Astra](#games) (24)
-- [Demos de Blender y 3D con GPT-6 Astra](#blender) (10)
-- [Webs y aplicaciones con GPT-6 Astra](#web) (21)
-- [Creación de vídeo con GPT-6 Astra](#video) (8)
-- [Dibujos y pixel art con GPT-6 Astra](#art) (4)
+- [Demos de Blender y 3D con GPT-6 Astra](#blender) (11)
+- [Webs y aplicaciones con GPT-6 Astra](#web) (22)
+- [Creación de vídeo con GPT-6 Astra](#video) (9)
+- [Dibujos y pixel art con GPT-6 Astra](#art) (6)
 - [Otras demos de GPT-6 Astra](#others) (3)
 - [Sugerir una demo](#suggest-a-demo)
 
@@ -345,6 +345,18 @@ El creador afirma haber reconstruido 3.295 objetos editables a partir de un dibu
 
 [Publicación original](<https://x.com/tomkrcha/status/2095756085890310311>) · [Detalles en la galería](<https://magiccreator.ai/es/astra#steam-train>)
 
+### Rickroll recreado en Blender
+
+[![Rickroll recreado en Blender — Vista previa de la publicación del creador](<https://pbs.twimg.com/amplify_video_thumb/2096612896734367744/img/gG87Jkr02i3dXWhn.jpg>)](<https://x.com/reach_vb/status/2096612996256579653>)
+
+Una recreación de Rickroll en Blender junto al vídeo de referencia, compartida por Vaibhav Srivastav.
+
+**Creador:** [Vaibhav (VB) Srivastav](<https://x.com/reach_vb>) · **Herramientas / formato:** Blender, Animación, Comparación de vídeos
+
+El creador atribuye el trabajo a Astra y comparte un prompt para recrear Rickroll en Blender junto a la referencia, con recursos web y subagentes que revisan el resultado. La publicación incluye un vídeo de 58 segundos. No se verificaron el coste ni el tiempo de producción; no se identificó un enlace al proyecto editable ni al código.
+
+[Publicación original](<https://x.com/reach_vb/status/2096612996256579653>) · [Detalles en la galería](<https://magiccreator.ai/es/astra#rickroll-blender-recreation>)
+
 ### Una casa de Blender a Unreal
 
 [![Una casa de Blender a Unreal — Vista previa de la publicación del creador](<https://pbs.twimg.com/amplify_video_thumb/2095596669320810496/img/W43WylmZrzBLZ-Ye.jpg>)](<https://x.com/Dimillian/status/2095596700815516004>)
@@ -494,6 +506,18 @@ Una simulación de escritorio macOS en el navegador, con Finder e interfaces de 
 El creador atribuye el simulador a Astra e indica 75 minutos de desarrollo, sincronización en la nube y apps funcionales. La página era legible en una revisión anterior; no se han probado el acceso, la sincronización ni las funciones de las apps.
 
 [Publicación original](<https://x.com/mweinbach/status/2095596867081916653>) · [Probar demo](<https://macos-27-simulator.mweinbach.chatgpt.site/>) · [Detalles en la galería](<https://magiccreator.ai/es/astra#macos-27-simulator>)
+
+### Portfolio al estilo Gameboy
+
+[![Portfolio al estilo Gameboy — Vista previa de la publicación del creador](<https://pbs.twimg.com/amplify_video_thumb/2095964001633181696/img/k0L6hSx57bijWrds.jpg>)](<https://x.com/Angaisb_/status/2095964361105789424>)
+
+Una web de portfolio organizada en torno a una consola portátil, con pantalla y controles inspirados en Gameboy.
+
+**Creador:** [Angel 🌼](<https://x.com/Angaisb_>) · **Herramientas / formato:** Portfolio, Interfaz retro, Diseño web
+
+El creador atribuye el portfolio a GPT-6 Astra y comparte una grabación. La vista previa muestra una consola portátil con controles direccionales e instrucciones de navegación. Se revisó el material visual, pero no se probaron las interacciones en vivo de forma independiente; no se identificó un enlace a una demo o al código en la publicación recopilada.
+
+[Publicación original](<https://x.com/Angaisb_/status/2095964361105789424>) · [Detalles en la galería](<https://magiccreator.ai/es/astra#gameboy-style-portfolio>)
 
 ### Atlas 3D de Seúl
 
@@ -725,6 +749,18 @@ El creador muestra su reacción en directo a Astra preparando material en Final 
 
 [Publicación original](<https://x.com/davis7/status/2095742249275699415>) · [Detalles en la galería](<https://magiccreator.ai/es/astra#final-cut-edit-preparation>)
 
+### Vídeo educativo sobre células T
+
+[![Vídeo educativo sobre células T — Vista previa de la publicación del creador](<https://pbs.twimg.com/amplify_video_thumb/2095658785511452672/img/RLAFsFr9VU_3S6jt.jpg>)](<https://x.com/DeryaTR_/status/2095659170661904804>)
+
+Derya Unutmaz comparte un vídeo educativo sobre células T creado con Astra, Remotion e imágenes de Imagegen.
+
+**Creador:** [Derya Unutmaz, MD](<https://x.com/DeryaTR_>) · **Herramientas / formato:** Remotion, Imagegen, Vídeo educativo
+
+El creador afirma que Astra escribió y montó el vídeo con Remotion e Imagegen, y propuso HeyGen para la narración. El vídeo adjunto dura unos 5 minutos y 42 segundos. Se presenta como ejemplo de producción audiovisual: no se ha verificado de forma independiente su precisión médica y científica, y no constituye asesoramiento médico.
+
+[Publicación original](<https://x.com/DeryaTR_/status/2095659170661904804>) · [Detalles en la galería](<https://magiccreator.ai/es/astra#t-cell-remotion-explainer>)
+
 ### Película fan de Fondo de Bikini
 
 [![Película fan de Fondo de Bikini — Vista previa de la publicación del creador](<https://pbs.twimg.com/amplify_video_thumb/2096377710390239233/img/g6A2gGVGbxN-Fr1h.jpg>)](<https://x.com/groovestreetgen/status/2096377742916981247>)
@@ -832,6 +868,30 @@ Un dibujo de Hatsune Miku compartido junto con una grabación del resultado.
 El creador dice que ChatGPT Pro Astra dibujó a Hatsune Miku. No identifica el programa de dibujo ni ofrece un prompt reutilizable o un proyecto. El proceso no se ha reproducido de forma independiente.
 
 [Publicación original](<https://x.com/qibiz_me/status/2096000743786627103>) · [Detalles en la galería](<https://magiccreator.ai/es/astra#hatsune-miku-drawing>)
+
+### Retrato dibujado en Canva
+
+[![Retrato dibujado en Canva — Vista previa de la publicación del creador](<https://pbs.twimg.com/amplify_video_thumb/2095991877577359360/img/MpolDyw89ejSOXM2.jpg>)](<https://x.com/iam_zachi/status/2095992132620136677>)
+
+Zachi comparte una grabación de un retrato dibujado en Canva tras pedir a GPT-6 Astra que lo dibujara.
+
+**Creador:** [Zachi](<https://x.com/iam_zachi>) · **Herramientas / formato:** Canva, Retrato, Dibujo
+
+El creador atribuye a GPT-6 Astra el dibujo de su retrato en Canva y comparte una grabación. La publicación no confirma la configuración exacta de automatización ni aporta un documento editable de Canva. El proceso y el resultado no se han reproducido de forma independiente.
+
+[Publicación original](<https://x.com/iam_zachi/status/2095992132620136677>) · [Detalles en la galería](<https://magiccreator.ai/es/astra#canva-portrait-drawing>)
+
+### Mando de PlayStation 4 en SVG
+
+[![Mando de PlayStation 4 en SVG — Vista previa de la publicación del creador](<https://pbs.twimg.com/media/HRZdIOuXwAsLsJZ.jpg>)](<https://x.com/MarsForTech/status/2095965250386284866>)
+
+MarsForTech comparte una ilustración de un mando de PlayStation 4 presentada como un SVG generado con GPT-6 Astra Max.
+
+**Creador:** [MarsForTech](<https://x.com/MarsForTech>) · **Herramientas / formato:** SVG, PlayStation 4, Ilustración
+
+El creador afirma haber generado el SVG del mando con GPT-6 Astra Max sin imagen de entrada en 11 minutos y 54 segundos. La publicación ofrece una vista previa, pero no se identificó un archivo SVG entre las pruebas recopiladas. La estructura vectorial y el tiempo indicado no se han verificado de forma independiente.
+
+[Publicación original](<https://x.com/MarsForTech/status/2095965250386284866>) · [Detalles en la galería](<https://magiccreator.ai/es/astra#playstation-4-controller-svg>)
 
 ### Estudios de carteles con Astra
 

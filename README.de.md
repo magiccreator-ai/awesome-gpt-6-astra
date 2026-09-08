@@ -11,7 +11,7 @@ Eine kuratierte Sammlung von GPT-6 Astra Demos: Spiele, Blender und 3D, Websites
 >
 > Wir ergänzen regelmäßig neue Entdeckungen mit Originalquellen und verfügbaren Demo-Links. Gib diesem Repository einen Stern, um die Sammlung zu speichern und später Neues zu entdecken.
 
-70 Beispiele · 31 Live-Links von Urhebern · Zuletzt dokumentierte Prüfung: 2026-09-08
+75 Beispiele · 31 Live-Links von Urhebern · Zuletzt dokumentierte Prüfung: 2026-09-08
 
 **[Zur visuellen Galerie auf MagicCreator →](<https://magiccreator.ai/de/astra>)** — Vorschauen ansehen, nach Kategorie filtern und Live-Demos der Urheber finden.
 
@@ -32,10 +32,10 @@ Die Vorschau gehört dem Urheber und verlinkt den Originalbeitrag; dieses Reposi
 ## Inhalt
 
 - [GPT-6 Astra Spiele und spielbare Demos](#games) (24)
-- [GPT-6 Astra Blender- und 3D-Demos](#blender) (10)
-- [GPT-6 Astra Websites und Web-Apps](#web) (21)
-- [GPT-6 Astra Beispiele zur Videoerstellung](#video) (8)
-- [GPT-6 Astra Zeichnungen und Pixel-Art](#art) (4)
+- [GPT-6 Astra Blender- und 3D-Demos](#blender) (11)
+- [GPT-6 Astra Websites und Web-Apps](#web) (22)
+- [GPT-6 Astra Beispiele zur Videoerstellung](#video) (9)
+- [GPT-6 Astra Zeichnungen und Pixel-Art](#art) (6)
 - [Weitere GPT-6 Astra Demos](#others) (3)
 - [Eine Demo vorschlagen](#suggest-a-demo)
 
@@ -345,6 +345,18 @@ Der Urheber berichtet von 3.295 bearbeitbaren Objekten, die anhand einer Referen
 
 [Originalbeitrag](<https://x.com/tomkrcha/status/2095756085890310311>) · [Details in der Galerie](<https://magiccreator.ai/de/astra#steam-train>)
 
+### Rickroll in Blender nachgebaut
+
+[![Rickroll in Blender nachgebaut — Vorschau aus dem Originalbeitrag](<https://pbs.twimg.com/amplify_video_thumb/2096612896734367744/img/gG87Jkr02i3dXWhn.jpg>)](<https://x.com/reach_vb/status/2096612996256579653>)
+
+Eine von Vaibhav Srivastav geteilte Blender-Nachbildung von Rickroll im direkten Vergleich mit dem Referenzvideo.
+
+**Urheber:** [Vaibhav (VB) Srivastav](<https://x.com/reach_vb>) · **Werkzeuge / Format:** Blender, Animation, Videovergleich
+
+Der Ersteller nennt Astra und teilt einen Prompt, der Rickroll in Blender neben der Vorlage nachbilden soll, mit Web-Assets und Subagenten zur Ergebniskontrolle. Der Beitrag enthält ein 58-sekündiges Video. Kosten und Produktionszeit sind nicht verifiziert; ein bearbeitbares Projekt oder Code wurde nicht verlinkt gefunden.
+
+[Originalbeitrag](<https://x.com/reach_vb/status/2096612996256579653>) · [Details in der Galerie](<https://magiccreator.ai/de/astra#rickroll-blender-recreation>)
+
 ### Ein Haus von Blender zu Unreal
 
 [![Ein Haus von Blender zu Unreal — Vorschau aus dem Originalbeitrag](<https://pbs.twimg.com/amplify_video_thumb/2095596669320810496/img/W43WylmZrzBLZ-Ye.jpg>)](<https://x.com/Dimillian/status/2095596700815516004>)
@@ -494,6 +506,18 @@ Eine macOS-Desktop-Simulation im Browser mit Finder und App-Oberflächen.
 Der Urheber schreibt den Simulator Astra zu und nennt 75 Minuten Bauzeit, Cloud-Synchronisierung und funktionierende Apps. Die Seite war bei einer früheren Prüfung lesbar; Anmeldung, Synchronisierung und Apps wurden nicht unabhängig getestet.
 
 [Originalbeitrag](<https://x.com/mweinbach/status/2095596867081916653>) · [Live-Demo](<https://macos-27-simulator.mweinbach.chatgpt.site/>) · [Details in der Galerie](<https://magiccreator.ai/de/astra#macos-27-simulator>)
+
+### Portfolio im Gameboy-Stil
+
+[![Portfolio im Gameboy-Stil — Vorschau aus dem Originalbeitrag](<https://pbs.twimg.com/amplify_video_thumb/2095964001633181696/img/k0L6hSx57bijWrds.jpg>)](<https://x.com/Angaisb_/status/2095964361105789424>)
+
+Eine Portfolio-Website rund um eine Handheld-Konsole mit einem von Gameboy inspirierten Bildschirm und Bedienelementen.
+
+**Urheber:** [Angel 🌼](<https://x.com/Angaisb_>) · **Werkzeuge / Format:** Portfolio, Retro-Oberfläche, Webdesign
+
+Der Ersteller schreibt das Portfolio GPT-6 Astra zu und teilt eine Aufnahme. Die Vorschau zeigt eine Handheld-Konsole mit Steuerkreuz und Navigationshinweisen. Das Bildmaterial wurde geprüft, die Live-Interaktionen jedoch nicht unabhängig getestet. Im erfassten Beitrag wurde kein Demo- oder Quellcode-Link gefunden.
+
+[Originalbeitrag](<https://x.com/Angaisb_/status/2095964361105789424>) · [Details in der Galerie](<https://magiccreator.ai/de/astra#gameboy-style-portfolio>)
 
 ### Seoul 3D Atlas
 
@@ -725,6 +749,18 @@ Der Urheber zeigt seine Live-Reaktion auf Astras Vorbereitung von Aufnahmen in F
 
 [Originalbeitrag](<https://x.com/davis7/status/2095742249275699415>) · [Details in der Galerie](<https://magiccreator.ai/de/astra#final-cut-edit-preparation>)
 
+### Lehrvideo über T-Zellen
+
+[![Lehrvideo über T-Zellen — Vorschau aus dem Originalbeitrag](<https://pbs.twimg.com/amplify_video_thumb/2095658785511452672/img/RLAFsFr9VU_3S6jt.jpg>)](<https://x.com/DeryaTR_/status/2095659170661904804>)
+
+Derya Unutmaz zeigt ein mit Astra erstelltes Lehrvideo über T-Zellen mit Remotion und Bildern aus Imagegen.
+
+**Urheber:** [Derya Unutmaz, MD](<https://x.com/DeryaTR_>) · **Werkzeuge / Format:** Remotion, Imagegen, Lehrvideo
+
+Laut Ersteller schrieb und montierte Astra das Video mit Remotion und Imagegen und schlug HeyGen für die Vertonung vor. Das angehängte Video dauert etwa 5 Minuten und 42 Sekunden. Gezeigt wird ein Beispiel für Videoproduktion: Die medizinische und wissenschaftliche Genauigkeit wurde nicht unabhängig geprüft; es handelt sich nicht um medizinischen Rat.
+
+[Originalbeitrag](<https://x.com/DeryaTR_/status/2095659170661904804>) · [Details in der Galerie](<https://magiccreator.ai/de/astra#t-cell-remotion-explainer>)
+
 ### Bikini-Bottom-Fanfilm
 
 [![Bikini-Bottom-Fanfilm — Vorschau aus dem Originalbeitrag](<https://pbs.twimg.com/amplify_video_thumb/2096377710390239233/img/g6A2gGVGbxN-Fr1h.jpg>)](<https://x.com/groovestreetgen/status/2096377742916981247>)
@@ -832,6 +868,30 @@ Eine Zeichnung von Hatsune Miku, veröffentlicht mit einer Aufzeichnung des Erge
 Der Urheber berichtet, ChatGPT Pro Astra habe Hatsune Miku gezeichnet. Der Beitrag nennt keine Zeichensoftware und liefert weder einen wiederverwendbaren Prompt noch ein Projekt. Der Ablauf wurde nicht unabhängig reproduziert.
 
 [Originalbeitrag](<https://x.com/qibiz_me/status/2096000743786627103>) · [Details in der Galerie](<https://magiccreator.ai/de/astra#hatsune-miku-drawing>)
+
+### Porträtzeichnung in Canva
+
+[![Porträtzeichnung in Canva — Vorschau aus dem Originalbeitrag](<https://pbs.twimg.com/amplify_video_thumb/2095991877577359360/img/MpolDyw89ejSOXM2.jpg>)](<https://x.com/iam_zachi/status/2095992132620136677>)
+
+Zachi zeigt eine Aufnahme eines in Canva gezeichneten Porträts, nachdem er GPT-6 Astra gebeten hatte, ihn zu zeichnen.
+
+**Urheber:** [Zachi](<https://x.com/iam_zachi>) · **Werkzeuge / Format:** Canva, Porträt, Zeichnung
+
+Der Ersteller schreibt die Porträtzeichnung in Canva GPT-6 Astra zu und teilt eine Aufnahme. Der Beitrag belegt weder die genaue Automatisierung noch enthält er ein bearbeitbares Canva-Dokument. Ablauf und Ergebnis wurden nicht unabhängig reproduziert.
+
+[Originalbeitrag](<https://x.com/iam_zachi/status/2095992132620136677>) · [Details in der Galerie](<https://magiccreator.ai/de/astra#canva-portrait-drawing>)
+
+### PlayStation-4-Controller als SVG
+
+[![PlayStation-4-Controller als SVG — Vorschau aus dem Originalbeitrag](<https://pbs.twimg.com/media/HRZdIOuXwAsLsJZ.jpg>)](<https://x.com/MarsForTech/status/2095965250386284866>)
+
+MarsForTech zeigt eine Illustration eines PlayStation-4-Controllers als mit GPT-6 Astra Max erzeugte SVG.
+
+**Urheber:** [MarsForTech](<https://x.com/MarsForTech>) · **Werkzeuge / Format:** SVG, PlayStation 4, Illustration
+
+Laut Ersteller entstand die Controller-SVG mit GPT-6 Astra Max ohne Eingabebild in 11 Minuten und 54 Sekunden. Der Beitrag enthält ein Vorschaubild; eine SVG-Datei wurde in den gesammelten Belegen nicht gefunden. Vektoraufbau und Zeitangabe wurden nicht unabhängig geprüft.
+
+[Originalbeitrag](<https://x.com/MarsForTech/status/2095965250386284866>) · [Details in der Galerie](<https://magiccreator.ai/de/astra#playstation-4-controller-svg>)
 
 ### Astra-Posterentwürfe
 
