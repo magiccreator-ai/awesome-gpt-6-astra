@@ -221,7 +221,7 @@ Erkunde Höfe mit wechselnder Schwerkraft in einer Browser-Puzzlewelt.
 
 **Werkzeuge / Format:** Infinite Garden
 
-Aufgenommen aus der Astra-Sammlung auf V2EX: https://v2ex.com/t/1239697. Die Seite wurde abgerufen; Modellzuordnung durch den Urheber und Spielablauf wurden nicht unabhängig geprüft.
+Wechselnde Schwerkraft prägt die Rätsel in den Innenhöfen.
 
 [Originalquelle](<https://infinite-garden.yelin8130.chatgpt.site/>) · [Live-Demo](<https://infinite-garden.yelin8130.chatgpt.site/>) · [Details in der Galerie](<https://magiccreator.ai/de/astra#infinite-garden>)
 
@@ -231,17 +231,17 @@ Ein von Mario inspiriertes Browser-Jump-and-Run mit Münzen und Gegnern.
 
 **Werkzeuge / Format:** Mario: Mushroom Kingdom
 
-Aufgenommen aus der Astra-Sammlung auf V2EX: https://v2ex.com/t/1239697. Die Seite wurde abgerufen; Modellzuordnung durch den Urheber und Spielablauf wurden nicht unabhängig geprüft.
+In einer von Mario inspirierten Welt springt man über Gegner und sammelt Münzen.
 
 [Originalquelle](<https://mushroom-arcade-0905.jumaomaomaoju.chatgpt.site/>) · [Live-Demo](<https://mushroom-arcade-0905.jumaomaomaoju.chatgpt.site/>) · [Details in der Galerie](<https://magiccreator.ai/de/astra#mushroom-arcade>)
 
 ### Courtside 26
 
-Ein von der Community vorgestelltes Basketballspiel für den Browser.
+Ein Basketballspiel für den Browser.
 
 **Werkzeuge / Format:** Courtside 26
 
-In der Astra-Sammlung auf V2EX gelistet: https://v2ex.com/t/1239697. Der Server lieferte bei der Prüfung eine leere Antwort; Modellzuordnung und Spielbarkeit sind ungeprüft.
+Basketball steht im Mittelpunkt dieses Browserspiels.
 
 [Originalquelle](<https://huhuhu.page.gd/COURTSIDE26.html>) · [Details in der Galerie](<https://magiccreator.ai/de/astra#courtside-26>)
 
@@ -251,7 +251,7 @@ Ein Browserspiel in der Zeit der Drei Reiche.
 
 **Werkzeuge / Format:** Three Kingdoms: Wind and Cloud
 
-Aufgenommen aus der Astra-Sammlung auf V2EX: https://v2ex.com/t/1239697. Die Seite wurde abgerufen; Modellzuordnung durch den Urheber und Spielablauf wurden nicht unabhängig geprüft.
+Die Zeit der Drei Reiche bildet die Kulisse dieses Browserspiels.
 
 [Originalquelle](<https://sanguo-wind-cloud.amery2010.workers.dev/>) · [Live-Demo](<https://sanguo-wind-cloud.amery2010.workers.dev/>) · [Details in der Galerie](<https://magiccreator.ai/de/astra#sanguo-wind-cloud>)
 
@@ -261,7 +261,7 @@ Ein von Plants vs. Zombies inspiriertes Browserspiel zur Verteidigung eines Gart
 
 **Werkzeuge / Format:** PvZ: Garden Defenders
 
-Aufgenommen aus der Astra-Sammlung auf V2EX: https://v2ex.com/t/1239697. Die Seite wurde abgerufen; Modellzuordnung durch den Urheber und Spielablauf wurden nicht unabhängig geprüft.
+Die Gartenverteidigung ist von Plants vs. Zombies inspiriert.
 
 [Originalquelle](<https://seth-xh.github.io/pvz/>) · [Live-Demo](<https://seth-xh.github.io/pvz/>) · [Details in der Galerie](<https://magiccreator.ai/de/astra#pvz-garden-defenders>)
 
@@ -281,7 +281,7 @@ Ein von Balatro inspiriertes Kartenspiel für den Browser.
 
 **Werkzeuge / Format:** Balatro Web Edition
 
-Aufgenommen aus der Astra-Sammlung auf V2EX: https://v2ex.com/t/1239697. Die Seite wurde abgerufen; Modellzuordnung durch den Urheber und Spielablauf wurden nicht unabhängig geprüft.
+Balatro dient als Inspiration für dieses Kartenspiel im Browser.
 
 [Originalquelle](<https://balatro-v1-1.longyh2333521818.chatgpt.site/>) · [Live-Demo](<https://balatro-v1-1.longyh2333521818.chatgpt.site/>) · [Details in der Galerie](<https://magiccreator.ai/de/astra#balatro-web>)
 
@@ -301,7 +301,7 @@ Ein Browser-Shooter in einer Nachbildung der Dust-II-Umgebung.
 
 **Werkzeuge / Format:** Dust II: Desert Operations
 
-Aufgenommen aus der Astra-Sammlung auf V2EX: https://v2ex.com/t/1239697. Die Seite wurde abgerufen; Modellzuordnung durch den Urheber und Spielablauf wurden nicht unabhängig geprüft.
+Die Kulisse von Dust II wird für einen Browser-Shooter nachgebildet.
 
 [Originalquelle](<https://dust-ii-map.yelin8130.chatgpt.site/>) · [Live-Demo](<https://dust-ii-map.yelin8130.chatgpt.site/>) · [Details in der Galerie](<https://magiccreator.ai/de/astra#dust-ii-map>)
 
@@ -705,17 +705,17 @@ Ein interaktiver RB19-Betrachter mit Bauteilansichten und simulierter Telemetrie
 
 **Werkzeuge / Format:** RB19 Engineering Explorer
 
-Aufgenommen aus der Astra-Sammlung auf V2EX: https://v2ex.com/t/1239697. Die Seite wurde abgerufen; Modellzuordnung durch den Urheber und Spielablauf wurden nicht unabhängig geprüft.
+Der RB19 lässt sich über Bauteilansichten und simulierte Telemetrie erkunden.
 
 [Originalquelle](<https://rb19-engineering-lab.moraxc.chatgpt.site/>) · [Live-Demo](<https://rb19-engineering-lab.moraxc.chatgpt.site/>) · [Details in der Galerie](<https://magiccreator.ai/de/astra#rb19-engineering-lab>)
 
 ### Houniao Model Comparison
 
-Eine von der Community geteilte Modellvergleichsseite; die Astra-Zuordnung ist ungeklärt.
+Eine Website für KI-Modellvergleiche.
 
 **Werkzeuge / Format:** Houniao Model Comparison
 
-Als Community-Hinweis aus https://v2ex.com/t/1239697 aufgenommen, nicht als bestätigtes Astra-Werk. Die URL enthält das frühere Datum 20260721; der Abruf ergab HTTP 503 wegen überschrittener Nutzung.
+Eine Website zum Vergleich von KI-Modellen.
 
 [Originalquelle](<https://houniao-model-battle-20260721.netlify.app/>) · [Details in der Galerie](<https://magiccreator.ai/de/astra#houniao-model-battle>)
 

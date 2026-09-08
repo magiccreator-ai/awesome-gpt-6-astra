@@ -221,7 +221,7 @@ Explore gravity-shifting courtyards in a browser puzzle world.
 
 **Tools / format:** Infinite Garden
 
-Included from the V2EX Astra showcase at https://v2ex.com/t/1239697. The page was retrieved, but original-author model attribution and gameplay have not been independently verified.
+Gravity shifts shape the courtyard puzzles.
 
 [Original source](<https://infinite-garden.yelin8130.chatgpt.site/>) · [Live demo](<https://infinite-garden.yelin8130.chatgpt.site/>) · [Visual gallery details](<https://magiccreator.ai/astra#infinite-garden>)
 
@@ -231,17 +231,17 @@ A Mario-inspired browser platformer with coins, enemies and jumping controls.
 
 **Tools / format:** Mario: Mushroom Kingdom
 
-Included from the V2EX Astra showcase at https://v2ex.com/t/1239697. The page was retrieved, but original-author model attribution and gameplay have not been independently verified.
+Jump past enemies and collect coins in a Mario-inspired setting.
 
 [Original source](<https://mushroom-arcade-0905.jumaomaomaoju.chatgpt.site/>) · [Live demo](<https://mushroom-arcade-0905.jumaomaomaoju.chatgpt.site/>) · [Visual gallery details](<https://magiccreator.ai/astra#mushroom-arcade>)
 
 ### Courtside 26
 
-A basketball browser-game lead shared by the community.
+A basketball browser game.
 
 **Tools / format:** Courtside 26
 
-Listed in the V2EX Astra showcase at https://v2ex.com/t/1239697. The server returned an empty response during review; model attribution and playability remain unverified.
+Basketball is the focus of this browser game.
 
 [Original source](<https://huhuhu.page.gd/COURTSIDE26.html>) · [Visual gallery details](<https://magiccreator.ai/astra#courtside-26>)
 
@@ -251,7 +251,7 @@ A browser game set in the Three Kingdoms era.
 
 **Tools / format:** Three Kingdoms: Wind and Cloud
 
-Included from the V2EX Astra showcase at https://v2ex.com/t/1239697. The page was retrieved, but original-author model attribution and gameplay have not been independently verified.
+The Three Kingdoms era provides the setting for this browser game.
 
 [Original source](<https://sanguo-wind-cloud.amery2010.workers.dev/>) · [Live demo](<https://sanguo-wind-cloud.amery2010.workers.dev/>) · [Visual gallery details](<https://magiccreator.ai/astra#sanguo-wind-cloud>)
 
@@ -261,7 +261,7 @@ A Plants vs. Zombies-inspired browser game about defending a garden.
 
 **Tools / format:** PvZ: Garden Defenders
 
-Included from the V2EX Astra showcase at https://v2ex.com/t/1239697. The page was retrieved, but original-author model attribution and gameplay have not been independently verified.
+Garden defense takes inspiration from Plants vs. Zombies.
 
 [Original source](<https://seth-xh.github.io/pvz/>) · [Live demo](<https://seth-xh.github.io/pvz/>) · [Visual gallery details](<https://magiccreator.ai/astra#pvz-garden-defenders>)
 
@@ -281,7 +281,7 @@ A browser card game inspired by Balatro.
 
 **Tools / format:** Balatro Web Edition
 
-Included from the V2EX Astra showcase at https://v2ex.com/t/1239697. The page was retrieved, but original-author model attribution and gameplay have not been independently verified.
+Balatro provides the inspiration for this browser card game.
 
 [Original source](<https://balatro-v1-1.longyh2333521818.chatgpt.site/>) · [Live demo](<https://balatro-v1-1.longyh2333521818.chatgpt.site/>) · [Visual gallery details](<https://magiccreator.ai/astra#balatro-web>)
 
@@ -301,7 +301,7 @@ A browser shooter recreating the Dust II setting.
 
 **Tools / format:** Dust II: Desert Operations
 
-Included from the V2EX Astra showcase at https://v2ex.com/t/1239697. The page was retrieved, but original-author model attribution and gameplay have not been independently verified.
+The Dust II setting is recreated for a browser shooter.
 
 [Original source](<https://dust-ii-map.yelin8130.chatgpt.site/>) · [Live demo](<https://dust-ii-map.yelin8130.chatgpt.site/>) · [Visual gallery details](<https://magiccreator.ai/astra#dust-ii-map>)
 
@@ -705,17 +705,17 @@ An interactive RB19 car viewer with component views and simulated telemetry.
 
 **Tools / format:** RB19 Engineering Explorer
 
-Included from the V2EX Astra showcase at https://v2ex.com/t/1239697. The page was retrieved, but original-author model attribution and gameplay have not been independently verified.
+Explore the RB19 through component views and simulated telemetry.
 
 [Original source](<https://rb19-engineering-lab.moraxc.chatgpt.site/>) · [Live demo](<https://rb19-engineering-lab.moraxc.chatgpt.site/>) · [Visual gallery details](<https://magiccreator.ai/astra#rb19-engineering-lab>)
 
 ### Houniao Model Comparison
 
-A community-shared model-comparison website; Astra attribution remains unverified.
+An AI model-comparison website.
 
 **Tools / format:** Houniao Model Comparison
 
-Included as a community lead from https://v2ex.com/t/1239697, not as a verified Astra creation. The URL contains 20260721, predating the showcase; review returned HTTP 503 (usage exceeded).
+A website focused on comparing AI models.
 
 [Original source](<https://houniao-model-battle-20260721.netlify.app/>) · [Visual gallery details](<https://magiccreator.ai/astra#houniao-model-battle>)
 

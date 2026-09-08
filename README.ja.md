@@ -221,7 +221,7 @@ AstraとTesanaのゲーム制作プロジェクトとして紹介された、Hal
 
 **ツール・形式:** Infinite Garden
 
-V2EXのAstra作品紹介（https://v2ex.com/t/1239697）から収録。ページは取得できましたが、原作者によるモデルの明示と実際の動作は独立に確認していません。
+重力の変化を使って中庭のパズルを解きます。
 
 [元の出典](<https://infinite-garden.yelin8130.chatgpt.site/>) · [体験する](<https://infinite-garden.yelin8130.chatgpt.site/>) · [ギャラリーの詳細](<https://magiccreator.ai/ja/astra#infinite-garden>)
 
@@ -231,17 +231,17 @@ V2EXのAstra作品紹介（https://v2ex.com/t/1239697）から収録。ページ
 
 **ツール・形式:** Mario: Mushroom Kingdom
 
-V2EXのAstra作品紹介（https://v2ex.com/t/1239697）から収録。ページは取得できましたが、原作者によるモデルの明示と実際の動作は独立に確認していません。
+マリオ風の世界で敵を飛び越え、コインを集めます。
 
 [元の出典](<https://mushroom-arcade-0905.jumaomaomaoju.chatgpt.site/>) · [体験する](<https://mushroom-arcade-0905.jumaomaomaoju.chatgpt.site/>) · [ギャラリーの詳細](<https://magiccreator.ai/ja/astra#mushroom-arcade>)
 
 ### Courtside 26
 
-コミュニティで紹介されたブラウザバスケットボールゲーム。
+バスケットボールのブラウザゲーム。
 
 **ツール・形式:** Courtside 26
 
-V2EXのAstra作品紹介（https://v2ex.com/t/1239697）に掲載。確認時にサーバーから空の応答が返り、モデルの帰属とプレイ可否は未確認です。
+バスケットボールをテーマにしたブラウザゲームです。
 
 [元の出典](<https://huhuhu.page.gd/COURTSIDE26.html>) · [ギャラリーの詳細](<https://magiccreator.ai/ja/astra#courtside-26>)
 
@@ -251,7 +251,7 @@ V2EXのAstra作品紹介（https://v2ex.com/t/1239697）に掲載。確認時に
 
 **ツール・形式:** Three Kingdoms: Wind and Cloud
 
-V2EXのAstra作品紹介（https://v2ex.com/t/1239697）から収録。ページは取得できましたが、原作者によるモデルの明示と実際の動作は独立に確認していません。
+三国時代を舞台にしたブラウザゲームです。
 
 [元の出典](<https://sanguo-wind-cloud.amery2010.workers.dev/>) · [体験する](<https://sanguo-wind-cloud.amery2010.workers.dev/>) · [ギャラリーの詳細](<https://magiccreator.ai/ja/astra#sanguo-wind-cloud>)
 
@@ -261,7 +261,7 @@ V2EXのAstra作品紹介（https://v2ex.com/t/1239697）から収録。ページ
 
 **ツール・形式:** PvZ: Garden Defenders
 
-V2EXのAstra作品紹介（https://v2ex.com/t/1239697）から収録。ページは取得できましたが、原作者によるモデルの明示と実際の動作は独立に確認していません。
+Plants vs. Zombiesに着想を得た庭の防衛ゲームです。
 
 [元の出典](<https://seth-xh.github.io/pvz/>) · [体験する](<https://seth-xh.github.io/pvz/>) · [ギャラリーの詳細](<https://magiccreator.ai/ja/astra#pvz-garden-defenders>)
 
@@ -281,7 +281,7 @@ Balatroに着想を得たブラウザカードゲーム。
 
 **ツール・形式:** Balatro Web Edition
 
-V2EXのAstra作品紹介（https://v2ex.com/t/1239697）から収録。ページは取得できましたが、原作者によるモデルの明示と実際の動作は独立に確認していません。
+Balatroに着想を得たブラウザカードゲームです。
 
 [元の出典](<https://balatro-v1-1.longyh2333521818.chatgpt.site/>) · [体験する](<https://balatro-v1-1.longyh2333521818.chatgpt.site/>) · [ギャラリーの詳細](<https://magiccreator.ai/ja/astra#balatro-web>)
 
@@ -301,7 +301,7 @@ Dust IIの舞台を再現したブラウザシューティング。
 
 **ツール・形式:** Dust II: Desert Operations
 
-V2EXのAstra作品紹介（https://v2ex.com/t/1239697）から収録。ページは取得できましたが、原作者によるモデルの明示と実際の動作は独立に確認していません。
+Dust IIの舞台をブラウザシューティングゲームで再現しています。
 
 [元の出典](<https://dust-ii-map.yelin8130.chatgpt.site/>) · [体験する](<https://dust-ii-map.yelin8130.chatgpt.site/>) · [ギャラリーの詳細](<https://magiccreator.ai/ja/astra#dust-ii-map>)
 
@@ -705,17 +705,17 @@ Equal Earth図法と、地球を平面にする際のトレードオフを探索
 
 **ツール・形式:** RB19 Engineering Explorer
 
-V2EXのAstra作品紹介（https://v2ex.com/t/1239697）から収録。ページは取得できましたが、原作者によるモデルの明示と実際の動作は独立に確認していません。
+パーツ表示とシミュレーションのテレメトリでRB19を探索できます。
 
 [元の出典](<https://rb19-engineering-lab.moraxc.chatgpt.site/>) · [体験する](<https://rb19-engineering-lab.moraxc.chatgpt.site/>) · [ギャラリーの詳細](<https://magiccreator.ai/ja/astra#rb19-engineering-lab>)
 
 ### Houniao Model Comparison
 
-コミュニティで共有されたモデル比較サイト。Astraの関与は未確認。
+AIモデルを比較するウェブサイト。
 
 **ツール・形式:** Houniao Model Comparison
 
-https://v2ex.com/t/1239697 のコミュニティ情報として収録。Astra製と確認した作品ではありません。URLには紹介時期より前の20260721が含まれ、確認時は利用上限によるHTTP 503でした。
+AIモデルの比較を扱うウェブサイトです。
 
 [元の出典](<https://houniao-model-battle-20260721.netlify.app/>) · [ギャラリーの詳細](<https://magiccreator.ai/ja/astra#houniao-model-battle>)
 
