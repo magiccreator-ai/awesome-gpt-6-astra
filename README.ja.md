@@ -11,7 +11,7 @@ GPT-6 Astraを使ったゲーム、Blender・3D、ウェブサイト、動画、
 >
 > 新しく見つけた作品を、元の出典や公開されている体験リンクとともに随時追加しています。リポジトリにスターを付けて保存し、また新しい作品を見に来てください。
 
-75件の事例 · 作者提供の体験リンク31件 · 最新の記録上の確認日：2026-09-08
+117件の事例 · 作者提供の体験リンク43件 · 最新の記録上の確認日：2026-09-08
 
 **[MagicCreatorのビジュアルギャラリーへ →](<https://magiccreator.ai/ja/astra>)** — プレビューを見て、分類で絞り込み、作者提供の体験リンクを探せます。
 
@@ -31,12 +31,12 @@ GPT-6 Astraを使ったゲーム、Blender・3D、ウェブサイト、動画、
 
 ## 目次
 
-- [GPT-6 Astraのゲームと体験デモ](#games) (24)
-- [GPT-6 AstraのBlender・3Dデモ](#blender) (11)
-- [GPT-6 Astraのウェブサイト・アプリ](#web) (22)
-- [GPT-6 Astraの動画制作事例](#video) (9)
-- [GPT-6 Astraのイラスト・ピクセルアート](#art) (6)
-- [GPT-6 Astraのその他の事例](#others) (3)
+- [GPT-6 Astraのゲームと体験デモ](#games) (36)
+- [GPT-6 AstraのBlender・3Dデモ](#blender) (17)
+- [GPT-6 Astraのウェブサイト・アプリ](#web) (30)
+- [GPT-6 Astraの動画制作事例](#video) (10)
+- [GPT-6 Astraのイラスト・ピクセルアート](#art) (9)
+- [GPT-6 Astraのその他の事例](#others) (15)
 - [作品を推薦する](#suggest-a-demo)
 
 <a id="games"></a>
@@ -59,6 +59,30 @@ GPT-6 Astraを使ったゲーム、Blender・3D、ウェブサイト、動画、
 
 [元投稿](<https://x.com/LLMJunky/status/2096028790925488452>) · [ギャラリーの詳細](<https://magiccreator.ai/ja/astra#rocket-league-style-benchmark>)
 
+### ブラウザー3Dゲーム試作
+
+[![ブラウザー3Dゲーム試作 — 作者の元投稿からのプレビュー](<https://pbs.twimg.com/amplify_video_thumb/2095599652796272640/img/-alGPQCkf-Z8Cs-n.jpg>)](<https://x.com/theo/status/2095599934766764338>)
+
+ブラウザー上で動く様子を紹介した3Dゲームの試作品。
+
+**作者:** [Theo - t3.gg](<https://x.com/theo>) · **ツール・形式:** Blender
+
+作者はBlenderと空間推論に触れながら、Astraへの1回の指示で作ったゲームとして紹介している。投稿では録画デモを公開している。
+
+[元投稿](<https://x.com/theo/status/2095599934766764338>) · [ギャラリーの詳細](<https://magiccreator.ai/ja/astra#browser-3d-game-prototype>)
+
+### GodotのSonic：MaxとMedium
+
+[![GodotのSonic：MaxとMedium — 作者の元投稿からのプレビュー](<https://pbs.twimg.com/amplify_video_thumb/2095992908448944130/img/v8BSAp4Xt5knPeV0.jpg>)](<https://x.com/AiBattle_/status/2095994051354919049>)
+
+Astraの推論設定を比較する、Godot製のシンプルなSonic風3Dゲーム2作品。
+
+**作者:** [AiBattle](<https://x.com/AiBattle_>) · **ツール・形式:** Godot, Sonic
+
+作者はMaxとMediumでの制作を比較し、それぞれ53分と25分だったと報告している。推論設定の違いを試した個人の実験例。
+
+[元投稿](<https://x.com/AiBattle_/status/2095994051354919049>) · [ギャラリーの詳細](<https://magiccreator.ai/ja/astra#godot-sonic-comparison>)
+
 ### Apple Siliconで動くAge of Empires IV
 
 [![Apple Siliconで動くAge of Empires IV — 作者の元投稿からのプレビュー](<https://pbs.twimg.com/amplify_video_thumb/2096364962629431296/img/xB4kNtDvFHHRftRZ.jpg>)](<https://x.com/marc_ibrahim/status/2096365209111724235>)
@@ -70,6 +94,30 @@ Astraによる最適化支援後、Apple SiliconでAge of Empires IVを実行す
 作者はAstraによって既存ゲームのApple Silicon上での性能を改善し、CrossOverの約8fpsに対して70〜150fpsになったと報告しています。変更と性能は独立に再現していません。Astraが制作したゲームではありません。
 
 [元投稿](<https://x.com/marc_ibrahim/status/2096365209111724235>) · [ギャラリーの詳細](<https://magiccreator.ai/ja/astra#age-of-empires-iv-apple-silicon>)
+
+### Minecraft風の世界
+
+[![Minecraft風の世界 — 作者の元投稿からのプレビュー](<https://pbs.twimg.com/amplify_video_thumb/2095576150743400453/img/VWft9EyYTIvqSCyu.jpg>)](<https://x.com/flavioAd/status/2095597137849446688>)
+
+Minecraft風のコーディング実験として紹介されたブロックの世界。
+
+**作者:** [Flavio Adamo](<https://x.com/flavioAd>) · **ツール・形式:** Minecraft
+
+作者はAstraへの1回のプロンプトによる結果として紹介している。試作品の動画であり、Minecraftの全機能を実装したとは説明されていない。
+
+[元投稿](<https://x.com/flavioAd/status/2095597137849446688>) · [ギャラリーの詳細](<https://magiccreator.ai/ja/astra#minecraft-style-voxel-world>)
+
+### 参考画像から作る水族館ゲーム
+
+[![参考画像から作る水族館ゲーム — 作者の元投稿からのプレビュー](<https://pbs.twimg.com/amplify_video_thumb/2095610918570958848/img/QJZmWNU_75upIrid.jpg>)](<https://x.com/TimJayas/status/2095611134992945385>)
+
+参考画像をもとに作る3D水族館ゲームの実験。
+
+**作者:** [Tim Jayas](<https://x.com/TimJayas>) · **ツール・形式:** 3D
+
+作者は1つのプロンプトと参考画像を使い、AstraとFable 5を比較している。個人による比較であり、標準化されたベンチマークではない。
+
+[元投稿](<https://x.com/TimJayas/status/2095611134992945385>) · [ギャラリーの詳細](<https://magiccreator.ai/ja/astra#aquarium-reference-game>)
 
 ### Universe Duel
 
@@ -83,6 +131,18 @@ Astraによる最適化支援後、Apple SiliconでAge of Empires IVを実行す
 
 [元投稿](<https://x.com/hayashimon1/status/2096255665778069957>) · [体験する](<https://universe-duel.vercel.app>) · [ギャラリーの詳細](<https://magiccreator.ai/ja/astra#universe-duel>)
 
+### モバイル広告のゲームを再現
+
+[![モバイル広告のゲームを再現 — 作者の元投稿からのプレビュー](<https://pbs.twimg.com/amplify_video_thumb/2096111511337107456/img/KM6rNPQu_D6RJjgL.jpg>)](<https://x.com/buildingadlicio/status/2096111709496680842>)
+
+モバイルゲーム広告に登場する遊びを再現した小さなブラウザーゲーム。
+
+**作者:** [daniel](<https://x.com/buildingadlicio>) · **ツール・形式:** Blender
+
+作者はAstraとBlenderで広告を遊べる試作品に変えた。制作時間は30分未満だったと説明している。
+
+[元投稿](<https://x.com/buildingadlicio/status/2096111709496680842>) · [ギャラリーの詳細](<https://magiccreator.ai/ja/astra#mobile-ad-playable-remake>)
+
 ### Afterlight ロボットの世界
 
 [![Afterlight ロボットの世界 — 作者の元投稿からのプレビュー](<https://pbs.twimg.com/amplify_video_thumb/2096580463288803328/img/_S5-VDnQ9RJh9URY.jpg>)](<https://x.com/anshuc/status/2096584624432374151>)
@@ -94,6 +154,18 @@ Astraによる最適化支援後、Apple SiliconでAge of Empires IVを実行す
 作者はAstra、Blender、Three.jsに加え、目標イメージとテクスチャ用の画像生成を使って反復制作したと説明しています。不具合は手作業でも修正し、最適化とテストがまだ必要だとしています。紹介は録画です。
 
 [元投稿](<https://x.com/anshuc/status/2096584624432374151>) · [ギャラリーの詳細](<https://magiccreator.ai/ja/astra#afterlight-robot-world>)
+
+### 3D版Zork
+
+[![3D版Zork — 作者の元投稿からのプレビュー](<https://pbs.twimg.com/amplify_video_thumb/2096032513387110400/img/bh7ztfq-14SAT0sQ.jpg>)](<https://x.com/emollick/status/2096047660662722620>)
+
+Zorkを3Dの舞台、謎解き、戦闘付きのブラウザーゲームに再構成。
+
+**作者:** [Ethan Mollick](<https://x.com/emollick>) · **ツール・形式:** Three.js, Zork
+
+作者がAstraにテキストアドベンチャーのThree.js化を依頼。原作の物語や謎解きへの忠実さは独立に検証していません。
+
+[元投稿](<https://x.com/emollick/status/2096047660662722620>) · [体験する](<https://zork-underground-empire.netlify.app/>) · [ギャラリーの詳細](<https://magiccreator.ai/ja/astra#zork-underground-empire>)
 
 ### Jelly Baby Playground
 
@@ -165,7 +237,7 @@ AstraとTesanaのゲーム制作プロジェクトとして紹介された、Hal
 
 作者によると、依頼で指定していなくてもAstraがモデル制作にBlenderを使いました。投稿には依頼したゲーム仕様がありますが、すべて実装されたとは扱っていません。
 
-[元投稿](<https://x.com/superalesha/status/2095967568825582044>) · [ギャラリーの詳細](<https://magiccreator.ai/ja/astra#antigravity-racer>)
+[元投稿](<https://x.com/superalesha/status/2095967568825582044>) · [体験する](<https://alesha-pro.github.io/bench-portal/games/voidrunner-astra/>) · [作者のコード](<https://github.com/alesha-pro/bench-portal/tree/main/games/voidrunner-astra>) · [ギャラリーの詳細](<https://magiccreator.ai/ja/astra#antigravity-racer>)
 
 ### Rogue Arenaの試作
 
@@ -178,6 +250,30 @@ AstraとTesanaのゲーム制作プロジェクトとして紹介された、Hal
 作者はAstraとBlenderで約4時間かけた初期の試作と説明しています。未完成であることが明記されており、ゲーム内容やマルチプレイヤーの利用可否は変わる可能性があります。
 
 [元投稿](<https://x.com/jumperz/status/2096600055301984738>) · [体験する](<http://rogue-omega.vercel.app>) · [ギャラリーの詳細](<https://magiccreator.ai/ja/astra#rogue-arena>)
+
+### Gogh Strike
+
+[![Gogh Strike — 作者の元投稿からのプレビュー](<https://pbs.twimg.com/amplify_video_thumb/2096012866734501888/img/5Q86-WBXYVk1d-NJ.jpg>)](<https://x.com/petergostev/status/2096013280519016608>)
+
+ゴッホの町を舞台に、画家たちとボットのチームで戦うブラウザーFPS。
+
+**作者:** [Peter Gostev](<https://x.com/petergostev>) · **ツール・形式:** Three.js, Blender
+
+作者はAstraとBlenderで制作したと説明しています。現行ソースではボット相手の1人用対戦で、オンライン対戦は未実装です。
+
+[元投稿](<https://x.com/petergostev/status/2096013280519016608>) · [体験する](<https://gogh-strike.surge.sh/>) · [作者のコード](<https://github.com/petergpt/gogh-strike>) · [ギャラリーの詳細](<https://magiccreator.ai/ja/astra#gogh-strike>)
+
+### Voidbound：灰の聖歌隊
+
+[![Voidbound：灰の聖歌隊 — 作者の元投稿からのプレビュー](<https://pbs.twimg.com/amplify_video_thumb/2095988588534272001/img/LbeL-FX3FW9Ngqwm.jpg>)](<https://x.com/superalesha/status/2095988972879335792>)
+
+大聖堂のアリーナで剣術、回避、範囲魔法を使う三人称アクション。
+
+**作者:** [Alexey Fateev](<https://x.com/superalesha>) · **ツール・形式:** Three.js, WebGL
+
+作者は初版の改善点を受け、Astraとキャラクターモデルや接地感のある剣のアニメーションを反復調整しました。
+
+[元投稿](<https://x.com/superalesha/status/2095988972879335792>) · [体験する](<https://alesha-pro.github.io/bench-portal/games/voidbound-choir-of-ash/>) · [作者のコード](<https://github.com/alesha-pro/bench-portal>) · [ギャラリーの詳細](<https://magiccreator.ai/ja/astra#voidbound-choir-of-ash>)
 
 ### Sunwake セーリングゲーム
 
@@ -315,6 +411,46 @@ Dust IIの舞台をブラウザシューティングゲームで再現してい�
 
 [元の出典](<https://github.com/threapchills/MagicCarpetWizard>) · [体験する](<https://threapchills.github.io/MagicCarpetWizard/>) · [作者のコード](<https://github.com/threapchills/MagicCarpetWizard>) · [ギャラリーの詳細](<https://magiccreator.ai/ja/astra#magic-carpet-wizard>)
 
+### THUNDERFALL：雷霆戦機
+
+3機の戦闘機、5つの空域、多彩な武器構成を備えた縦スクロール弾幕シューティング。
+
+**作者:** jackroc · **ツール・形式:** JavaScript, Canvas 2D, Web Audio
+
+作者はAstra ultraによる反復的な設計、コード、手続き型描画、音声合成を説明。1回の生成ではなく、戦役テストも人間による通しプレイではありません。
+
+[元の出典](<https://github.com/MartinDelophy/awesome-gpt-6-astra/blob/main/works/thunderfall/README.md>) · [作者のコード](<https://github.com/MartinDelophy/awesome-gpt-6-astra/tree/main/works/thunderfall>) · [ギャラリーの詳細](<https://magiccreator.ai/ja/astra#thunderfall>)
+
+### 三国志：百将風雲
+
+15都市、資源、対立勢力、108人の武将を備えたターン制の三国志戦略ゲーム。
+
+**作者:** MartinDelophy · **ツール・形式:** React, TypeScript
+
+作者がルール、UI、AI、テストへのAstraの反復的な関与を確認。地形と肖像画には別の画像生成ツールを使用しています。
+
+[元の出典](<https://github.com/MartinDelophy/awesome-gpt-6-astra/blob/main/works/three-kingdoms/CREATION.md>) · [体験する](<https://sanguo-jiangshan.vercel.app>) · [作者のコード](<https://github.com/MartinDelophy/awesome-gpt-6-astra/tree/main/works/three-kingdoms>) · [ギャラリーの詳細](<https://magiccreator.ai/ja/astra#three-kingdoms-hundred-heroes>)
+
+### 最後の灯台
+
+電力網をつなぎ、強化可能な塔で島の灯台を防衛。
+
+**作者:** stackloomdev · **ツール・形式:** Canvas 2D, Web Audio, JavaScript
+
+作者がゲームルール、電力配分、Canvas描画、テストでのAstraの反復作業を記録。音声はWeb Audioで合成しています。
+
+[元の出典](<https://github.com/stackloomdev/last-beacon/blob/main/docs/CREATION.md>) · [体験する](<https://last-beacon.loupengju.cc>) · [作者のコード](<https://github.com/stackloomdev/last-beacon>) · [ギャラリーの詳細](<https://magiccreator.ai/ja/astra#last-beacon>)
+
+### Toy2Game：オンラインおもちゃ箱
+
+ペンギンの氷、ウサギの罠、駐車パズルなど、4つの卓上玩具をブラウザーゲーム化。
+
+**作者:** asmoyou · **ツール・形式:** React, Three.js, TypeScript
+
+作者によるとAstraが玩具の説明から実装とテストを担当。ソースはローカルプレイに対応し、オンライン対戦はありません。商用再利用には許可が必要です。
+
+[元の出典](<https://github.com/MartinDelophy/awesome-gpt-6-astra/issues/24>) · [体験する](<https://games.asmo.top/>) · [作者のコード](<https://github.com/asmoyou/toy2game>) · [ギャラリーの詳細](<https://magiccreator.ai/ja/astra#toy2game>)
+
 <a id="blender"></a>
 
 ## GPT-6 AstraのBlender・3Dデモ
@@ -357,6 +493,18 @@ Vaibhav Srivastav が公開した、参考動画と並べて比較できる Blen
 
 [元投稿](<https://x.com/reach_vb/status/2096612996256579653>) · [ギャラリーの詳細](<https://magiccreator.ai/ja/astra#rickroll-blender-recreation>)
 
+### BlenderのBackrooms
+
+[![BlenderのBackrooms — 作者の元投稿からのプレビュー](<https://pbs.twimg.com/amplify_video_thumb/2096003209957609472/img/nah7J4WwfPpfBjJa.jpg>)](<https://x.com/duncantrussell/status/2096003511104508411>)
+
+VHS風の映像効果と音を加え、Blenderで描画したBackroomsシーン。
+
+**作者:** [Duncan Trussell](<https://x.com/duncantrussell>) · **ツール・形式:** Blender, VHS
+
+作者は約5回のAstraへの指示でシーンを構築し、映像効果と音を加えたと説明している。動画はBlenderのレンダーとして紹介されている。
+
+[元投稿](<https://x.com/duncantrussell/status/2096003511104508411>) · [ギャラリーの詳細](<https://magiccreator.ai/ja/astra#backrooms-blender-vhs>)
+
 ### BlenderからUnrealへ：住宅シーン
 
 [![BlenderからUnrealへ：住宅シーン — 作者の元投稿からのプレビュー](<https://pbs.twimg.com/amplify_video_thumb/2095596669320810496/img/W43WylmZrzBLZ-Ye.jpg>)](<https://x.com/Dimillian/status/2095596700815516004>)
@@ -383,6 +531,32 @@ Blenderで制作した現代住宅をUnreal Engine 5に取り込み、歩いて�
 
 [元投稿](<https://x.com/sharifshameem/status/2095653641164329143>) · [ギャラリーの詳細](<https://magiccreator.ai/ja/astra#palace-of-fine-arts>)
 
+### 家の写真からBlenderモデルへ
+
+[![家の写真からBlenderモデルへ — 作者の元投稿からのプレビュー](<https://pbs.twimg.com/amplify_video_thumb/2095596412650283008/img/8yJ-RUQ137r4JNG5.jpg>)](<https://x.com/tomkrcha/status/2095598645190291775>)
+
+家の参考画像を、編集可能な形状や家具、生活用品を含む3Dシーンに再構築。
+
+**作者:** [Tom Krcha](<https://x.com/tomkrcha>) · **ツール・形式:** Blender
+
+作者はAstraで家をBlenderに再構築し、ローカルでリアルタイム描画できると説明している。デモには編集可能なシーン形状が含まれる。
+
+[元投稿](<https://x.com/tomkrcha/status/2095598645190291775>) · [ギャラリーの詳細](<https://magiccreator.ai/ja/astra#house-photo-blender-model>)
+
+### Cyclesで描く大統領執務室
+
+[![Cyclesで描く大統領執務室 — 作者の元投稿からのプレビュー](<https://pbs.twimg.com/amplify_video_thumb/2095629993678344192/img/oeJjkRnaLqUwLQp3.jpg>)](<https://x.com/higgsfield_ai/status/2095630197257367857>)
+
+シーンの説明から生成し、BlenderのCyclesで描画した大統領執務室のセット。
+
+**作者:** [Higgsfield AI 🧩](<https://x.com/higgsfield_ai>) · **ツール・形式:** Blender, Cycles, Higgsfield
+
+Astraがシーンのコードを生成し、HiggsfieldがBlenderのセットを構築してCyclesで描画した。Higgsfield自身がSupercomputer上の制作工程を紹介している。
+
+**開示事項:** Higgsfieldによる製品デモ.
+
+[元投稿](<https://x.com/higgsfield_ai/status/2095630197257367857>) · [ギャラリーの詳細](<https://magiccreator.ai/ja/astra#oval-office-cycles-set>)
+
 ### Verdant Forest
 
 [![Verdant Forest — 作者の元投稿からのプレビュー](<https://pbs.twimg.com/amplify_video_thumb/2096262956774490112/img/9UcY8pI6LuZ8v2c_.jpg>)](<https://x.com/LexnLin/status/2096263046918197609>)
@@ -407,6 +581,18 @@ Blender製の3D iPodと従来のiPod風操作でCodexスレッドを閲覧する
 
 [元投稿](<https://x.com/skirano/status/2095648379455861054>) · [ギャラリーの詳細](<https://magiccreator.ai/ja/astra#ipod-codex-thread-viewer>)
 
+### iPhone写真からBlenderの建物へ
+
+[![iPhone写真からBlenderの建物へ — 作者の元投稿からのプレビュー](<https://pbs.twimg.com/ext_tw_video_thumb/2095982524044541952/pu/img/NojpJgktJm7E-l-F.jpg>)](<https://x.com/badxstudio/status/2095982983379653113>)
+
+数枚のiPhone写真から実在の建物をBlenderで再構築。
+
+**作者:** [Bad Decisions Studio](<https://x.com/badxstudio>) · **ツール・形式:** Blender
+
+Bad Decisions Studioは初めてのAstraモデリング実験として、スマートフォンの写真から30分未満で建物を再構築したと報告している。
+
+[元投稿](<https://x.com/badxstudio/status/2095982983379653113>) · [ギャラリーの詳細](<https://magiccreator.ai/ja/astra#iphone-photos-blender-building>)
+
 ### 参考画像から街路シーンへ
 
 [![参考画像から街路シーンへ — 作者の元投稿からのプレビュー](<https://pbs.twimg.com/amplify_video_thumb/2096619986119016448/img/DnxNHOzY0HSwEHqW.jpg>)](<https://x.com/Yokohara_h/status/2096622171011666003>)
@@ -418,6 +604,18 @@ Blender製の3D iPodと従来のiPod風操作でCodexスレッドを閲覧する
 作者はAstraで環境をモデリングし、制作解説を編集したと報告しています。まだ改善が必要とも述べており、プレビューは試作で、実制作水準を保証するものではありません。
 
 [元投稿](<https://x.com/Yokohara_h/status/2096622171011666003>) · [ギャラリーの詳細](<https://magiccreator.ai/ja/astra#blender-street>)
+
+### Blenderで再現するリスボン
+
+[![Blenderで再現するリスボン — 作者の元投稿からのプレビュー](<https://pbs.twimg.com/amplify_video_thumb/2096296038672023552/img/VLpW9cn7oLbakwSu.jpg>)](<https://x.com/goncalo_canhoto/status/2096298425914450021>)
+
+リスボンのテレイロ・ド・パソ広場をBlenderで再構築。
+
+**作者:** [Gonçalo Canhoto 🇵🇹](<https://x.com/goncalo_canhoto>) · **ツール・形式:** Blender
+
+作者は大学時代のCG課題を題材に、AstraのHigh設定へ1回のプロンプトを入力した。投稿では完成した建築シーンを紹介している。
+
+[元投稿](<https://x.com/goncalo_canhoto/status/2096298425914450021>) · [ギャラリーの詳細](<https://magiccreator.ai/ja/astra#lisbon-terreiro-do-paco>)
 
 ### ゴッホの絵の中を歩く
 
@@ -455,6 +653,18 @@ Blender製の3D iPodと従来のiPod風操作でCodexスレッドを閲覧する
 
 [元投稿](<https://x.com/senthilnayagam/status/2096543077917986823>) · [ギャラリーの詳細](<https://magiccreator.ai/ja/astra#taj-mahal-blender>)
 
+### Geometry Nodesの循環する水面
+
+[![Geometry Nodesの循環する水面 — 作者の元投稿からのプレビュー](<https://pbs.twimg.com/tweet_video_thumb/HRhW_AlaoAAvGfb.jpg>)](<https://x.com/uB95A7tobA17057/status/2096521798150242631>)
+
+ベイク不要で周期的に動く、Blender Geometry Nodes製の水面。
+
+**作者:** [黒曜陣](<https://x.com/uB95A7tobA17057>) · **ツール・形式:** Blender, Geometry Nodes, MCP
+
+作者はBlender MCP経由でAstraを使い、ノードを編集せず結果を確認。循環する水面モデルであり、完全な流体シミュレーションではありません。
+
+[元投稿](<https://x.com/uB95A7tobA17057/status/2096521798150242631>) · [ギャラリーの詳細](<https://magiccreator.ai/ja/astra#geometry-nodes-looping-water>)
+
 <a id="web"></a>
 
 ## GPT-6 Astraのウェブサイト・アプリ
@@ -485,6 +695,18 @@ UI実験、ブラウザーの可視化、操作可能なウェブアプリ。各
 
 [元投稿](<https://x.com/DilumSanjaya/status/2096280244663775423>) · [ギャラリーの詳細](<https://magiccreator.ai/ja/astra#v8-engine>)
 
+### インターフェース生成の実験
+
+[![インターフェース生成の実験 — 作者の元投稿からのプレビュー](<https://pbs.twimg.com/amplify_video_thumb/2096059086446202880/img/f_Xw_6sDybszBdiM.jpg>)](<https://x.com/MSchwaibold/status/2096059496812716307>)
+
+Astraで生成したインターフェースデザインのデモ。
+
+**作者:** [Marvin Schwaibold](<https://x.com/MSchwaibold>) · **ツール・形式:** UI
+
+作者はAstraで生成したUIを動画で紹介している。投稿は見た目の成果が中心で、本番公開やバックエンドの動作は記載していない。
+
+[元投稿](<https://x.com/MSchwaibold/status/2096059496812716307>) · [ギャラリーの詳細](<https://magiccreator.ai/ja/astra#astra-ui-generation-study>)
+
 ### Model X Studio
 
 [![Model X Studio — 作者の元投稿からのプレビュー](<https://pbs.twimg.com/amplify_video_thumb/2096008340329627648/img/f7Gt3ww30PLWmsKK.jpg>)](<https://x.com/ashebytes/status/2096009146248122416>)
@@ -497,6 +719,18 @@ UI実験、ブラウザーの可視化、操作可能なウェブアプリ。各
 
 [元投稿](<https://x.com/ashebytes/status/2096009146248122416>) · [体験する](<https://model-x-studio.vercel.app>) · [作者のコード](<https://github.com/ashemag/model-x-studio>) · [ギャラリーの詳細](<https://magiccreator.ai/ja/astra#model-x-studio>)
 
+### Three.jsのシンガポール街路
+
+[![Three.jsのシンガポール街路 — 作者の元投稿からのプレビュー](<https://pbs.twimg.com/media/HRcLFN8bcAAFP4k.jpg>)](<https://x.com/birdabo/status/2096156461365960837>)
+
+スマートフォンのカメラ視点を意識した、Three.jsのシンガポール街路シーン。
+
+**作者:** [sui](<https://x.com/birdabo>) · **ツール・形式:** Three.js
+
+作者はAstraにGTA風の見た目の街路を依頼した。投稿では動画プレビューを公開し、デモは後日公開するとしている。
+
+[元投稿](<https://x.com/birdabo/status/2096156461365960837>) · [ギャラリーの詳細](<https://magiccreator.ai/ja/astra#singapore-threejs-street>)
+
 ### macOS 27シミュレーター
 
 Finderやアプリ画面を備えた、ブラウザー上のmacOSデスクトップシミュレーション。
@@ -506,6 +740,18 @@ Finderやアプリ画面を備えた、ブラウザー上のmacOSデスクトッ
 作者はAstraで制作し、75分の制作時間、クラウド同期、動作するアプリを報告しています。以前の確認ではページを読めましたが、ログイン、同期、アプリの機能は独立にテストしていません。
 
 [元投稿](<https://x.com/mweinbach/status/2095596867081916653>) · [体験する](<https://macos-27-simulator.mweinbach.chatgpt.site/>) · [ギャラリーの詳細](<https://magiccreator.ai/ja/astra#macos-27-simulator>)
+
+### コードで組み立てる列車
+
+[![コードで組み立てる列車 — 作者の元投稿からのプレビュー](<https://pbs.twimg.com/amplify_video_thumb/2096080925239185408/img/dxnzyee6XX7tgLe8.jpg>)](<https://x.com/tomkrcha/status/2096082580554777041>)
+
+車輪の回転や分解・組立表示を備えた、ブラウザーで動く2台の列車。
+
+**作者:** [Tom Krcha](<https://x.com/tomkrcha>) · **ツール・形式:** Three.js, TypeScript
+
+作者はAstraとTypeScript、Three.jsを使用した。列車の形状、車輪の動き、分解アニメーションを実行時にコードから生成する。
+
+[元投稿](<https://x.com/tomkrcha/status/2096082580554777041>) · [ギャラリーの詳細](<https://magiccreator.ai/ja/astra#procedural-train-assemblies>)
 
 ### Gameboy 風ポートフォリオ
 
@@ -519,6 +765,18 @@ Gameboy を思わせる画面と操作ボタンを備えた、携帯ゲーム機
 
 [元投稿](<https://x.com/Angaisb_/status/2095964361105789424>) · [ギャラリーの詳細](<https://magiccreator.ai/ja/astra#gameboy-style-portfolio>)
 
+### 3D製品モックアップスタジオ
+
+[![3D製品モックアップスタジオ — 作者の元投稿からのプレビュー](<https://pbs.twimg.com/amplify_video_thumb/2095619198437240836/img/S3arJYTi2akNREnW.jpg>)](<https://x.com/joshmillgate/status/2095619319690400253>)
+
+立体的な製品モックアップを作成するツールのデモ。
+
+**作者:** [Josh Millgate](<https://x.com/joshmillgate>) · **ツール・形式:** 3D
+
+作者はAstraへの1回の指示で作ったツールとして紹介している。投稿は出力を示しているが、使用素材やレンダラーの詳細は記載していない。
+
+[元投稿](<https://x.com/joshmillgate/status/2095619319690400253>) · [ギャラリーの詳細](<https://magiccreator.ai/ja/astra#product-mockup-studio>)
+
 ### ソウル3Dアトラス
 
 [![ソウル3Dアトラス — 作者の元投稿からのプレビュー](<https://pbs.twimg.com/amplify_video_thumb/2096557441312034816/img/v3Iur3rDygYBuOdR.jpg>)](<https://x.com/synabreu/status/2096557555086725159>)
@@ -530,6 +788,30 @@ Gameboy を思わせる画面と操作ボタンを備えた、携帯ゲーム機
 Astraが既存の地理データから操作可能なThree.js地図を作る作業を支援しました。建物は簡略化され、一部の高さは推定です。測量精度の再構築ではありません。
 
 [元投稿](<https://x.com/synabreu/status/2096557555086725159>) · [体験する](<https://seoul-3d-atlas.synabreu.chatgpt.site/>) · [ギャラリーの詳細](<https://magiccreator.ai/ja/astra#seoul-atlas>)
+
+### Three.jsの杭州
+
+[![Three.jsの杭州 — 作者の元投稿からのプレビュー](<https://pbs.twimg.com/amplify_video_thumb/2096142969032351744/img/lZvQ1GZMdqznrSqb.jpg>)](<https://x.com/NFT_Chen/status/2096143589151756638>)
+
+名所への移動や昼夜の照明切り替えを備えた、ミニチュアの杭州。
+
+**作者:** [SuSu\_酥酥👅](<https://x.com/NFT_Chen>) · **ツール・形式:** Three.js
+
+作者はAstraで作ったThree.jsの街として、回転操作、名所へのカメラ移動、照明の切り替えを紹介している。街を様式化したビジュアライゼーション。
+
+[元投稿](<https://x.com/NFT_Chen/status/2096143589151756638>) · [ギャラリーの詳細](<https://magiccreator.ai/ja/astra#hangzhou-threejs-city>)
+
+### ブランデンブルク・ピアノ
+
+[![ブランデンブルク・ピアノ — 作者の元投稿からのプレビュー](<https://pbs.twimg.com/amplify_video_thumb/2096090005085077511/img/36OGv0ZYv9Ap7Xgc.jpg>)](<https://x.com/DeryaTR_/status/2096090915790069857>)
+
+バッハのブランデンブルク協奏曲の演奏を内蔵したバーチャルピアノ。
+
+**作者:** [Derya Unutmaz, MD](<https://x.com/DeryaTR_>) · **ツール・形式:** Bach
+
+作者によると、Astraがピアノを制作し6曲の協奏曲を追加しました。音楽的な正確さや完全性は独立に検証していません。
+
+[元投稿](<https://x.com/DeryaTR_/status/2096090915790069857>) · [体験する](<https://brandenburg-piano.vercel.app/>) · [ギャラリーの詳細](<https://magiccreator.ai/ja/astra#brandenburg-piano>)
 
 ### 地球史のタイムライン
 
@@ -566,6 +848,18 @@ Meng ToはAstraとThree.jsで制作した複数のUI実験を共有していま�
 作者はAstraによるBlenderモデリング、Three.jsへの取り込み、操作機能の追加、ChatGPT Sitesでの公開を説明しています。確認時にリンク先サイトは取得できませんでしたが、元動画とプレビューは閲覧できました。
 
 [元投稿](<https://x.com/op7418/status/2096205141187956887>) · [体験する](<https://moonlit-forge-studio.op7418.chatgpt.site>) · [ギャラリーの詳細](<https://magiccreator.ai/ja/astra#moonlit-forge>)
+
+### ABYSSAL：生命の海
+
+[![ABYSSAL：生命の海 — 作者の元投稿からのプレビュー](<https://pbs.twimg.com/amplify_video_thumb/2095673008803241987/img/rkGOb6E0-oOUi5ka.jpg>)](<https://x.com/emollick/status/2095673885605630429>)
+
+海の生き物や天候を備えた、プロシージャルな海中世界を探索。
+
+**作者:** [Ethan Mollick](<https://x.com/emollick>) · **ツール・形式:** WebGL, ABYSSAL
+
+作者は既存のオープンソースの海面表現を基に、Astraで生き物の行動をシミュレートする海中世界へ拡張しました。
+
+[元投稿](<https://x.com/emollick/status/2095673885605630429>) · [体験する](<https://abyssal-living-deep.netlify.app/?site=reef&seed=713&light=day&surface=1>) · [作者のコード](<https://github.com/emollick/abyssal-living-deep>) · [ギャラリーの詳細](<https://magiccreator.ai/ja/astra#abyssal-living-deep>)
 
 ### Clouds in Motion
 
@@ -662,6 +956,18 @@ Boeing 777-300ERモデルと飛行データの操作部を備えた着陸シミ�
 作者はAstraでサイトを制作したと説明し、体験版と動画を共有しています。UIの再現作品で、歴史的な忠実さは独立に確認していません。
 
 [元投稿](<https://x.com/blueemi99/status/2096917792737911131>) · [体験する](<https://iphone-archive.vercel.app>) · [ギャラリーの詳細](<https://magiccreator.ai/ja/astra#interactive-iphone-history>)
+
+### Orbital Core：3D展示
+
+[![Orbital Core：3D展示 — 作者の元投稿からのプレビュー](<https://pbs.twimg.com/amplify_video_thumb/2096549512995368961/img/kyuKVBrCE5i7fHA8.jpg>)](<https://x.com/oneruofeng/status/2096551010089263181>)
+
+Blenderで制作した二重リングのエネルギーコアを回転・拡大して鑑賞。
+
+**作者:** [ruofeng](<https://x.com/oneruofeng>) · **ツール・形式:** Blender, Three.js, GLB
+
+AstraがBlenderでの制作、GLBへの材質書き出し、Three.jsビューアーの実装、Cloudflare Workersへの公開を支援しました。
+
+[元投稿](<https://x.com/oneruofeng/status/2096551010089263181>) · [体験する](<https://orbital-core-showcase.wangruofeng007.workers.dev>) · [作者のコード](<https://github.com/wangruofeng/orbital-core-showcase>) · [ギャラリーの詳細](<https://magiccreator.ai/ja/astra#orbital-core-showcase>)
 
 ### Adonis レストランデモ
 
@@ -825,6 +1131,18 @@ Astraが形状をコードで記述し、Blender Clay Rendererプラグインが
 
 [元投稿](<https://x.com/nicekate8888/status/2096280438717448531>) · [ギャラリーの詳細](<https://magiccreator.ai/ja/astra#wukong-peach-garden-film>)
 
+### 55本の素材から動画編集
+
+[![55本の素材から動画編集 — 作者の元投稿からのプレビュー](<https://pbs.twimg.com/amplify_video_thumb/2096181213690286081/img/bF0pQwdbow7STIxO.jpg>)](<https://x.com/0xTykoo/status/2096183262255386833>)
+
+提供された動画フォルダーからAstraが映像と音楽を選び、編集。
+
+**作者:** [Tykoo](<https://x.com/0xTykoo>) · **ツール・形式:** Codex
+
+作者が55本の動画、4つの音楽候補、スタイル指示を提供。CodexのAstra Ultraが選定、カット、効果を担当し、元映像は提供素材です。
+
+[元投稿](<https://x.com/0xTykoo/status/2096183262255386833>) · [ギャラリーの詳細](<https://magiccreator.ai/ja/astra#astra-55-clip-edit>)
+
 ### マンハッタン上空の映像
 
 [![マンハッタン上空の映像 — 作者の元投稿からのプレビュー](<https://pbs.twimg.com/amplify_video_thumb/2095612637182922752/img/zw51jZqWxsQnYpA6.jpg>)](<https://x.com/Dimillian/status/2096478021234426059>)
@@ -881,6 +1199,18 @@ Zachi が GPT-6 Astra に自分を描くよう依頼し、Canva での肖像画�
 
 [元投稿](<https://x.com/iam_zachi/status/2095992132620136677>) · [ギャラリーの詳細](<https://magiccreator.ai/ja/astra#canva-portrait-drawing>)
 
+### Microsoft Paintの肖像画
+
+[![Microsoft Paintの肖像画 — 作者の元投稿からのプレビュー](<https://pbs.twimg.com/amplify_video_thumb/2095962575448260608/img/Qcd91RYRzm4zATsi.jpg>)](<https://x.com/The_Alex/status/2095962639386239400>)
+
+Microsoft Paint内で肖像画を描くデモ。
+
+**作者:** [Alex](<https://x.com/The_Alex>) · **ツール・形式:** Microsoft Paint
+
+作者は肖像画を描く依頼に応じて、AstraがPaintを操作する様子を紹介している。デスクトップ描画アプリとの対話的な作業例。
+
+[元投稿](<https://x.com/The_Alex/status/2095962639386239400>) · [ギャラリーの詳細](<https://magiccreator.ai/ja/astra#microsoft-paint-portrait>)
+
 ### PlayStation 4 コントローラーの SVG
 
 [![PlayStation 4 コントローラーの SVG — 作者の元投稿からのプレビュー](<https://pbs.twimg.com/media/HRZdIOuXwAsLsJZ.jpg>)](<https://x.com/MarsForTech/status/2095965250386284866>)
@@ -892,6 +1222,30 @@ MarsForTech が GPT-6 Astra Max で生成した SVG として、PlayStation 4 �
 作者は GPT-6 Astra Max を使い、入力画像なしで11分54秒かけてコントローラーの SVG を生成したと報告しています。投稿にはプレビュー画像がありますが、収集した資料では SVG ファイルは確認できませんでした。ベクター構造と所要時間は独立に検証していません。
 
 [元投稿](<https://x.com/MarsForTech/status/2095965250386284866>) · [ギャラリーの詳細](<https://magiccreator.ai/ja/astra#playstation-4-controller-svg>)
+
+### Daybreak：3Dピアノ演奏
+
+[![Daybreak：3Dピアノ演奏 — 作者の元投稿からのプレビュー](<https://pbs.twimg.com/amplify_video_thumb/2096165676897779712/img/2t9Gk4pv4bmd7QOW.jpg>)](<https://x.com/LexnLin/status/2096166277849239804>)
+
+音符に合わせて指を動かしながら旋律を奏でる3Dピアニスト。
+
+**作者:** [Leon Lin](<https://x.com/LexnLin>) · **ツール・形式:** 3D
+
+作者がAstraに作曲とピアニストの制作を依頼。指の同期は作者の説明に基づき、演奏精度のベンチマークではありません。
+
+[元投稿](<https://x.com/LexnLin/status/2096166277849239804>) · [体験する](<https://daybreak-piano-film.lexn8.chatgpt.site/>) · [ギャラリーの詳細](<https://magiccreator.ai/ja/astra#daybreak-piano-performance>)
+
+### Apple Notesで描く肖像画
+
+[![Apple Notesで描く肖像画 — 作者の元投稿からのプレビュー](<https://pbs.twimg.com/amplify_video_thumb/2096025078165082112/img/zGCZRwqXJaqyZhWs.jpg>)](<https://x.com/viticci/status/2096025249582039180>)
+
+参考写真を基に、AstraがApple Notes内で肖像画を描写。
+
+**作者:** [Federico Viticci](<https://x.com/viticci>) · **ツール・形式:** Apple Notes, Computer Use
+
+作者が肖像写真を渡し、Macアプリ内で描く様子を確認。単独の画像生成ではなく、アプリ操作を示す事例です。
+
+[元投稿](<https://x.com/viticci/status/2096025249582039180>) · [ギャラリーの詳細](<https://magiccreator.ai/ja/astra#apple-notes-portrait>)
 
 ### Astraのポスターデザイン実験
 
@@ -909,17 +1263,55 @@ MarsForTech が GPT-6 Astra Max で生成した SVG として、PlayStation 4 �
 
 花、環、銀河の形に変化するインタラクティブな粒子アート。
 
-**ツール・形式:** Orbital Garden
+**作者:** jackroc · **ツール・形式:** Orbital Garden
 
 取得したページはコード、形状、インタラクションをGPT-6 Astraによるものとし、標準WebGLと手続き型グラフィックスを使用しています。重力の芸術的表現であり物理シミュレーションではありません。操作は未検証です。
 
-[元の出典](<https://orbital-garden.hp20230404.chatgpt.site>) · [体験する](<https://orbital-garden.hp20230404.chatgpt.site>) · [ギャラリーの詳細](<https://magiccreator.ai/ja/astra#orbital-garden>)
+[元の出典](<https://orbital-garden.hp20230404.chatgpt.site>) · [体験する](<https://orbital-garden.hp20230404.chatgpt.site>) · [作者のコード](<https://github.com/MartinDelophy/awesome-gpt-6-astra/tree/main/works/orbital-garden>) · [ギャラリーの詳細](<https://magiccreator.ai/ja/astra#orbital-garden>)
 
 <a id="others"></a>
 
 ## GPT-6 Astraのその他の事例
 
 ハードウェア設計、データ分析、ロボティクスなどのコンピューター操作。作者が報告する成果と制約を紹介します。
+
+### Unrealのエージェント社会
+
+[![Unrealのエージェント社会 — 作者の元投稿からのプレビュー](<https://pbs.twimg.com/amplify_video_thumb/2095589100539531264/img/Tlsi7uZFwLrLR-51.jpg>)](<https://x.com/mattshumer_/status/2095596175705399482>)
+
+会話するエージェントたちが生存のために協力するUnreal Engineの世界。
+
+**作者:** [Matt Shumer](<https://x.com/mattshumer_>) · **ツール・形式:** Unreal Engine
+
+作者はAstraで世界を構築し、人間のエージェントを動かした。動画では開発初期のシミュレーションと会話を紹介している。
+
+[元投稿](<https://x.com/mattshumer_/status/2095596175705399482>) · [ギャラリーの詳細](<https://magiccreator.ai/ja/astra#unreal-agent-society>)
+
+### Unreal Engineのマンハッタン
+
+[![Unreal Engineのマンハッタン — 作者の元投稿からのプレビュー](<https://pbs.twimg.com/amplify_video_thumb/2095609426770010113/img/muj5Lvx5A_wdP3Wh.jpg>)](<https://x.com/mattshumer_/status/2095609734845927525>)
+
+Unreal Engineで通りごとに構築されたマンハッタンの街。
+
+**作者:** [Matt Shumer](<https://x.com/mattshumer_>) · **ツール・形式:** Unreal Engine
+
+作者はAstraと約1週間かけて世界を構築したと説明している。動画は街の環境を紹介しており、地理的な正確さを検証したものではない。
+
+[元投稿](<https://x.com/mattshumer_/status/2095609734845927525>) · [ギャラリーの詳細](<https://magiccreator.ai/ja/astra#manhattan-unreal-world>)
+
+### エージェントによる機械CAD
+
+[![エージェントによる機械CAD — 作者の元投稿からのプレビュー](<https://pbs.twimg.com/amplify_video_thumb/2096053830857474048/img/FxRQ9VBwd6bCmsP9.jpg>)](<https://x.com/adamdotnew/status/2096053889141489669>)
+
+Astraを用いたCADでの機械設計デモ。
+
+**作者:** [adam](<https://x.com/adamdotnew>) · **ツール・形式:** CAD
+
+AdamがAstraを組み込んだエージェント型CADの工程を紹介している。動画は機械設計の操作例であり、独立した性能測定ではない。
+
+**開示事項:** Adamによる製品デモ.
+
+[元投稿](<https://x.com/adamdotnew/status/2096053889141489669>) · [ギャラリーの詳細](<https://magiccreator.ai/ja/astra#agentic-mechanical-cad>)
 
 ### ロボット制御実験
 
@@ -932,6 +1324,90 @@ MarsForTech が GPT-6 Astra Max で生成した SVG として、PlayStation 4 �
 研究者はAstraの課題スコア95%とFable 5.1の40%を、トークン数と費用の比較とともに報告しています。この実験についての報告値であり、ロボット全般の信頼性を独立に再現・測定したものではありません。
 
 [元投稿](<https://x.com/chooi_jeq/status/2096064315115839904>) · [ギャラリーの詳細](<https://magiccreator.ai/ja/astra#robot-control-experiment>)
+
+### KiCadでの基板レイアウト
+
+[![KiCadでの基板レイアウト — 作者の元投稿からのプレビュー](<https://pbs.twimg.com/amplify_video_thumb/2095637459510218752/img/EXBF7dYx6vp_Xbmm.jpg>)](<https://x.com/ChihYang04/status/2095637507337826741>)
+
+KiCad内でプリント基板のレイアウトを行うデモ。
+
+**作者:** [Kai Yang](<https://x.com/ChihYang04>) · **ツール・形式:** KiCad
+
+作者はAstraがKiCadで基板を配置・配線する様子を紹介している。動画は設計工程を示すもので、製造や電気試験の結果は記載していない。
+
+[元投稿](<https://x.com/ChihYang04/status/2095637507337826741>) · [ギャラリーの詳細](<https://magiccreator.ai/ja/astra#kicad-pcb-layout>)
+
+### MCP経由で作るAbleton楽曲
+
+[![MCP経由で作るAbleton楽曲 — 作者の元投稿からのプレビュー](<https://pbs.twimg.com/amplify_video_thumb/2095522731559469057/img/aq55_5f7xs6_LiZh.jpg>)](<https://x.com/skirano/status/2095595942544089525>)
+
+Abletonでシンセ音源、各パート、編曲を組み立てた楽曲。
+
+**作者:** [Pietro Schirano](<https://x.com/skirano>) · **ツール・形式:** Ableton, MCP
+
+作者はMCP経由でモデルをAbletonにつなぎ、楽曲をゼロから制作したと説明している。GPT-6の早期アクセス体験を紹介するスレッドの最後の作例。
+
+[元投稿](<https://x.com/skirano/status/2095595942544089525>) · [ギャラリーの詳細](<https://magiccreator.ai/ja/astra#ableton-mcp-track>)
+
+### 画面を見て遊ぶPokémonエージェント
+
+[![画面を見て遊ぶPokémonエージェント — 作者の元投稿からのプレビュー](<https://pbs.twimg.com/media/HRT4RchaUAAp_lJ.png>)](<https://x.com/Clad3815/status/2095596013168050551>)
+
+スクリーンショットだけを使ってPokémonを自律的にプレイ。
+
+**作者:** [Clad3815](<https://x.com/Clad3815>) · **ツール・形式:** Pokémon
+
+作者によると、AstraはRAMへのアクセスやヒント、攻略情報を使わず、画面だけを見て18時間12分でチャンピオンに到達した。
+
+[元投稿](<https://x.com/Clad3815/status/2095596013168050551>) · [ギャラリーの詳細](<https://magiccreator.ai/ja/astra#pokemon-screenshot-agent>)
+
+### 地図のピンから3D街区へ
+
+[![地図のピンから3D街区へ — 作者の元投稿からのプレビュー](<https://pbs.twimg.com/amplify_video_thumb/2095898903078207488/img/i9DKDOfvYTe0wiW7.jpg>)](<https://x.com/skirano/status/2095899479308144981>)
+
+地図上で指定した場所を立体的な街区シーンに変換。
+
+**作者:** [Pietro Schirano](<https://x.com/skirano>) · **ツール・形式:** 3D
+
+作者はGPT-6に地図のピン周辺を再構築させる実験を紹介している。使用レンダラーや地図としての精度は投稿に記載されていない。
+
+[元投稿](<https://x.com/skirano/status/2095899479308144981>) · [ギャラリーの詳細](<https://magiccreator.ai/ja/astra#map-pin-3d-neighborhood>)
+
+### AstraがSlay the Spire 2をプレイ
+
+[![AstraがSlay the Spire 2をプレイ — 作者の元投稿からのプレビュー](<https://pbs.twimg.com/amplify_video_thumb/2096192501153705984/img/Owwdv3C08sVR0vOg.jpg>)](<https://x.com/coolish/status/2096195104809873710>)
+
+Astraが操作方法を学び、カード戦略ゲームをプレイする記録。
+
+**作者:** [paulwei](<https://x.com/coolish>) · **ツール・形式:** Slay the Spire 2, Computer Use
+
+作者が音声で依頼し、既存ゲームを遊ぶAstraを録画。クリアや使用量は作者の申告であり、ゲーム自体をAstraが制作したわけではありません。
+
+[元投稿](<https://x.com/coolish/status/2096195104809873710>) · [ギャラリーの詳細](<https://magiccreator.ai/ja/astra#slay-the-spire-computer-use>)
+
+### Cinema 4Dでのモデリング
+
+[![Cinema 4Dでのモデリング — 作者の元投稿からのプレビュー](<https://pbs.twimg.com/media/HRcobclb0AAh4Tg.jpg>)](<https://x.com/mojon1/status/2096189580752081024>)
+
+Cinema 4Dで細分化曲面とスイープオブジェクトを使うモデリング事例。
+
+**作者:** [モジョン](<https://x.com/mojon1>) · **ツール・形式:** Cinema 4D, SDS
+
+作者がAstraにCinema 4Dでのモデリングを依頼。本体にはSDS、細い線にはスイープオブジェクトを使ったと説明しています。
+
+[元投稿](<https://x.com/mojon1/status/2096189580752081024>) · [ギャラリーの詳細](<https://magiccreator.ai/ja/astra#cinema4d-modeling>)
+
+### SpeedTreeのマンゴーの木
+
+[![SpeedTreeのマンゴーの木 — 作者の元投稿からのプレビュー](<https://pbs.twimg.com/media/HRiFMgzaoAA_i9s.jpg>)](<https://x.com/waitin4agi_/status/2096572429066006845>)
+
+葉と樹皮のマテリアルを生成したSpeedTreeのマンゴー樹木事例。
+
+**作者:** [Varun Mayya](<https://x.com/waitin4agi_>) · **ツール・形式:** SpeedTree, Unreal Engine
+
+作者がAstraにUnreal向けのマンゴーの木を依頼。樹皮に改善の余地があると述べており、要求したAAA品質やフレームレートは検証済みの結果ではありません。
+
+[元投稿](<https://x.com/waitin4agi_/status/2096572429066006845>) · [ギャラリーの詳細](<https://magiccreator.ai/ja/astra#speedtree-mango-tree>)
 
 ### ドローン飛行制御基板
 
@@ -956,6 +1432,30 @@ AstraがKiCadでドローンの飛行制御基板を設計し、続いてJLCEDA�
 作者はAstraが生の仕様データからPower BIの図表を作成・修正し、33ブランドの103件を扱ったと報告しています。元データと比較結果は独立に確認していません。
 
 [元投稿](<https://x.com/0x_meden/status/2096718883868561791>) · [ギャラリーの詳細](<https://magiccreator.ai/ja/astra#power-bi-ev-dashboard>)
+
+### DuoLockのAndroid版更新
+
+[![DuoLockのAndroid版更新 — 作者の元投稿からのプレビュー](<https://pbs.twimg.com/media/HRc0QhiXMAAiSoz.jpg>)](<https://x.com/jonaswrks/status/2096201967982829707>)
+
+既存のiOS版を参考にKotlin製Androidアプリを更新。
+
+**作者:** [JONAS](<https://x.com/jonaswrks>) · **ツール・形式:** Kotlin, Android, iOS
+
+作者がDuoLockのiOS版をAstraへの参考として提供。1回の依頼で実装したとの申告は独立に検証していません。
+
+[元投稿](<https://x.com/jonaswrks/status/2096201967982829707>) · [ギャラリーの詳細](<https://magiccreator.ai/ja/astra#duolock-android-port>)
+
+### ローレンツ・カオス探索
+
+[![ローレンツ・カオス探索 — 作者の元投稿からのプレビュー](<https://pbs.twimg.com/amplify_video_thumb/2096556348947517440/img/frHLhfxPyJh2QJnu.jpg>)](<https://x.com/juyeam/status/2096572156453028193>)
+
+初期値の差を変え、時間とともに離れていく2本のローレンツ軌道を比較。
+
+**作者:** [Juy | AI experiments](<https://x.com/juyeam>) · **ツール・形式:** Lorenz, Python
+
+Astraが対話型シミュレーションと動画を実装。作者は数値計算の確認と、長期の厳密な軌道の保証を区別しています。
+
+[元投稿](<https://x.com/juyeam/status/2096572156453028193>) · [体験する](<https://tiny-worlds-juyeam.juyeam.chatgpt.site/chaos>) · [ギャラリーの詳細](<https://magiccreator.ai/ja/astra#lorenz-chaos-explorer>)
 
 <a id="suggest-a-demo"></a>
 
