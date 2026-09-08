@@ -9,7 +9,7 @@ GPT-6 Astraを使ったゲーム、Blender・3D、ウェブサイト、動画、
 
 **[MagicCreatorのビジュアルギャラリーへ →](<https://magiccreator.ai/ja/astra>)** — プレビューを見て、分類で絞り込み、作者提供の体験リンクを探せます。
 
-56件の事例 · 作者提供の体験リンク17件 · 最新の記録上の確認日：2026-09-08
+70件の事例 · 作者提供の体験リンク31件 · 最新の記録上の確認日：2026-09-08
 
 これは作品事例のディレクトリです。プロンプト集や独立したベンチマークではありません。使用モデル、制作時間、成果はリンク先の作者の報告に基づき、収録は制作の再現やすべての動作確認を意味しません。OpenAIとは関係のない独立したコミュニティの作品集です。
 
@@ -27,11 +27,11 @@ GPT-6 Astraを使ったゲーム、Blender・3D、ウェブサイト、動画、
 
 ## 目次
 
-- [GPT-6 Astraのゲームと体験デモ](#games) (14)
+- [GPT-6 Astraのゲームと体験デモ](#games) (24)
 - [GPT-6 AstraのBlender・3Dデモ](#blender) (10)
-- [GPT-6 Astraのウェブサイト・アプリ](#web) (18)
+- [GPT-6 Astraのウェブサイト・アプリ](#web) (21)
 - [GPT-6 Astraの動画制作事例](#video) (8)
-- [GPT-6 Astraのイラスト・ピクセルアート](#art) (3)
+- [GPT-6 Astraのイラスト・ピクセルアート](#art) (4)
 - [GPT-6 Astraのその他の事例](#others) (3)
 - [作品を推薦する](#suggest-a-demo)
 
@@ -211,6 +211,106 @@ AstraとTesanaのゲーム制作プロジェクトとして紹介された、Hal
 
 [元投稿](<https://x.com/crtvTeknologist/status/2096980188126986533>) · [体験する](<https://bubble-wrap-simulator.vercel.app/>) · [作者のコード](<https://github.com/finktheartist/bubble-wrap-simulator.git>) · [ギャラリーの詳細](<https://magiccreator.ai/ja/astra#bubble-wrap-simulator>)
 
+### Infinite Garden
+
+重力が変わる庭を探索するブラウザパズル。
+
+**ツール・形式:** Infinite Garden
+
+V2EXのAstra作品紹介（https://v2ex.com/t/1239697）から収録。ページは取得できましたが、原作者によるモデルの明示と実際の動作は独立に確認していません。
+
+[元の出典](<https://infinite-garden.yelin8130.chatgpt.site/>) · [体験する](<https://infinite-garden.yelin8130.chatgpt.site/>) · [ギャラリーの詳細](<https://magiccreator.ai/ja/astra#infinite-garden>)
+
+### Mario: Mushroom Kingdom
+
+コインや敵が登場する、マリオ風のブラウザアクション。
+
+**ツール・形式:** Mario: Mushroom Kingdom
+
+V2EXのAstra作品紹介（https://v2ex.com/t/1239697）から収録。ページは取得できましたが、原作者によるモデルの明示と実際の動作は独立に確認していません。
+
+[元の出典](<https://mushroom-arcade-0905.jumaomaomaoju.chatgpt.site/>) · [体験する](<https://mushroom-arcade-0905.jumaomaomaoju.chatgpt.site/>) · [ギャラリーの詳細](<https://magiccreator.ai/ja/astra#mushroom-arcade>)
+
+### Courtside 26
+
+コミュニティで紹介されたブラウザバスケットボールゲーム。
+
+**ツール・形式:** Courtside 26
+
+V2EXのAstra作品紹介（https://v2ex.com/t/1239697）に掲載。確認時にサーバーから空の応答が返り、モデルの帰属とプレイ可否は未確認です。
+
+[元の出典](<https://huhuhu.page.gd/COURTSIDE26.html>) · [ギャラリーの詳細](<https://magiccreator.ai/ja/astra#courtside-26>)
+
+### Three Kingdoms: Wind and Cloud
+
+三国時代を舞台にしたブラウザゲーム。
+
+**ツール・形式:** Three Kingdoms: Wind and Cloud
+
+V2EXのAstra作品紹介（https://v2ex.com/t/1239697）から収録。ページは取得できましたが、原作者によるモデルの明示と実際の動作は独立に確認していません。
+
+[元の出典](<https://sanguo-wind-cloud.amery2010.workers.dev/>) · [体験する](<https://sanguo-wind-cloud.amery2010.workers.dev/>) · [ギャラリーの詳細](<https://magiccreator.ai/ja/astra#sanguo-wind-cloud>)
+
+### PvZ: Garden Defenders
+
+植物で庭を守る、Plants vs. Zombies風のブラウザゲーム。
+
+**ツール・形式:** PvZ: Garden Defenders
+
+V2EXのAstra作品紹介（https://v2ex.com/t/1239697）から収録。ページは取得できましたが、原作者によるモデルの明示と実際の動作は独立に確認していません。
+
+[元の出典](<https://seth-xh.github.io/pvz/>) · [体験する](<https://seth-xh.github.io/pvz/>) · [ギャラリーの詳細](<https://magiccreator.ai/ja/astra#pvz-garden-defenders>)
+
+### Melon Lab
+
+変形する果物を合成するブラウザ物理ゲーム。
+
+**作者:** Ayi1337 · **ツール・形式:** Melon Lab
+
+リンク先の作者リポジトリは、GPT-6 Astraによるワンショット制作と説明し、元のプロンプトとHTMLを公開しています。デモページは取得できましたが、プレイや生成過程は独立に再現していません。
+
+[元の出典](<https://melon-game.jack-514.chatgpt.site/>) · [体験する](<https://melon-game.jack-514.chatgpt.site/>) · [作者のコード](<https://github.com/Ayi1337/gpt6-astra-one-shot-games/tree/main/melon-lab>) · [ギャラリーの詳細](<https://magiccreator.ai/ja/astra#melon-lab>)
+
+### Balatro Web Edition
+
+Balatroに着想を得たブラウザカードゲーム。
+
+**ツール・形式:** Balatro Web Edition
+
+V2EXのAstra作品紹介（https://v2ex.com/t/1239697）から収録。ページは取得できましたが、原作者によるモデルの明示と実際の動作は独立に確認していません。
+
+[元の出典](<https://balatro-v1-1.longyh2333521818.chatgpt.site/>) · [体験する](<https://balatro-v1-1.longyh2333521818.chatgpt.site/>) · [ギャラリーの詳細](<https://magiccreator.ai/ja/astra#balatro-web>)
+
+### Mosswing
+
+ワンボタンで遊ぶ3Dブラウザ飛行ゲーム。
+
+**作者:** Ayi1337 · **ツール・形式:** Mosswing
+
+リンク先の作者リポジトリは、GPT-6 Astraによるワンショット制作と説明し、元のプロンプトとHTMLを公開しています。デモページは取得できましたが、プレイや生成過程は独立に再現していません。
+
+[元の出典](<https://mosswing-quiet-flight.jack-514.chatgpt.site/>) · [体験する](<https://mosswing-quiet-flight.jack-514.chatgpt.site/>) · [作者のコード](<https://github.com/Ayi1337/gpt6-astra-one-shot-games/tree/main/mosswing>) · [ギャラリーの詳細](<https://magiccreator.ai/ja/astra#mosswing>)
+
+### Dust II: Desert Operations
+
+Dust IIの舞台を再現したブラウザシューティング。
+
+**ツール・形式:** Dust II: Desert Operations
+
+V2EXのAstra作品紹介（https://v2ex.com/t/1239697）から収録。ページは取得できましたが、原作者によるモデルの明示と実際の動作は独立に確認していません。
+
+[元の出典](<https://dust-ii-map.yelin8130.chatgpt.site/>) · [体験する](<https://dust-ii-map.yelin8130.chatgpt.site/>) · [ギャラリーの詳細](<https://magiccreator.ai/ja/astra#dust-ii-map>)
+
+### Magic Carpet Wizard
+
+魔法の絨毯で飛び、呪文を放つ3Dブラウザアーケードゲーム。
+
+**作者:** threapchills · **ツール・形式:** Magic Carpet Wizard
+
+リポジトリはGPT-6 Astraで制作したゲームと説明しています。デモページは取得できました。デスクトップのWebGL2が必要で、プレイと制作過程は独立に再現していません。
+
+[元の出典](<https://github.com/threapchills/MagicCarpetWizard>) · [体験する](<https://threapchills.github.io/MagicCarpetWizard/>) · [作者のコード](<https://github.com/threapchills/MagicCarpetWizard>) · [ギャラリーの詳細](<https://magiccreator.ai/ja/astra#magic-carpet-wizard>)
+
 <a id="blender"></a>
 
 ## GPT-6 AstraのBlender・3Dデモ
@@ -353,9 +453,9 @@ UI実験、ブラウザーの可視化、操作可能なウェブアプリ。各
 
 **作者:** [ashe](<https://x.com/ashebytes>) · **ツール・形式:** 3D可視化, 解剖学
 
-作者はAstraでサイトを制作し、2,234個の部品をモデリングしたと説明しています。部品数と解剖学的な正確さは独立に検証していません。投稿には録画がありますが、体験用URLはありません。
+作者はAstraでサイトを制作し、2,234個の部品をモデリングしたと説明しています。部品数と解剖学的な正確さは独立に検証していません。録画と体験用デモを公開しています。
 
-[元投稿](<https://x.com/ashebytes/status/2096221988763173186>) · [ギャラリーの詳細](<https://magiccreator.ai/ja/astra#exploded-male-anatomy>)
+[元投稿](<https://x.com/ashebytes/status/2096221988763173186>) · [体験する](<https://human-atlas-seven.vercel.app>) · [ギャラリーの詳細](<https://magiccreator.ai/ja/astra#exploded-male-anatomy>)
 
 ### インタラクティブなV8エンジン
 
@@ -368,6 +468,18 @@ UI実験、ブラウザーの可視化、操作可能なウェブアプリ。各
 作者はAstraで可視化を制作したと説明しています。収集した投稿には録画がありますが、別の体験用URLはありません。
 
 [元投稿](<https://x.com/DilumSanjaya/status/2096280244663775423>) · [ギャラリーの詳細](<https://magiccreator.ai/ja/astra#v8-engine>)
+
+### Model X Studio
+
+[![Model X Studio — 作者の元投稿からのプレビュー](<https://pbs.twimg.com/amplify_video_thumb/2096008340329627648/img/f7Gt3ww30PLWmsKK.jpg>)](<https://x.com/ashebytes/status/2096009146248122416>)
+
+分解表示、部品の単独表示、説明を備えたTesla Model Xのインタラクティブビューア。
+
+**作者:** [ashe](<https://x.com/ashebytes>) · **ツール・形式:** 3D可視化, Tesla Model X, Three.js
+
+作者はAstraでサイトを制作したと説明しています。リポジトリはBlendKitのcgi Moonによる既存のModel X素材を使用。334個のメッシュ部品はTeslaの整備用部品として検証されていません。独立した教育用の可視化であり、完全な純正部品カタログではありません。
+
+[元投稿](<https://x.com/ashebytes/status/2096009146248122416>) · [体験する](<https://model-x-studio.vercel.app>) · [作者のコード](<https://github.com/ashemag/model-x-studio>) · [ギャラリーの詳細](<https://magiccreator.ai/ja/astra#model-x-studio>)
 
 ### macOS 27シミュレーター
 
@@ -391,17 +503,17 @@ Astraが既存の地理データから操作可能なThree.js地図を作る作�
 
 [元投稿](<https://x.com/synabreu/status/2096557555086725159>) · [体験する](<https://seoul-3d-atlas.synabreu.chatgpt.site/>) · [ギャラリーの詳細](<https://magiccreator.ai/ja/astra#seoul-atlas>)
 
-### Moonlit Forge Studio
+### 地球史のタイムライン
 
-[![Moonlit Forge Studio — 作者の元投稿からのプレビュー](<https://pbs.twimg.com/amplify_video_thumb/2096204966549663744/img/Uzdz8t2v75PQhifx.jpg>)](<https://x.com/op7418/status/2096205141187956887>)
+[![地球史のタイムライン — 作者の元投稿からのプレビュー](<https://pbs.twimg.com/amplify_video_thumb/2096776491011072000/img/3zm_Z5HY1pAZDQUB.jpg>)](<https://x.com/akshdeeps_001/status/2096776530005488028>)
 
-光る小さな建物とシーン操作を備えた、雰囲気のある3D鍛冶工房サイト。
+地球の歴史と人類文明の段階をたどる、操作可能な地球儀プレゼンテーション。
 
-**作者:** [歸藏(guizang.ai)](<https://x.com/op7418>) · **ツール・形式:** Blender, Three.js, ChatGPT Sites
+**作者:** [Aksh](<https://x.com/akshdeeps_001>) · **ツール・形式:** 操作可能な地球儀, タイムライン, 録画デモ
 
-作者はAstraによるBlenderモデリング、Three.jsへの取り込み、操作機能の追加、ChatGPT Sitesでの公開を説明しています。確認時にリンク先サイトは取得できませんでしたが、元動画とプレビューは閲覧できました。
+作者はAstraでサイトを制作したと説明し、返信で制作プロンプトと体験用デモを公開しています。動画のサンプルフレームでは地球と文明の表示が切り替わります。歴史・地理の正確性は独立に検証していません。
 
-[元投稿](<https://x.com/op7418/status/2096205141187956887>) · [体験する](<https://moonlit-forge-studio.op7418.chatgpt.site>) · [ギャラリーの詳細](<https://magiccreator.ai/ja/astra#moonlit-forge>)
+[元投稿](<https://x.com/akshdeeps_001/status/2096776530005488028>) · [体験する](<https://earth.ethanplus.ai/>) · [ギャラリーの詳細](<https://magiccreator.ai/ja/astra#earth-civilization-timeline>)
 
 ### Three.jsのUI実験
 
@@ -415,17 +527,17 @@ Meng ToはAstraとThree.jsで制作した複数のUI実験を共有していま�
 
 [元投稿](<https://x.com/MengTo/status/2096510126244999366>) · [ギャラリーの詳細](<https://magiccreator.ai/ja/astra#threejs-interfaces>)
 
-### 地球史のタイムライン
+### Moonlit Forge Studio
 
-[![地球史のタイムライン — 作者の元投稿からのプレビュー](<https://pbs.twimg.com/amplify_video_thumb/2096776491011072000/img/3zm_Z5HY1pAZDQUB.jpg>)](<https://x.com/akshdeeps_001/status/2096776530005488028>)
+[![Moonlit Forge Studio — 作者の元投稿からのプレビュー](<https://pbs.twimg.com/amplify_video_thumb/2096204966549663744/img/Uzdz8t2v75PQhifx.jpg>)](<https://x.com/op7418/status/2096205141187956887>)
 
-地球の歴史と人類文明の段階をたどる、操作可能な地球儀プレゼンテーション。
+光る小さな建物とシーン操作を備えた、雰囲気のある3D鍛冶工房サイト。
 
-**作者:** [Aksh](<https://x.com/akshdeeps_001>) · **ツール・形式:** 操作可能な地球儀, タイムライン, 録画デモ
+**作者:** [歸藏(guizang.ai)](<https://x.com/op7418>) · **ツール・形式:** Blender, Three.js, ChatGPT Sites
 
-作者はAstraでサイトを制作したと説明し、返信で制作プロンプトを共有しています。抽出した動画フレームでは地球と文明の表示変化を確認しました。体験用URLはなく、歴史・地理の正確さは独立に検証していません。
+作者はAstraによるBlenderモデリング、Three.jsへの取り込み、操作機能の追加、ChatGPT Sitesでの公開を説明しています。確認時にリンク先サイトは取得できませんでしたが、元動画とプレビューは閲覧できました。
 
-[元投稿](<https://x.com/akshdeeps_001/status/2096776530005488028>) · [ギャラリーの詳細](<https://magiccreator.ai/ja/astra#earth-civilization-timeline>)
+[元投稿](<https://x.com/op7418/status/2096205141187956887>) · [体験する](<https://moonlit-forge-studio.op7418.chatgpt.site>) · [ギャラリーの詳細](<https://magiccreator.ai/ja/astra#moonlit-forge>)
 
 ### Clouds in Motion
 
@@ -451,18 +563,6 @@ Astraを使った個人プロジェクトとして公開された、ブラウザ
 
 [元投稿](<https://x.com/techartist_/status/2096577974242033738>) · [ギャラリーの詳細](<https://magiccreator.ai/ja/astra#radial-engine>)
 
-### ボクセルのボトルシップ
-
-[![ボクセルのボトルシップ — 作者の元投稿からのプレビュー](<https://pbs.twimg.com/amplify_video_thumb/2095698775075622912/img/X2vJ3HmhZXcG8lNC.jpg>)](<https://x.com/DeryaTR_/status/2095699049722581065>)
-
-波、カモメ、小さな港、サンゴ礁を備えたThree.jsのボトルシップ。
-
-**作者:** [Derya Unutmaz, MD](<https://x.com/DeryaTR_>) · **ツール・形式:** Three.js, ボクセルアート
-
-作者はThree.jsシーン、映像、音楽をGPT-6 Astraで制作したと説明しています。投稿には動画がありますが、物理挙動に関する主張は独立に検証していません。
-
-[元投稿](<https://x.com/DeryaTR_/status/2095699049722581065>) · [ギャラリーの詳細](<https://magiccreator.ai/ja/astra#voxel-ship-in-a-bottle>)
-
 ### Astraとの共有ノート
 
 [![Astraとの共有ノート — 作者の元投稿からのプレビュー](<https://pbs.twimg.com/amplify_video_thumb/2096757334433562624/img/G9iHomZ5VdFD9Gro.jpg>)](<https://x.com/skulladult/status/2096764060121673931>)
@@ -475,6 +575,18 @@ Astraを使った個人プロジェクトとして公開された、ブラウザ
 
 [元投稿](<https://x.com/skulladult/status/2096764060121673931>) · [ギャラリーの詳細](<https://magiccreator.ai/ja/astra#shared-notes-with-astra>)
 
+### ボクセルのボトルシップ
+
+[![ボクセルのボトルシップ — 作者の元投稿からのプレビュー](<https://pbs.twimg.com/amplify_video_thumb/2095698775075622912/img/X2vJ3HmhZXcG8lNC.jpg>)](<https://x.com/DeryaTR_/status/2095699049722581065>)
+
+波、カモメ、小さな港、サンゴ礁を備えたThree.jsのボトルシップ。
+
+**作者:** [Derya Unutmaz, MD](<https://x.com/DeryaTR_>) · **ツール・形式:** Three.js, ボクセルアート
+
+作者はThree.jsシーン、映像、音楽をGPT-6 Astraで制作したと説明しています。投稿には動画がありますが、物理挙動に関する主張は独立に検証していません。
+
+[元投稿](<https://x.com/DeryaTR_/status/2095699049722581065>) · [ギャラリーの詳細](<https://magiccreator.ai/ja/astra#voxel-ship-in-a-bottle>)
+
 ### Microduck Assembly Lab
 
 [![Microduck Assembly Lab — 作者の元投稿からのプレビュー](<https://pbs.twimg.com/amplify_video_thumb/2096233778113118208/img/9HOvR6k_Z10CchxV.jpg>)](<https://x.com/tspy/status/2096238855519453662>)
@@ -486,18 +598,6 @@ Astraを使った個人プロジェクトとして公開された、ブラウザ
 作者は既存のMicroduck CAD形状とアセンブリをもとに、Astraでビューアーを制作したと説明しています。既存ロボット設計の可視化であり、Astraがロボットを設計・制御した証拠ではありません。
 
 [元投稿](<https://x.com/tspy/status/2096238855519453662>) · [体験する](<https://microduck-assembly-lab.yishan-lin.chatgpt.site/>) · [ギャラリーの詳細](<https://magiccreator.ai/ja/astra#microduck-assembly-lab>)
-
-### 操作してたどるiPhoneの歴史
-
-[![操作してたどるiPhoneの歴史 — 作者の元投稿からのプレビュー](<https://pbs.twimg.com/amplify_video_thumb/2096917421718163457/img/qM5HjO10Vqq203oe.jpg>)](<https://x.com/blueemi99/status/2096917792737911131>)
-
-操作可能な端末、当時風のUI、アプリ、キーボードを備えたiPhoneの歴史サイト。
-
-**作者:** [bluedev](<https://x.com/blueemi99>) · **ツール・形式:** 操作して学ぶ歴史, UI再現
-
-作者はAstraでサイトを制作したと説明し、体験版と動画を共有しています。UIの再現作品で、歴史的な忠実さは独立に確認していません。
-
-[元投稿](<https://x.com/blueemi99/status/2096917792737911131>) · [体験する](<https://iphone-archive.vercel.app>) · [ギャラリーの詳細](<https://magiccreator.ai/ja/astra#interactive-iphone-history>)
 
 ### Boeing 777着陸シミュレーター
 
@@ -523,6 +623,32 @@ Boeing 777-300ERモデルと飛行データの操作部を備えた着陸シミ�
 
 [元投稿](<https://x.com/johnnnavent/status/2096983463760904311>) · [ギャラリーの詳細](<https://magiccreator.ai/ja/astra#directional-sticker-peel>)
 
+### 操作してたどるiPhoneの歴史
+
+[![操作してたどるiPhoneの歴史 — 作者の元投稿からのプレビュー](<https://pbs.twimg.com/amplify_video_thumb/2096917421718163457/img/qM5HjO10Vqq203oe.jpg>)](<https://x.com/blueemi99/status/2096917792737911131>)
+
+操作可能な端末、当時風のUI、アプリ、キーボードを備えたiPhoneの歴史サイト。
+
+**作者:** [bluedev](<https://x.com/blueemi99>) · **ツール・形式:** 操作して学ぶ歴史, UI再現
+
+作者はAstraでサイトを制作したと説明し、体験版と動画を共有しています。UIの再現作品で、歴史的な忠実さは独立に確認していません。
+
+[元投稿](<https://x.com/blueemi99/status/2096917792737911131>) · [体験する](<https://iphone-archive.vercel.app>) · [ギャラリーの詳細](<https://magiccreator.ai/ja/astra#interactive-iphone-history>)
+
+### Adonis レストランデモ
+
+[![Adonis レストランデモ — 作者の元投稿からのプレビュー](<https://pbs.twimg.com/amplify_video_thumb/2096946014590791680/img/rMdkc6FKGQirobnu.jpg>)](<https://x.com/ElieAsaade/status/2096946103350608154>)
+
+スタッフや客との会話例を見せる、小さなレストランのウォークスルー。
+
+**作者:** [Elie](<https://x.com/ElieAsaade>) · **ツール・形式:** Blender, 3Dウォークスルー, 製品デモ
+
+作者は制作中の製品デモにAstraとBlenderを使ったと説明しています。会話はレストラン業務の例示であり、実運用の自動化を検証したものではありません。投稿は録画で、会社のホームページを体験版URLとは確認していません。
+
+**開示事項:** 作者自身の製品紹介.
+
+[元投稿](<https://x.com/ElieAsaade/status/2096946103350608154>) · [ギャラリーの詳細](<https://magiccreator.ai/ja/astra#adonis-restaurant>)
+
 ### Asteria 宇宙船エクスプローラー
 
 宇宙船の外観と惑星を望む展望ラウンジを備えた太陽系探索。
@@ -545,19 +671,25 @@ Equal Earth図法と、地球を平面にする際のトレードオフを探索
 
 [元投稿](<https://x.com/stevwangdev/status/2096983019294974011>) · [体験する](<https://your-equal-earth.pages.dev/>) · [ギャラリーの詳細](<https://magiccreator.ai/ja/astra#equal-earth-map>)
 
-### Adonis レストランデモ
+### RB19 Engineering Explorer
 
-[![Adonis レストランデモ — 作者の元投稿からのプレビュー](<https://pbs.twimg.com/amplify_video_thumb/2096946014590791680/img/rMdkc6FKGQirobnu.jpg>)](<https://x.com/ElieAsaade/status/2096946103350608154>)
+部品表示と模擬テレメトリーを備えたRB19のインタラクティブビューア。
 
-スタッフや客との会話例を見せる、小さなレストランのウォークスルー。
+**ツール・形式:** RB19 Engineering Explorer
 
-**作者:** [Elie](<https://x.com/ElieAsaade>) · **ツール・形式:** Blender, 3Dウォークスルー, 製品デモ
+V2EXのAstra作品紹介（https://v2ex.com/t/1239697）から収録。ページは取得できましたが、原作者によるモデルの明示と実際の動作は独立に確認していません。
 
-作者は制作中の製品デモにAstraとBlenderを使ったと説明しています。会話はレストラン業務の例示であり、実運用の自動化を検証したものではありません。投稿は録画で、会社のホームページを体験版URLとは確認していません。
+[元の出典](<https://rb19-engineering-lab.moraxc.chatgpt.site/>) · [体験する](<https://rb19-engineering-lab.moraxc.chatgpt.site/>) · [ギャラリーの詳細](<https://magiccreator.ai/ja/astra#rb19-engineering-lab>)
 
-**開示事項:** 作者自身の製品紹介.
+### Houniao Model Comparison
 
-[元投稿](<https://x.com/ElieAsaade/status/2096946103350608154>) · [ギャラリーの詳細](<https://magiccreator.ai/ja/astra#adonis-restaurant>)
+コミュニティで共有されたモデル比較サイト。Astraの関与は未確認。
+
+**ツール・形式:** Houniao Model Comparison
+
+https://v2ex.com/t/1239697 のコミュニティ情報として収録。Astra製と確認した作品ではありません。URLには紹介時期より前の20260721が含まれ、確認時は利用上限によるHTTP 503でした。
+
+[元の出典](<https://houniao-model-battle-20260721.netlify.app/>) · [ギャラリーの詳細](<https://magiccreator.ai/ja/astra#houniao-model-battle>)
 
 <a id="video"></a>
 
@@ -708,6 +840,16 @@ Asepriteで制作した初音ミクのピクセルアート。制作過程の録
 作者はAstraの使用を明記し、3枚の画像を添付しています。デザインツール、プロンプト、手作業による編集量は説明されていません。
 
 [元投稿](<https://x.com/JaydenDavisNC/status/2096986857158377757>) · [ギャラリーの詳細](<https://magiccreator.ai/ja/astra#astra-poster-studies>)
+
+### Orbital Garden
+
+花、環、銀河の形に変化するインタラクティブな粒子アート。
+
+**ツール・形式:** Orbital Garden
+
+取得したページはコード、形状、インタラクションをGPT-6 Astraによるものとし、標準WebGLと手続き型グラフィックスを使用しています。重力の芸術的表現であり物理シミュレーションではありません。操作は未検証です。
+
+[元の出典](<https://orbital-garden.hp20230404.chatgpt.site>) · [体験する](<https://orbital-garden.hp20230404.chatgpt.site>) · [ギャラリーの詳細](<https://magiccreator.ai/ja/astra#orbital-garden>)
 
 <a id="others"></a>
 

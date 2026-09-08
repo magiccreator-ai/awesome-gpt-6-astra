@@ -9,7 +9,7 @@ Seguiremos añadiendo demos a medida que las descubramos y revisemos. Guarda el 
 
 **[Explora la galería visual en MagicCreator →](<https://magiccreator.ai/es/astra>)** — Mira vistas previas, filtra por categoría y encuentra demos enlazadas por sus creadores.
 
-56 ejemplos · 17 enlaces de demo aportados por creadores · Última revisión registrada: 2026-09-08
+70 ejemplos · 31 enlaces de demo aportados por creadores · Última revisión registrada: 2026-09-08
 
 Este es un directorio de ejemplos, no una colección de prompts ni un benchmark independiente. La atribución del modelo, los tiempos y los resultados se basan en las publicaciones enlazadas. La inclusión no implica haber reproducido el trabajo ni probado todas las demos. Es una colección comunitaria independiente, sin afiliación con OpenAI.
 
@@ -27,11 +27,11 @@ La vista previa pertenece a su creador y enlaza la publicación original; este r
 
 ## Índice
 
-- [Juegos y demos jugables de GPT-6 Astra](#games) (14)
+- [Juegos y demos jugables de GPT-6 Astra](#games) (24)
 - [Demos de Blender y 3D con GPT-6 Astra](#blender) (10)
-- [Webs y aplicaciones con GPT-6 Astra](#web) (18)
+- [Webs y aplicaciones con GPT-6 Astra](#web) (21)
 - [Creación de vídeo con GPT-6 Astra](#video) (8)
-- [Dibujos y pixel art con GPT-6 Astra](#art) (3)
+- [Dibujos y pixel art con GPT-6 Astra](#art) (4)
 - [Otras demos de GPT-6 Astra](#others) (3)
 - [Sugerir una demo](#suggest-a-demo)
 
@@ -211,6 +211,106 @@ El creador menciona Astra y Three.js y comparte una demo, con código fuente en 
 
 [Publicación original](<https://x.com/crtvTeknologist/status/2096980188126986533>) · [Probar demo](<https://bubble-wrap-simulator.vercel.app/>) · [Código del creador](<https://github.com/finktheartist/bubble-wrap-simulator.git>) · [Detalles en la galería](<https://magiccreator.ai/es/astra#bubble-wrap-simulator>)
 
+### Infinite Garden
+
+Explora patios con gravedad cambiante en un mundo de puzles para navegador.
+
+**Herramientas / formato:** Infinite Garden
+
+Incluido desde la recopilación de Astra en V2EX: https://v2ex.com/t/1239697. Se recuperó la página, pero no se verificaron de forma independiente la atribución del autor ni el funcionamiento.
+
+[Fuente original](<https://infinite-garden.yelin8130.chatgpt.site/>) · [Probar demo](<https://infinite-garden.yelin8130.chatgpt.site/>) · [Detalles en la galería](<https://magiccreator.ai/es/astra#infinite-garden>)
+
+### Mario: Mushroom Kingdom
+
+Un juego de plataformas para navegador inspirado en Mario, con monedas y enemigos.
+
+**Herramientas / formato:** Mario: Mushroom Kingdom
+
+Incluido desde la recopilación de Astra en V2EX: https://v2ex.com/t/1239697. Se recuperó la página, pero no se verificaron de forma independiente la atribución del autor ni el funcionamiento.
+
+[Fuente original](<https://mushroom-arcade-0905.jumaomaomaoju.chatgpt.site/>) · [Probar demo](<https://mushroom-arcade-0905.jumaomaomaoju.chatgpt.site/>) · [Detalles en la galería](<https://magiccreator.ai/es/astra#mushroom-arcade>)
+
+### Courtside 26
+
+Un juego de baloncesto para navegador compartido por la comunidad.
+
+**Herramientas / formato:** Courtside 26
+
+Listado en la recopilación de Astra en V2EX: https://v2ex.com/t/1239697. El servidor devolvió una respuesta vacía; la atribución del modelo y la jugabilidad siguen sin verificarse.
+
+[Fuente original](<https://huhuhu.page.gd/COURTSIDE26.html>) · [Detalles en la galería](<https://magiccreator.ai/es/astra#courtside-26>)
+
+### Three Kingdoms: Wind and Cloud
+
+Un juego para navegador ambientado en la época de los Tres Reinos.
+
+**Herramientas / formato:** Three Kingdoms: Wind and Cloud
+
+Incluido desde la recopilación de Astra en V2EX: https://v2ex.com/t/1239697. Se recuperó la página, pero no se verificaron de forma independiente la atribución del autor ni el funcionamiento.
+
+[Fuente original](<https://sanguo-wind-cloud.amery2010.workers.dev/>) · [Probar demo](<https://sanguo-wind-cloud.amery2010.workers.dev/>) · [Detalles en la galería](<https://magiccreator.ai/es/astra#sanguo-wind-cloud>)
+
+### PvZ: Garden Defenders
+
+Un juego para navegador inspirado en Plants vs. Zombies para defender un jardín.
+
+**Herramientas / formato:** PvZ: Garden Defenders
+
+Incluido desde la recopilación de Astra en V2EX: https://v2ex.com/t/1239697. Se recuperó la página, pero no se verificaron de forma independiente la atribución del autor ni el funcionamiento.
+
+[Fuente original](<https://seth-xh.github.io/pvz/>) · [Probar demo](<https://seth-xh.github.io/pvz/>) · [Detalles en la galería](<https://magiccreator.ai/es/astra#pvz-garden-defenders>)
+
+### Melon Lab
+
+Fusiona frutas deformables en un juego de física para navegador.
+
+**Creador:** Ayi1337 · **Herramientas / formato:** Melon Lab
+
+El repositorio del autor atribuye el juego a GPT-6 Astra en una sola generación y ofrece el prompt original y el HTML. Se recuperó la demo; no se reprodujeron de forma independiente el juego ni su creación.
+
+[Fuente original](<https://melon-game.jack-514.chatgpt.site/>) · [Probar demo](<https://melon-game.jack-514.chatgpt.site/>) · [Código del creador](<https://github.com/Ayi1337/gpt6-astra-one-shot-games/tree/main/melon-lab>) · [Detalles en la galería](<https://magiccreator.ai/es/astra#melon-lab>)
+
+### Balatro Web Edition
+
+Un juego de cartas para navegador inspirado en Balatro.
+
+**Herramientas / formato:** Balatro Web Edition
+
+Incluido desde la recopilación de Astra en V2EX: https://v2ex.com/t/1239697. Se recuperó la página, pero no se verificaron de forma independiente la atribución del autor ni el funcionamiento.
+
+[Fuente original](<https://balatro-v1-1.longyh2333521818.chatgpt.site/>) · [Probar demo](<https://balatro-v1-1.longyh2333521818.chatgpt.site/>) · [Detalles en la galería](<https://magiccreator.ai/es/astra#balatro-web>)
+
+### Mosswing
+
+Un juego de vuelo 3D para navegador con un solo botón.
+
+**Creador:** Ayi1337 · **Herramientas / formato:** Mosswing
+
+El repositorio del autor atribuye el juego a GPT-6 Astra en una sola generación y ofrece el prompt original y el HTML. Se recuperó la demo; no se reprodujeron de forma independiente el juego ni su creación.
+
+[Fuente original](<https://mosswing-quiet-flight.jack-514.chatgpt.site/>) · [Probar demo](<https://mosswing-quiet-flight.jack-514.chatgpt.site/>) · [Código del creador](<https://github.com/Ayi1337/gpt6-astra-one-shot-games/tree/main/mosswing>) · [Detalles en la galería](<https://magiccreator.ai/es/astra#mosswing>)
+
+### Dust II: Desert Operations
+
+Un juego de disparos para navegador que recrea el escenario de Dust II.
+
+**Herramientas / formato:** Dust II: Desert Operations
+
+Incluido desde la recopilación de Astra en V2EX: https://v2ex.com/t/1239697. Se recuperó la página, pero no se verificaron de forma independiente la atribución del autor ni el funcionamiento.
+
+[Fuente original](<https://dust-ii-map.yelin8130.chatgpt.site/>) · [Probar demo](<https://dust-ii-map.yelin8130.chatgpt.site/>) · [Detalles en la galería](<https://magiccreator.ai/es/astra#dust-ii-map>)
+
+### Magic Carpet Wizard
+
+Vuela en una alfombra mágica y lanza hechizos en un juego arcade 3D para navegador.
+
+**Creador:** threapchills · **Herramientas / formato:** Magic Carpet Wizard
+
+El repositorio describe el juego como creado con GPT-6 Astra. Se recuperó la demo. Requiere WebGL2 de escritorio; no se reprodujeron de forma independiente el juego ni el proceso de creación.
+
+[Fuente original](<https://github.com/threapchills/MagicCarpetWizard>) · [Probar demo](<https://threapchills.github.io/MagicCarpetWizard/>) · [Código del creador](<https://github.com/threapchills/MagicCarpetWizard>) · [Detalles en la galería](<https://magiccreator.ai/es/astra#magic-carpet-wizard>)
+
 <a id="blender"></a>
 
 ## Demos de Blender y 3D con GPT-6 Astra
@@ -353,9 +453,9 @@ Demo grabada de una web de anatomía 3D que separa un modelo corporal masculino 
 
 **Creador:** [ashe](<https://x.com/ashebytes>) · **Herramientas / formato:** Visualización 3D, Anatomía
 
-El creador atribuye la web a Astra y afirma haber modelado 2.234 piezas. No se han verificado de forma independiente la cantidad ni la precisión anatómica. La publicación incluye una grabación, pero no una URL para probarla.
+El creador atribuye la web a Astra y afirma haber modelado 2.234 piezas. No se han verificado de forma independiente la cantidad ni la precisión anatómica. Hay una grabación y una demo en vivo disponibles.
 
-[Publicación original](<https://x.com/ashebytes/status/2096221988763173186>) · [Detalles en la galería](<https://magiccreator.ai/es/astra#exploded-male-anatomy>)
+[Publicación original](<https://x.com/ashebytes/status/2096221988763173186>) · [Probar demo](<https://human-atlas-seven.vercel.app>) · [Detalles en la galería](<https://magiccreator.ai/es/astra#exploded-male-anatomy>)
 
 ### Motor V8 interactivo
 
@@ -368,6 +468,18 @@ Una visualización detallada e interactiva de un motor, demostrada en un vídeo 
 El creador atribuye la visualización a Astra. La publicación recopilada incluye una grabación, pero no un enlace independiente para probarla.
 
 [Publicación original](<https://x.com/DilumSanjaya/status/2096280244663775423>) · [Detalles en la galería](<https://magiccreator.ai/es/astra#v8-engine>)
+
+### Model X Studio
+
+[![Model X Studio — Vista previa de la publicación del creador](<https://pbs.twimg.com/amplify_video_thumb/2096008340329627648/img/f7Gt3ww30PLWmsKK.jpg>)](<https://x.com/ashebytes/status/2096009146248122416>)
+
+Un visor interactivo del Tesla Model X con vista de despiece, aislamiento de componentes y descripciones.
+
+**Creador:** [ashe](<https://x.com/ashebytes>) · **Herramientas / formato:** Visualización 3D, Tesla Model X, Three.js
+
+El creador atribuye la web a Astra. El repositorio usa un modelo existente de cgi Moon en BlendKit; sus 334 piezas de malla no son recambios Tesla verificados. Es una visualización educativa independiente, no un catálogo completo de piezas originales.
+
+[Publicación original](<https://x.com/ashebytes/status/2096009146248122416>) · [Probar demo](<https://model-x-studio.vercel.app>) · [Código del creador](<https://github.com/ashemag/model-x-studio>) · [Detalles en la galería](<https://magiccreator.ai/es/astra#model-x-studio>)
 
 ### Simulador de macOS 27
 
@@ -391,17 +503,17 @@ Astra ayudó a crear un mapa interactivo de Three.js a partir de datos geográfi
 
 [Publicación original](<https://x.com/synabreu/status/2096557555086725159>) · [Probar demo](<https://seoul-3d-atlas.synabreu.chatgpt.site/>) · [Detalles en la galería](<https://magiccreator.ai/es/astra#seoul-atlas>)
 
-### Moonlit Forge Studio
+### Cronología de la Tierra
 
-[![Moonlit Forge Studio — Vista previa de la publicación del creador](<https://pbs.twimg.com/amplify_video_thumb/2096204966549663744/img/Uzdz8t2v75PQhifx.jpg>)](<https://x.com/op7418/status/2096205141187956887>)
+[![Cronología de la Tierra — Vista previa de la publicación del creador](<https://pbs.twimg.com/amplify_video_thumb/2096776491011072000/img/3zm_Z5HY1pAZDQUB.jpg>)](<https://x.com/akshdeeps_001/status/2096776530005488028>)
 
-Una web de una forja 3D con ambiente evocador, un pequeño edificio iluminado y controles de escena.
+Una presentación interactiva del globo recorre la historia de la Tierra y las etapas de la civilización humana.
 
-**Creador:** [歸藏(guizang.ai)](<https://x.com/op7418>) · **Herramientas / formato:** Blender, Three.js, ChatGPT Sites
+**Creador:** [Aksh](<https://x.com/akshdeeps_001>) · **Herramientas / formato:** Globo interactivo, Cronología, Demo grabada
 
-El creador describe el modelado con Astra en Blender, la importación a Three.js, las interacciones y la publicación con ChatGPT Sites. La web enlazada no pudo recuperarse durante la revisión; el vídeo original y la vista previa estaban disponibles.
+El autor atribuye la web a Astra y comparte el prompt de creación y la demo en vivo en sus respuestas. Los fotogramas revisados muestran distintas vistas de la Tierra y la civilización. No se ha verificado de forma independiente la precisión histórica ni geográfica.
 
-[Publicación original](<https://x.com/op7418/status/2096205141187956887>) · [Probar demo](<https://moonlit-forge-studio.op7418.chatgpt.site>) · [Detalles en la galería](<https://magiccreator.ai/es/astra#moonlit-forge>)
+[Publicación original](<https://x.com/akshdeeps_001/status/2096776530005488028>) · [Probar demo](<https://earth.ethanplus.ai/>) · [Detalles en la galería](<https://magiccreator.ai/es/astra#earth-civilization-timeline>)
 
 ### Estudios de interfaces Three.js
 
@@ -415,17 +527,17 @@ Meng To comparte varios experimentos de interfaz creados con Astra y Three.js. E
 
 [Publicación original](<https://x.com/MengTo/status/2096510126244999366>) · [Detalles en la galería](<https://magiccreator.ai/es/astra#threejs-interfaces>)
 
-### Cronología de la Tierra
+### Moonlit Forge Studio
 
-[![Cronología de la Tierra — Vista previa de la publicación del creador](<https://pbs.twimg.com/amplify_video_thumb/2096776491011072000/img/3zm_Z5HY1pAZDQUB.jpg>)](<https://x.com/akshdeeps_001/status/2096776530005488028>)
+[![Moonlit Forge Studio — Vista previa de la publicación del creador](<https://pbs.twimg.com/amplify_video_thumb/2096204966549663744/img/Uzdz8t2v75PQhifx.jpg>)](<https://x.com/op7418/status/2096205141187956887>)
 
-Una presentación interactiva del globo recorre la historia de la Tierra y las etapas de la civilización humana.
+Una web de una forja 3D con ambiente evocador, un pequeño edificio iluminado y controles de escena.
 
-**Creador:** [Aksh](<https://x.com/akshdeeps_001>) · **Herramientas / formato:** Globo interactivo, Cronología, Demo grabada
+**Creador:** [歸藏(guizang.ai)](<https://x.com/op7418>) · **Herramientas / formato:** Blender, Three.js, ChatGPT Sites
 
-El autor atribuye la web a Astra y comparte el prompt en una respuesta. Los fotogramas muestreados muestran cambios en la Tierra y las civilizaciones. No ofrece una URL de demo; la precisión histórica y geográfica no se ha verificado de forma independiente.
+El creador describe el modelado con Astra en Blender, la importación a Three.js, las interacciones y la publicación con ChatGPT Sites. La web enlazada no pudo recuperarse durante la revisión; el vídeo original y la vista previa estaban disponibles.
 
-[Publicación original](<https://x.com/akshdeeps_001/status/2096776530005488028>) · [Detalles en la galería](<https://magiccreator.ai/es/astra#earth-civilization-timeline>)
+[Publicación original](<https://x.com/op7418/status/2096205141187956887>) · [Probar demo](<https://moonlit-forge-studio.op7418.chatgpt.site>) · [Detalles en la galería](<https://magiccreator.ai/es/astra#moonlit-forge>)
 
 ### Clouds in Motion
 
@@ -451,18 +563,6 @@ El creador atribuye el código a Astra y muestra la interacción en vídeo. No s
 
 [Publicación original](<https://x.com/techartist_/status/2096577974242033738>) · [Detalles en la galería](<https://magiccreator.ai/es/astra#radial-engine>)
 
-### Barco de vóxeles en una botella
-
-[![Barco de vóxeles en una botella — Vista previa de la publicación del creador](<https://pbs.twimg.com/amplify_video_thumb/2095698775075622912/img/X2vJ3HmhZXcG8lNC.jpg>)](<https://x.com/DeryaTR_/status/2095699049722581065>)
-
-Una escena de Three.js con un barco en una botella, olas, gaviotas, un pequeño puerto y arrecifes de coral.
-
-**Creador:** [Derya Unutmaz, MD](<https://x.com/DeryaTR_>) · **Herramientas / formato:** Three.js, Arte de vóxeles
-
-El creador atribuye la escena de Three.js, el vídeo cinematográfico y la música a GPT-6 Astra. La publicación ofrece un vídeo; las afirmaciones sobre física no se han validado de forma independiente.
-
-[Publicación original](<https://x.com/DeryaTR_/status/2095699049722581065>) · [Detalles en la galería](<https://magiccreator.ai/es/astra#voxel-ship-in-a-bottle>)
-
 ### Notas compartidas con Astra
 
 [![Notas compartidas con Astra — Vista previa de la publicación del creador](<https://pbs.twimg.com/amplify_video_thumb/2096757334433562624/img/G9iHomZ5VdFD9Gro.jpg>)](<https://x.com/skulladult/status/2096764060121673931>)
@@ -475,6 +575,18 @@ El creador demuestra Astra como colaborador en directo, incluida la corrección 
 
 [Publicación original](<https://x.com/skulladult/status/2096764060121673931>) · [Detalles en la galería](<https://magiccreator.ai/es/astra#shared-notes-with-astra>)
 
+### Barco de vóxeles en una botella
+
+[![Barco de vóxeles en una botella — Vista previa de la publicación del creador](<https://pbs.twimg.com/amplify_video_thumb/2095698775075622912/img/X2vJ3HmhZXcG8lNC.jpg>)](<https://x.com/DeryaTR_/status/2095699049722581065>)
+
+Una escena de Three.js con un barco en una botella, olas, gaviotas, un pequeño puerto y arrecifes de coral.
+
+**Creador:** [Derya Unutmaz, MD](<https://x.com/DeryaTR_>) · **Herramientas / formato:** Three.js, Arte de vóxeles
+
+El creador atribuye la escena de Three.js, el vídeo cinematográfico y la música a GPT-6 Astra. La publicación ofrece un vídeo; las afirmaciones sobre física no se han validado de forma independiente.
+
+[Publicación original](<https://x.com/DeryaTR_/status/2095699049722581065>) · [Detalles en la galería](<https://magiccreator.ai/es/astra#voxel-ship-in-a-bottle>)
+
 ### Microduck Assembly Lab
 
 [![Microduck Assembly Lab — Vista previa de la publicación del creador](<https://pbs.twimg.com/amplify_video_thumb/2096233778113118208/img/9HOvR6k_Z10CchxV.jpg>)](<https://x.com/tspy/status/2096238855519453662>)
@@ -486,18 +598,6 @@ Un visor de montaje 3D interactivo de Microduck con 70 piezas seleccionables, ub
 El creador atribuye a Astra un visor basado en geometría CAD y ensamblajes existentes de Microduck. Visualiza un diseño de robot existente; no demuestra que Astra diseñara o controlara el robot.
 
 [Publicación original](<https://x.com/tspy/status/2096238855519453662>) · [Probar demo](<https://microduck-assembly-lab.yishan-lin.chatgpt.site/>) · [Detalles en la galería](<https://magiccreator.ai/es/astra#microduck-assembly-lab>)
-
-### Historia interactiva del iPhone
-
-[![Historia interactiva del iPhone — Vista previa de la publicación del creador](<https://pbs.twimg.com/amplify_video_thumb/2096917421718163457/img/qM5HjO10Vqq203oe.jpg>)](<https://x.com/blueemi99/status/2096917792737911131>)
-
-Una web sobre la historia del iPhone con teléfonos interactivos, interfaces de época, apps y teclados.
-
-**Creador:** [bluedev](<https://x.com/blueemi99>) · **Herramientas / formato:** Historia interactiva, Recreación de interfaces
-
-El creador dice que hizo la web con Astra y comparte una demo y un vídeo. Son recreaciones de interfaces; no se ha comprobado de forma independiente su fidelidad histórica.
-
-[Publicación original](<https://x.com/blueemi99/status/2096917792737911131>) · [Probar demo](<https://iphone-archive.vercel.app>) · [Detalles en la galería](<https://magiccreator.ai/es/astra#interactive-iphone-history>)
 
 ### Simulador de aterrizaje Boeing 777
 
@@ -523,6 +623,32 @@ El creador atribuye la interacción a OpenAI Astra y dice que la hizo en Arena. 
 
 [Publicación original](<https://x.com/johnnnavent/status/2096983463760904311>) · [Detalles en la galería](<https://magiccreator.ai/es/astra#directional-sticker-peel>)
 
+### Historia interactiva del iPhone
+
+[![Historia interactiva del iPhone — Vista previa de la publicación del creador](<https://pbs.twimg.com/amplify_video_thumb/2096917421718163457/img/qM5HjO10Vqq203oe.jpg>)](<https://x.com/blueemi99/status/2096917792737911131>)
+
+Una web sobre la historia del iPhone con teléfonos interactivos, interfaces de época, apps y teclados.
+
+**Creador:** [bluedev](<https://x.com/blueemi99>) · **Herramientas / formato:** Historia interactiva, Recreación de interfaces
+
+El creador dice que hizo la web con Astra y comparte una demo y un vídeo. Son recreaciones de interfaces; no se ha comprobado de forma independiente su fidelidad histórica.
+
+[Publicación original](<https://x.com/blueemi99/status/2096917792737911131>) · [Probar demo](<https://iphone-archive.vercel.app>) · [Detalles en la galería](<https://magiccreator.ai/es/astra#interactive-iphone-history>)
+
+### Demo de restaurante Adonis
+
+[![Demo de restaurante Adonis — Vista previa de la publicación del creador](<https://pbs.twimg.com/amplify_video_thumb/2096946014590791680/img/rMdkc6FKGQirobnu.jpg>)](<https://x.com/ElieAsaade/status/2096946103350608154>)
+
+Un recorrido por un restaurante en miniatura con conversaciones de ejemplo entre personal y clientes.
+
+**Creador:** [Elie](<https://x.com/ElieAsaade>) · **Herramientas / formato:** Blender, Recorrido 3D, Demo de producto
+
+El creador dice que Astra y Blender ayudaron a construir esta demo de producto aún en desarrollo. Las conversaciones ilustran tareas de restaurante, no automatización operativa verificada. Se muestra una grabación; la web de la empresa no es una URL de demo confirmada.
+
+**Información adicional:** El creador promociona su propio producto.
+
+[Publicación original](<https://x.com/ElieAsaade/status/2096946103350608154>) · [Detalles en la galería](<https://magiccreator.ai/es/astra#adonis-restaurant>)
+
 ### Asteria: explorador espacial
 
 Un explorador del sistema solar con exterior de nave y un salón de observación con vistas a los planetas.
@@ -545,19 +671,25 @@ El creador menciona GPT-6 Astra Light y comparte una captura y una URL de demo. 
 
 [Publicación original](<https://x.com/stevwangdev/status/2096983019294974011>) · [Probar demo](<https://your-equal-earth.pages.dev/>) · [Detalles en la galería](<https://magiccreator.ai/es/astra#equal-earth-map>)
 
-### Demo de restaurante Adonis
+### RB19 Engineering Explorer
 
-[![Demo de restaurante Adonis — Vista previa de la publicación del creador](<https://pbs.twimg.com/amplify_video_thumb/2096946014590791680/img/rMdkc6FKGQirobnu.jpg>)](<https://x.com/ElieAsaade/status/2096946103350608154>)
+Un visor interactivo del RB19 con vistas de componentes y telemetría simulada.
 
-Un recorrido por un restaurante en miniatura con conversaciones de ejemplo entre personal y clientes.
+**Herramientas / formato:** RB19 Engineering Explorer
 
-**Creador:** [Elie](<https://x.com/ElieAsaade>) · **Herramientas / formato:** Blender, Recorrido 3D, Demo de producto
+Incluido desde la recopilación de Astra en V2EX: https://v2ex.com/t/1239697. Se recuperó la página, pero no se verificaron de forma independiente la atribución del autor ni el funcionamiento.
 
-El creador dice que Astra y Blender ayudaron a construir esta demo de producto aún en desarrollo. Las conversaciones ilustran tareas de restaurante, no automatización operativa verificada. Se muestra una grabación; la web de la empresa no es una URL de demo confirmada.
+[Fuente original](<https://rb19-engineering-lab.moraxc.chatgpt.site/>) · [Probar demo](<https://rb19-engineering-lab.moraxc.chatgpt.site/>) · [Detalles en la galería](<https://magiccreator.ai/es/astra#rb19-engineering-lab>)
 
-**Información adicional:** El creador promociona su propio producto.
+### Houniao Model Comparison
 
-[Publicación original](<https://x.com/ElieAsaade/status/2096946103350608154>) · [Detalles en la galería](<https://magiccreator.ai/es/astra#adonis-restaurant>)
+Un sitio de comparación de modelos compartido por la comunidad; la atribución a Astra no está verificada.
+
+**Herramientas / formato:** Houniao Model Comparison
+
+Incluido como pista comunitaria de https://v2ex.com/t/1239697, sin confirmar que sea una creación de Astra. La URL contiene la fecha anterior 20260721; la revisión devolvió HTTP 503 por exceso de uso.
+
+[Fuente original](<https://houniao-model-battle-20260721.netlify.app/>) · [Detalles en la galería](<https://magiccreator.ai/es/astra#houniao-model-battle>)
 
 <a id="video"></a>
 
@@ -708,6 +840,16 @@ Tres diseños de carteles compartidos por su creador como trabajos realizados co
 El creador menciona expresamente Astra y adjunta tres imágenes. No especifica las herramientas de diseño, los prompts ni la cantidad de edición manual.
 
 [Publicación original](<https://x.com/JaydenDavisNC/status/2096986857158377757>) · [Detalles en la galería](<https://magiccreator.ai/es/astra#astra-poster-studies>)
+
+### Orbital Garden
+
+Una obra interactiva de partículas con formas de flor, anillo y galaxia.
+
+**Herramientas / formato:** Orbital Garden
+
+La página recuperada atribuye código, forma e interacción a GPT-6 Astra, con WebGL nativo y gráficos procedurales. Presenta una interpretación artística de la gravedad, no una simulación física. No se probó la interacción.
+
+[Fuente original](<https://orbital-garden.hp20230404.chatgpt.site>) · [Probar demo](<https://orbital-garden.hp20230404.chatgpt.site>) · [Detalles en la galería](<https://magiccreator.ai/es/astra#orbital-garden>)
 
 <a id="others"></a>
 
