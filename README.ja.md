@@ -11,7 +11,7 @@ GPT-6 Astraを使ったゲーム、Blender・3D、ウェブサイト、動画、
 >
 > 新しく見つけた作品を、元の出典や公開されている体験リンクとともに随時追加しています。リポジトリにスターを付けて保存し、また新しい作品を見に来てください。
 
-135件の事例 · 作者提供の体験リンク47件 · 最新の記録上の確認日：2026-09-09
+139件の事例 · 作者提供の体験リンク49件 · 最新の記録上の確認日：2026-09-09
 
 **[MagicCreatorのビジュアルギャラリーへ →](<https://magiccreator.ai/ja/astra>)** — プレビューを見て、分類で絞り込み、作者提供の体験リンクを探せます。
 
@@ -32,8 +32,8 @@ GPT-6 Astraを使ったゲーム、Blender・3D、ウェブサイト、動画、
 ## 目次
 
 - [GPT-6 Astraのゲームと体験デモ](#games) (42)
-- [GPT-6 AstraのBlender・3Dデモ](#blender) (19)
-- [GPT-6 Astraのウェブサイト・アプリ](#web) (37)
+- [GPT-6 AstraのBlender・3Dデモ](#blender) (20)
+- [GPT-6 Astraのウェブサイト・アプリ](#web) (40)
 - [GPT-6 Astraの動画制作事例](#video) (12)
 - [GPT-6 Astraのイラスト・ピクセルアート](#art) (10)
 - [GPT-6 Astraのその他の事例](#others) (15)
@@ -717,6 +717,18 @@ Bad Decisions Studioは初めてのAstraモデリング実験として、スマ�
 
 [元投稿](<https://x.com/everettfish0408/status/2096765359282061544>) · [作者のコード](<https://github.com/EverettFish/holo-card-studio>) · [ギャラリーの詳細](<https://magiccreator.ai/ja/astra#holographic-cards>)
 
+### Blenderで再現した頤和園の仏香閣
+
+[![Blenderで再現した頤和園の仏香閣 — 作者の元投稿からのプレビュー](<https://pbs.twimg.com/amplify_video_thumb/2097225253386866688/img/kdnWrRTRB--Q_NUi.jpg>)](<https://x.com/Saccc_c/status/2097225315089256814>)
+
+頤和園の仏香閣をBlenderで精細に再現し、建築映像として映画的に仕上げた作品です。
+
+**作者:** [Sac](<https://x.com/Saccc_c>) · **ツール・形式:** Blender, 建築, シネマティックレンダー
+
+Sacは、AstraがBlender CLIを使ってシーンを何度も調整し、その後デモ動画も制作したと説明しています。返信では制作時間を3〜4時間と報告していますが、この主張は独立に再現されていません。
+
+[元投稿](<https://x.com/Saccc_c/status/2097225315089256814>) · [ギャラリーの詳細](<https://magiccreator.ai/ja/astra#summer-palace-tower-blender>)
+
 ### Blenderのタージ・マハル
 
 [![Blenderのタージ・マハル — 作者の元投稿からのプレビュー](<https://pbs.twimg.com/amplify_video_thumb/2096543002055618560/img/WIZxhaya614q-1u1.jpg>)](<https://x.com/senthilnayagam/status/2096543077917986823>)
@@ -901,6 +913,18 @@ Astraが既存の地理データから操作可能なThree.js地図を作る作�
 
 [元投稿](<https://x.com/NFT_Chen/status/2096143589151756638>) · [ギャラリーの詳細](<https://magiccreator.ai/ja/astra#hangzhou-threejs-city>)
 
+### Varun Lohadeのポートフォリオ
+
+[![Varun Lohadeのポートフォリオ — 作者の元投稿からのプレビュー](<https://pbs.twimg.com/amplify_video_thumb/2097306731063947264/img/0DNzhvZH7F51V1xg.jpg>)](<https://x.com/orseliyas/status/2097307376143773730>)
+
+絵画調の風景、スクロール式の作品紹介、遊び心のあるロボット要素を組み合わせたポートフォリオです。
+
+**作者:** [Varun](<https://x.com/orseliyas>) · **ツール・形式:** 個人ポートフォリオ, Webデザイン, インタラクティブサイト
+
+VarunはGPT-6 Astraがサイトのデザインを担当したと述べ、完成したポートフォリオを公開しています。レビュー時に実サイトへアクセスできましたが、短い投稿にはプロンプトや実装手順の説明はありません。
+
+[元投稿](<https://x.com/orseliyas/status/2097307376143773730>) · [体験する](<https://varunlohade.com/>) · [ギャラリーの詳細](<https://magiccreator.ai/ja/astra#varun-lohade-portfolio>)
+
 ### ブランデンブルク・ピアノ
 
 [![ブランデンブルク・ピアノ — 作者の元投稿からのプレビュー](<https://pbs.twimg.com/amplify_video_thumb/2096090005085077511/img/36OGv0ZYv9Ap7Xgc.jpg>)](<https://x.com/DeryaTR_/status/2096090915790069857>)
@@ -997,6 +1021,18 @@ Astraを使った個人プロジェクトとして公開された、ブラウザ
 
 [元投稿](<https://x.com/ashebytes/status/2097493817549038078>) · [体験する](<https://ashe.ai/explainers/navier-stokes/>) · [ギャラリーの詳細](<https://magiccreator.ai/ja/astra#navier-stokes-visual-essay>)
 
+### カーソル追従スタジオフッター
+
+[![カーソル追従スタジオフッター — 作者の元投稿からのプレビュー](<https://pbs.twimg.com/amplify_video_thumb/2097357895130386433/img/Pv9Tfqr7meGult8j.jpg>)](<https://x.com/viktoroddy/status/2097358381518565778>)
+
+柔らかな質感の3Dキャラクターが訪問者のカーソルを目で追う、ミニマルなスタジオフッターです。
+
+**作者:** [Viktor Oddy](<https://x.com/viktoroddy>) · **ツール・形式:** カーソル操作, 3Dキャラクター, Webデザイン
+
+Viktor Oddyは、Astraがカーソル追従サイトをワンショットで生成したと述べ、実際のデザインとプロンプトを公開しています。レビュー時にデモへアクセスできましたが、ワンショットという説明は作者によるものです。
+
+[元投稿](<https://x.com/viktoroddy/status/2097358381518565778>) · [体験する](<https://oobi.viktoroddy.chatgpt.site/>) · [ギャラリーの詳細](<https://magiccreator.ai/ja/astra#cursor-tracking-studio-footer>)
+
 ### 9気筒星型エンジン
 
 [![9気筒星型エンジン — 作者の元投稿からのプレビュー](<https://pbs.twimg.com/amplify_video_thumb/2096576241038188545/img/OzGNyaFGGhg5OfrD.jpg>)](<https://x.com/techartist_/status/2096577974242033738>)
@@ -1082,6 +1118,18 @@ Boeing 777-300ERモデルと飛行データの操作部を備えた着陸シミ�
 作者はOpenAI Astraで制作し、Arena上で作ったと説明しています。元投稿には実演動画がありますが、別の体験用URLはありません。
 
 [元投稿](<https://x.com/johnnnavent/status/2096983463760904311>) · [ギャラリーの詳細](<https://magiccreator.ai/ja/astra#directional-sticker-peel>)
+
+### フォートワース・ストックヤーズ地図
+
+[![フォートワース・ストックヤーズ地図 — 作者の元投稿からのプレビュー](<https://pbs.twimg.com/amplify_video_thumb/2097343841674379264/img/JZRFpigQsefAQuKw.jpg>)](<https://x.com/dfwstrategy/status/2097346335712137483>)
+
+フォートワース・ストックヤーズを探索できる地区ガイドに仕立てた、スタイライズされた3D観光地図です。
+
+**作者:** [DFW Strategy](<https://x.com/dfwstrategy>) · **ツール・形式:** インタラクティブ地図, 観光, 3D Web
+
+DFW Strategyは、Astraがサイトの骨格を1回で作り、その後、参考資料やモデルを使った反復作業で独自性を加えたと説明しています。投稿の動画でインタラクティブな構想を確認できますが、公開デモへのリンクはありません。
+
+[元投稿](<https://x.com/dfwstrategy/status/2097346335712137483>) · [ギャラリーの詳細](<https://magiccreator.ai/ja/astra#fort-worth-stockyards-map>)
 
 ### 表情トラッキング・アバターアプリ
 

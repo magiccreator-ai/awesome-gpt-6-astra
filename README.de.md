@@ -11,7 +11,7 @@ Eine kuratierte Sammlung von GPT-6 Astra Demos: Spiele, Blender und 3D, Websites
 >
 > Wir ergänzen regelmäßig neue Entdeckungen mit Originalquellen und verfügbaren Demo-Links. Gib diesem Repository einen Stern, um die Sammlung zu speichern und später Neues zu entdecken.
 
-135 Beispiele · 47 Live-Links von Urhebern · Zuletzt dokumentierte Prüfung: 2026-09-09
+139 Beispiele · 49 Live-Links von Urhebern · Zuletzt dokumentierte Prüfung: 2026-09-09
 
 **[Zur visuellen Galerie auf MagicCreator →](<https://magiccreator.ai/de/astra>)** — Vorschauen ansehen, nach Kategorie filtern und Live-Demos der Urheber finden.
 
@@ -32,8 +32,8 @@ Die Vorschau gehört dem Urheber und verlinkt den Originalbeitrag; dieses Reposi
 ## Inhalt
 
 - [GPT-6 Astra Spiele und spielbare Demos](#games) (42)
-- [GPT-6 Astra Blender- und 3D-Demos](#blender) (19)
-- [GPT-6 Astra Websites und Web-Apps](#web) (37)
+- [GPT-6 Astra Blender- und 3D-Demos](#blender) (20)
+- [GPT-6 Astra Websites und Web-Apps](#web) (40)
 - [GPT-6 Astra Beispiele zur Videoerstellung](#video) (12)
 - [GPT-6 Astra Zeichnungen und Pixel-Art](#art) (10)
 - [Weitere GPT-6 Astra Demos](#others) (15)
@@ -717,6 +717,18 @@ Der Urheber verbindet Bildvorbereitung und Blender-Arbeit in einem wiederverwend
 
 [Originalbeitrag](<https://x.com/everettfish0408/status/2096765359282061544>) · [Code des Urhebers](<https://github.com/EverettFish/holo-card-studio>) · [Details in der Galerie](<https://magiccreator.ai/de/astra#holographic-cards>)
 
+### Sommerpalast-Turm in Blender
+
+[![Sommerpalast-Turm in Blender — Vorschau aus dem Originalbeitrag](<https://pbs.twimg.com/amplify_video_thumb/2097225253386866688/img/kdnWrRTRB--Q_NUi.jpg>)](<https://x.com/Saccc_c/status/2097225315089256814>)
+
+Eine detailreiche Blender-Rekonstruktion des Turms des buddhistischen Wohlgeruchs im Sommerpalast als filmischer Architektur-Render.
+
+**Urheber:** [Sac](<https://x.com/Saccc_c>) · **Werkzeuge / Format:** Blender, Architektur, Filmischer Render
+
+Sac zufolge erstellte Astra die Szene durch wiederholte Arbeit mit der Blender-CLI und produzierte anschließend das Demonstrationsvideo. In Antworten nennt der Urheber eine Arbeitszeit von drei bis vier Stunden; diese Angabe wurde nicht unabhängig reproduziert.
+
+[Originalbeitrag](<https://x.com/Saccc_c/status/2097225315089256814>) · [Details in der Galerie](<https://magiccreator.ai/de/astra#summer-palace-tower-blender>)
+
 ### Taj Mahal in Blender
 
 [![Taj Mahal in Blender — Vorschau aus dem Originalbeitrag](<https://pbs.twimg.com/amplify_video_thumb/2096543002055618560/img/WIZxhaya614q-1u1.jpg>)](<https://x.com/senthilnayagam/status/2096543077917986823>)
@@ -901,6 +913,18 @@ Der Autor zeigt eine mit Astra erstellte Three.js-Stadt mit Orbitsteuerung, Kame
 
 [Originalbeitrag](<https://x.com/NFT_Chen/status/2096143589151756638>) · [Details in der Galerie](<https://magiccreator.ai/de/astra#hangzhou-threejs-city>)
 
+### Portfolio von Varun Lohade
+
+[![Portfolio von Varun Lohade — Vorschau aus dem Originalbeitrag](<https://pbs.twimg.com/amplify_video_thumb/2097306731063947264/img/0DNzhvZH7F51V1xg.jpg>)](<https://x.com/orseliyas/status/2097307376143773730>)
+
+Ein Portfolio verbindet eine gemalte Landschaft mit einer scrollbaren Werkschau und verspielten Robotikdetails.
+
+**Urheber:** [Varun](<https://x.com/orseliyas>) · **Werkzeuge / Format:** Persönliches Portfolio, Webdesign, Interaktive Website
+
+Varun zufolge übernahm GPT-6 Astra das Design der Website; er verlinkt das fertige Portfolio. Die Live-Seite war bei der Prüfung erreichbar, doch der kurze Beitrag dokumentiert weder Prompt noch Umsetzungsablauf.
+
+[Originalbeitrag](<https://x.com/orseliyas/status/2097307376143773730>) · [Live-Demo](<https://varunlohade.com/>) · [Details in der Galerie](<https://magiccreator.ai/de/astra#varun-lohade-portfolio>)
+
 ### Brandenburg-Klavier
 
 [![Brandenburg-Klavier — Vorschau aus dem Originalbeitrag](<https://pbs.twimg.com/amplify_video_thumb/2096090005085077511/img/36OGv0ZYv9Ap7Xgc.jpg>)](<https://x.com/DeryaTR_/status/2096090915790069857>)
@@ -997,6 +1021,18 @@ Der Autor nutzte Astra, um das mathematische Thema verständlich zu machen, und 
 
 [Originalbeitrag](<https://x.com/ashebytes/status/2097493817549038078>) · [Live-Demo](<https://ashe.ai/explainers/navier-stokes/>) · [Details in der Galerie](<https://magiccreator.ai/de/astra#navier-stokes-visual-essay>)
 
+### Studio-Footer mit Cursor-Tracking
+
+[![Studio-Footer mit Cursor-Tracking — Vorschau aus dem Originalbeitrag](<https://pbs.twimg.com/amplify_video_thumb/2097357895130386433/img/Pv9Tfqr7meGult8j.jpg>)](<https://x.com/viktoroddy/status/2097358381518565778>)
+
+Ein minimalistischer Studio-Footer zeigt eine weiche 3D-Figur, deren Blick dem Cursor der Besucher folgt.
+
+**Urheber:** [Viktor Oddy](<https://x.com/viktoroddy>) · **Werkzeuge / Format:** Cursor-Interaktion, 3D-Figur, Webdesign
+
+Viktor Oddy zufolge erzeugte Astra die Website mit Cursor-Tracking in einem Durchgang; er teilt das Live-Design und den Prompt. Die Demo war bei der Prüfung erreichbar, die One-Shot-Angabe stammt jedoch vom Urheber.
+
+[Originalbeitrag](<https://x.com/viktoroddy/status/2097358381518565778>) · [Live-Demo](<https://oobi.viktoroddy.chatgpt.site/>) · [Details in der Galerie](<https://magiccreator.ai/de/astra#cursor-tracking-studio-footer>)
+
 ### Neunzylinder-Sternmotor
 
 [![Neunzylinder-Sternmotor — Vorschau aus dem Originalbeitrag](<https://pbs.twimg.com/amplify_video_thumb/2096576241038188545/img/OzGNyaFGGhg5OfrD.jpg>)](<https://x.com/techartist_/status/2096577974242033738>)
@@ -1082,6 +1118,18 @@ Eine 3D-Sticker-Interaktion ändert die Abziehrichtung je nachdem, an welcher Ka
 Der Urheber schreibt die Interaktion OpenAI Astra zu und sagt, sie sei auf Arena entstanden. Der Originalbeitrag enthält ein Demovideo, aber keine separate Demo-URL.
 
 [Originalbeitrag](<https://x.com/johnnnavent/status/2096983463760904311>) · [Details in der Galerie](<https://magiccreator.ai/de/astra#directional-sticker-peel>)
+
+### Karte der Fort Worth Stockyards
+
+[![Karte der Fort Worth Stockyards — Vorschau aus dem Originalbeitrag](<https://pbs.twimg.com/amplify_video_thumb/2097343841674379264/img/JZRFpigQsefAQuKw.jpg>)](<https://x.com/dfwstrategy/status/2097346335712137483>)
+
+Eine stilisierte 3D-Touristenkarte verwandelt die Fort Worth Stockyards in einen erkundbaren Stadtteilführer.
+
+**Urheber:** [DFW Strategy](<https://x.com/dfwstrategy>) · **Werkzeuge / Format:** Interaktive Karte, Tourismus, 3D-Web
+
+DFW Strategy zufolge erstellte Astra das Grundgerüst der Website in einem Durchgang; anschließend machten Iterationen mit Referenzen und Modellen das Ergebnis eigenständig. Der Beitrag zeigt das interaktive Konzept als Video, verlinkt aber keine Live-Demo.
+
+[Originalbeitrag](<https://x.com/dfwstrategy/status/2097346335712137483>) · [Details in der Galerie](<https://magiccreator.ai/de/astra#fort-worth-stockyards-map>)
 
 ### Avatar-App mit Gesichtstracking
 
