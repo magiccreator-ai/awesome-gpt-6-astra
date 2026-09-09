@@ -11,7 +11,7 @@ Una colección seleccionada de demos de GPT-6 Astra: juegos, Blender y 3D, webs,
 >
 > Añadimos nuevos descubrimientos con sus fuentes originales y los enlaces de demo disponibles. Dale una estrella a este repositorio para guardar la colección y volver a descubrir más.
 
-117 ejemplos · 43 enlaces de demo aportados por creadores · Última revisión registrada: 2026-09-08
+135 ejemplos · 47 enlaces de demo aportados por creadores · Última revisión registrada: 2026-09-09
 
 **[Explora la galería visual en MagicCreator →](<https://magiccreator.ai/es/astra>)** — Mira vistas previas, filtra por categoría y encuentra demos enlazadas por sus creadores.
 
@@ -31,11 +31,11 @@ La vista previa pertenece a su creador y enlaza la publicación original; este r
 
 ## Índice
 
-- [Juegos y demos jugables de GPT-6 Astra](#games) (36)
-- [Demos de Blender y 3D con GPT-6 Astra](#blender) (17)
-- [Webs y aplicaciones con GPT-6 Astra](#web) (30)
-- [Creación de vídeo con GPT-6 Astra](#video) (10)
-- [Dibujos y pixel art con GPT-6 Astra](#art) (9)
+- [Juegos y demos jugables de GPT-6 Astra](#games) (42)
+- [Demos de Blender y 3D con GPT-6 Astra](#blender) (19)
+- [Webs y aplicaciones con GPT-6 Astra](#web) (37)
+- [Creación de vídeo con GPT-6 Astra](#video) (12)
+- [Dibujos y pixel art con GPT-6 Astra](#art) (10)
 - [Otras demos de GPT-6 Astra](#others) (15)
 - [Sugerir una demo](#suggest-a-demo)
 
@@ -275,6 +275,20 @@ Tras una primera versión mejorable, el autor iteró con Astra los personajes y 
 
 [Publicación original](<https://x.com/superalesha/status/2095988972879335792>) · [Probar demo](<https://alesha-pro.github.io/bench-portal/games/voidbound-choir-of-ash/>) · [Código del creador](<https://github.com/alesha-pro/bench-portal>) · [Detalles en la galería](<https://magiccreator.ai/es/astra#voidbound-choir-of-ash>)
 
+### Juego de lucha Arena Zero para iPhone
+
+[![Juego de lucha Arena Zero para iPhone — Vista previa de la publicación del creador](<https://pbs.twimg.com/amplify_video_thumb/2097469520470478848/img/QonJEdt4G7P8l7tP.jpg>)](<https://x.com/higgsfield_ai/status/2097470354897740109>)
+
+Un juego de lucha para iPhone con controles táctiles, 109 clips de animación y recursos 3D optimizados.
+
+**Creador:** [Higgsfield AI](<https://x.com/higgsfield_ai>) · **Herramientas / formato:** GPT Image 2.5, Unity, Juego para iPhone
+
+Higgsfield afirma que Astra construyó el juego en Unity y GPT Image 2.5 generó las imágenes. Las cuatro horas y la falta de experiencia previa proceden del post promocional y no se reprodujeron.
+
+**Información adicional:** Demostración de producto de Higgsfield.
+
+[Publicación original](<https://x.com/higgsfield_ai/status/2097470354897740109>) · [Detalles en la galería](<https://magiccreator.ai/es/astra#arena-zero-iphone-fighter>)
+
 ### Sunwake: juego de navegación
 
 [![Sunwake: juego de navegación — Vista previa de la publicación del creador](<https://pbs.twimg.com/amplify_video_thumb/2096863862188548096/img/Z8oV2C6EO9BVrhOk.jpg>)](<https://x.com/Dimillian/status/2096863961203220741>)
@@ -286,6 +300,44 @@ Un juego de navegación con luz oceánica colorida, olas en movimiento y modos d
 El creador atribuye Sunwake a Astra y dice que utilizó Blender para refinar el barco. La publicación muestra una partida; no se han verificado la física del agua ni una versión jugable independiente.
 
 [Publicación original](<https://x.com/Dimillian/status/2096863961203220741>) · [Detalles en la galería](<https://magiccreator.ai/es/astra#sunwake>)
+
+### Serpientes y escaleras en Unreal
+
+[![Serpientes y escaleras en Unreal — Vista previa de la publicación del creador](<https://pbs.twimg.com/amplify_video_thumb/2097462407241342976/img/UNoEtfy2Bxqkq1jW.jpg>)](<https://x.com/higgsfield_ai/status/2097464282829168955>)
+
+El juego de mesa clásico pasó a una escena de Unreal Engine con animación 3D y sonido.
+
+**Creador:** [Higgsfield AI](<https://x.com/higgsfield_ai>) · **Herramientas / formato:** GPT Image 2.5, Unreal Engine, Blender
+
+Higgsfield dice que Astra recreó el juego en Unreal Engine, GPT Image 2.5 aportó recursos y Blender la animación. Es una demo de producto y no se facilitó una versión jugable.
+
+**Información adicional:** Demostración de producto de Higgsfield.
+
+[Publicación original](<https://x.com/higgsfield_ai/status/2097464282829168955>) · [Detalles en la galería](<https://magiccreator.ai/es/astra#snakes-and-ladders-unreal>)
+
+### Prueba de animación para juego de lucha
+
+[![Prueba de animación para juego de lucha — Vista previa de la publicación del creador](<https://pbs.twimg.com/tweet_video_thumb/HRugpr4aIAAXCvu.jpg>)](<https://x.com/YuK1_Game/status/2097446904942780699>)
+
+Una breve prueba de lucha combina arte de GPT Image 2.5 con Astra Pro.
+
+**Creador:** [YuK1](<https://x.com/YuK1_Game>) · **Herramientas / formato:** GPT Image 2.5, Animación 2D, Juego de lucha
+
+YuK1 comparte una primera salida hecha con GPT Image 2.5 y Astra Pro, y señala que aún necesita mejoras. No se proporcionan un juego jugable ni archivos de producción.
+
+[Publicación original](<https://x.com/YuK1_Game/status/2097446904942780699>) · [Detalles en la galería](<https://magiccreator.ai/es/astra#gpt-image-fighting-animation>)
+
+### Remake de Metal Slug con Dream Loop
+
+[![Remake de Metal Slug con Dream Loop — Vista previa de la publicación del creador](<https://pbs.twimg.com/amplify_video_thumb/2097534130846375936/img/zIUWYEkvBGLvFpG7.jpg>)](<https://x.com/ashen_one/status/2097539441900261645>)
+
+Un experimento compacto de Dream Loop recrea con Astra la sensación de Metal Slug.
+
+**Creador:** [ashen](<https://x.com/ashen_one>) · **Herramientas / formato:** Dream Loop, Remake de juego, Proyecto fan
+
+El creador presenta un remake hecho con Astra en aproximadamente una hora y muestra el juego. Es un experimento no oficial; el tiempo y los tokens son cifras declaradas por el autor.
+
+[Publicación original](<https://x.com/ashen_one/status/2097539441900261645>) · [Detalles en la galería](<https://magiccreator.ai/es/astra#metal-slug-dream-loop>)
 
 ### Rink Life
 
@@ -310,6 +362,30 @@ Un espacio de juego de Three.js para disparar un lanzacohetes en una habitación
 El creador menciona Astra y Three.js y comparte una demo, con código fuente en una respuesta propia. La jugabilidad y la física no se han probado de forma independiente.
 
 [Publicación original](<https://x.com/crtvTeknologist/status/2096980188126986533>) · [Probar demo](<https://bubble-wrap-simulator.vercel.app/>) · [Código del creador](<https://github.com/finktheartist/bubble-wrap-simulator.git>) · [Detalles en la galería](<https://magiccreator.ai/es/astra#bubble-wrap-simulator>)
+
+### Remaster generativo de Heroes III
+
+[![Remaster generativo de Heroes III — Vista previa de la publicación del creador](<https://pbs.twimg.com/amplify_video_thumb/2097561607610179584/img/jZYa_F-mUQXBMrD5.jpg>)](<https://x.com/ye_combinator/status/2097562847215845500>)
+
+Un mod de VCMI renueva Necropolis con modelos 3D y animaciones reconstruidas.
+
+**Creador:** [Zihao Ye](<https://x.com/ye_combinator>) · **Herramientas / formato:** Blender, Meshy, VCMI
+
+Meshy generó modelos texturizados y rigs iniciales; Astra manejó Blender para reconstruir y renderizar animaciones para VCMI. El autor documenta el proceso y reconoce defectos visibles.
+
+[Publicación original](<https://x.com/ye_combinator/status/2097562847215845500>) · [Probar demo](<https://yzh119.github.io/series/enhancing-heroes-iii-with-generative-ai/>) · [Detalles en la galería](<https://magiccreator.ai/es/astra#heroes-iii-generative-remaster>)
+
+### Juego de fábrica y mecanizado
+
+[![Juego de fábrica y mecanizado — Vista previa de la publicación del creador](<https://pbs.twimg.com/amplify_video_thumb/2097561704028848128/img/Qx8l8csqkhtzuBYH.jpg>)](<https://x.com/chod3s/status/2097563137784385541>)
+
+Un prototipo en Blender y Godot convierte el mecanizado de cubos metálicos en un juego de fábricas.
+
+**Creador:** [gin0](<https://x.com/chod3s>) · **Herramientas / formato:** Godot, Blender, Juego de fábricas
+
+El creador afirma que Astra hizo el prototipo, las máquinas y una demo guiada durante un fin de semana; ElevenLabs aportó música y sonidos. También señala entornos y UI sin terminar.
+
+[Publicación original](<https://x.com/chod3s/status/2097563137784385541>) · [Detalles en la galería](<https://magiccreator.ai/es/astra#machining-factory-game>)
 
 ### Infinite Garden
 
@@ -653,6 +729,18 @@ El creador identifica GPT-6 Astra y Blender en la publicación original del víd
 
 [Publicación original](<https://x.com/senthilnayagam/status/2096543077917986823>) · [Detalles en la galería](<https://magiccreator.ai/es/astra#taj-mahal-blender>)
 
+### De boceto de caza a Blender
+
+[![De boceto de caza a Blender — Vista previa de la publicación del creador](<https://pbs.twimg.com/amplify_video_thumb/2097430437123735553/img/U6dancWa-WZ3fPtD.jpg>)](<https://x.com/karankendre/status/2097430655336620509>)
+
+Un caza dibujado a mano pasó a imagen realista de referencia y luego a modelo de Blender.
+
+**Creador:** [Karan](<https://x.com/karankendre>) · **Herramientas / formato:** GPT Image 2.5, Blender, De boceto a 3D
+
+Karan dibujó el boceto, usó GPT Image 2.5 para crear una referencia realista y pidió a Astra construir el modelo 3D en Blender. El flujo se muestra por etapas, sin archivo del modelo.
+
+[Publicación original](<https://x.com/karankendre/status/2097430655336620509>) · [Detalles en la galería](<https://magiccreator.ai/es/astra#fighter-jet-sketch-to-blender>)
+
 ### Agua en bucle con Geometry Nodes
 
 [![Agua en bucle con Geometry Nodes — Vista previa de la publicación del creador](<https://pbs.twimg.com/tweet_video_thumb/HRhW_AlaoAAvGfb.jpg>)](<https://x.com/uB95A7tobA17057/status/2096521798150242631>)
@@ -664,6 +752,18 @@ Una superficie de agua periódica creada con Geometry Nodes de Blender sin horne
 El autor usó Astra mediante Blender MCP y revisó el resultado sin editar nodos. Es un modelo superficial en bucle, no una simulación completa de fluidos.
 
 [Publicación original](<https://x.com/uB95A7tobA17057/status/2096521798150242631>) · [Detalles en la galería](<https://magiccreator.ai/es/astra#geometry-nodes-looping-water>)
+
+### De imagen de ciudad cúbica a Blender
+
+[![De imagen de ciudad cúbica a Blender — Vista previa de la publicación del creador](<https://pbs.twimg.com/amplify_video_thumb/2097505780085993472/img/6zfwunEdVDTWlZK4.jpg>)](<https://x.com/old_pgmrs_will/status/2097506064078147861>)
+
+Una ciudad cúbica generada con GPT Image 2.5 se modeló como escena de Blender.
+
+**Creador:** [Will Oldgram](<https://x.com/old_pgmrs_will>) · **Herramientas / formato:** GPT Image 2.5, Blender, De imagen a 3D
+
+El creador generó la referencia con GPT Image 2.5 y pidió a Astra reconstruirla en Blender. Declara un consumo cercano al 30 % de su cuota de Astra, pero no comparte la escena.
+
+[Publicación original](<https://x.com/old_pgmrs_will/status/2097506064078147861>) · [Detalles en la galería](<https://magiccreator.ai/es/astra#cube-city-image-to-blender>)
 
 <a id="web"></a>
 
@@ -813,6 +913,18 @@ Según el autor, Astra creó el piano e incorporó seis conciertos. La exactitud
 
 [Publicación original](<https://x.com/DeryaTR_/status/2096090915790069857>) · [Probar demo](<https://brandenburg-piano.vercel.app/>) · [Detalles en la galería](<https://magiccreator.ai/es/astra#brandenburg-piano>)
 
+### Reconstrucción 3D de un estudio desde fotos
+
+[![Reconstrucción 3D de un estudio desde fotos — Vista previa de la publicación del creador](<https://pbs.twimg.com/media/HRvGiZHb0AAic3m.jpg>)](<https://x.com/rpnickson/status/2097488440489116111>)
+
+Nueve fotos de un estudio se convirtieron en una reconstrucción 3D explorable en el navegador.
+
+**Creador:** [Roberto Nickson](<https://x.com/rpnickson>) · **Herramientas / formato:** Blender, 3D interactivo, Reconstrucción espacial
+
+Roberto Nickson afirma que Astra dedujo la distribución, creó el modelo en Blender y lo convirtió en un sitio interactivo. El autor también señala errores en la primera versión y la necesidad de refinarla.
+
+[Publicación original](<https://x.com/rpnickson/status/2097488440489116111>) · [Probar demo](<https://studio-in-bricks.rpn24.chatgpt.site/interior>) · [Detalles en la galería](<https://magiccreator.ai/es/astra#studio-photo-3d-reconstruction>)
+
 ### Cronología de la Tierra
 
 [![Cronología de la Tierra — Vista previa de la publicación del creador](<https://pbs.twimg.com/amplify_video_thumb/2096776491011072000/img/3zm_Z5HY1pAZDQUB.jpg>)](<https://x.com/akshdeeps_001/status/2096776530005488028>)
@@ -873,6 +985,18 @@ El creador atribuye a Astra un experimento de renderizado semianalítico de nube
 
 [Publicación original](<https://x.com/shinboson/status/2096568055413231902>) · [Probar demo](<https://clouds-in-motion.pages.dev>) · [Detalles en la galería](<https://magiccreator.ai/es/astra#clouds-in-motion>)
 
+### Ensayo visual sobre Navier–Stokes
+
+[![Ensayo visual sobre Navier–Stokes — Vista previa de la publicación del creador](<https://pbs.twimg.com/amplify_video_thumb/2097493630164295680/img/1-I0LROu9HqCxfvl.jpg>)](<https://x.com/ashebytes/status/2097493817549038078>)
+
+Un ensayo interactivo explica el problema de Navier–Stokes mediante la metáfora de un remolino de té.
+
+**Creador:** [ashe](<https://x.com/ashebytes>) · **Herramientas / formato:** Ensayo interactivo, Matemáticas, Visualización de datos
+
+El autor usó Astra para hacer comprensible el tema matemático y publicó el resultado como ensayo visual. Es una obra explicativa, no una validación independiente de una supuesta solución.
+
+[Publicación original](<https://x.com/ashebytes/status/2097493817549038078>) · [Probar demo](<https://ashe.ai/explainers/navier-stokes/>) · [Detalles en la galería](<https://magiccreator.ai/es/astra#navier-stokes-visual-essay>)
+
 ### Motor radial de nueve cilindros
 
 [![Motor radial de nueve cilindros — Vista previa de la publicación del creador](<https://pbs.twimg.com/amplify_video_thumb/2096576241038188545/img/OzGNyaFGGhg5OfrD.jpg>)](<https://x.com/techartist_/status/2096577974242033738>)
@@ -921,6 +1045,20 @@ El creador atribuye a Astra un visor basado en geometría CAD y ensamblajes exis
 
 [Publicación original](<https://x.com/tspy/status/2096238855519453662>) · [Probar demo](<https://microduck-assembly-lab.yishan-lin.chatgpt.site/>) · [Detalles en la galería](<https://magiccreator.ai/es/astra#microduck-assembly-lab>)
 
+### Experiencia de evolución con seguimiento manual
+
+[![Experiencia de evolución con seguimiento manual — Vista previa de la publicación del creador](<https://pbs.twimg.com/amplify_video_thumb/2097439242372968448/img/ScszM1Pi6hhYFmaj.jpg>)](<https://x.com/higgsfield_ai/status/2097442296203759946>)
+
+Una interfaz controlada con la mano recorre cuatro mil millones de años de evolución.
+
+**Creador:** [Higgsfield AI](<https://x.com/higgsfield_ai>) · **Herramientas / formato:** GPT Image 2.5, Seguimiento manual, Cronología interactiva
+
+Higgsfield presenta a Astra como creador de la interacción y a GPT Image 2.5 como generador visual. Es una demo de producto; no se verificaron de forma independiente la implementación ni su cobertura científica.
+
+**Información adicional:** Demostración de producto de Higgsfield.
+
+[Publicación original](<https://x.com/higgsfield_ai/status/2097442296203759946>) · [Detalles en la galería](<https://magiccreator.ai/es/astra#evolution-hand-tracking>)
+
 ### Simulador de aterrizaje Boeing 777
 
 [![Simulador de aterrizaje Boeing 777 — Vista previa de la publicación del creador](<https://pbs.twimg.com/amplify_video_thumb/2096943524281286656/img/5zywNFWnlxigq4FG.jpg>)](<https://x.com/LuminaBench/status/2096946420234207459>)
@@ -945,6 +1083,18 @@ El creador atribuye la interacción a OpenAI Astra y dice que la hizo en Arena. 
 
 [Publicación original](<https://x.com/johnnnavent/status/2096983463760904311>) · [Detalles en la galería](<https://magiccreator.ai/es/astra#directional-sticker-peel>)
 
+### App de avatar con seguimiento facial
+
+[![App de avatar con seguimiento facial — Vista previa de la publicación del creador](<https://pbs.twimg.com/amplify_video_thumb/2097429685714272256/img/tq-Dq-hKk6dRPqPH.jpg>)](<https://x.com/nemumusitocha/status/2097430181095125251>)
+
+Una app rápida aplica el seguimiento de iFacialMocap a variantes de expresión generadas.
+
+**Creador:** [しとちゃ！🦊🍮](<https://x.com/nemumusitocha>) · **Herramientas / formato:** GPT Image 2.5, iFacialMocap, Seguimiento de avatar
+
+El creador usó GPT Image 2.5 para las expresiones y Astra para improvisar la app junto a iFacialMocap. El post demuestra el seguimiento, pero no ofrece la app ni detalles de implementación.
+
+[Publicación original](<https://x.com/nemumusitocha/status/2097430181095125251>) · [Detalles en la galería](<https://magiccreator.ai/es/astra#facial-tracking-avatar-app>)
+
 ### Historia interactiva del iPhone
 
 [![Historia interactiva del iPhone — Vista previa de la publicación del creador](<https://pbs.twimg.com/amplify_video_thumb/2096917421718163457/img/qM5HjO10Vqq203oe.jpg>)](<https://x.com/blueemi99/status/2096917792737911131>)
@@ -956,6 +1106,18 @@ Una web sobre la historia del iPhone con teléfonos interactivos, interfaces de 
 El creador dice que hizo la web con Astra y comparte una demo y un vídeo. Son recreaciones de interfaces; no se ha comprobado de forma independiente su fidelidad histórica.
 
 [Publicación original](<https://x.com/blueemi99/status/2096917792737911131>) · [Probar demo](<https://iphone-archive.vercel.app>) · [Detalles en la galería](<https://magiccreator.ai/es/astra#interactive-iphone-history>)
+
+### Taller de video panorámico 360°
+
+[![Taller de video panorámico 360° — Vista previa de la publicación del creador](<https://pbs.twimg.com/amplify_video_thumb/2097518125361328128/img/CkFTCxvLT3rZM821.jpg>)](<https://x.com/KanaWorks_AI/status/2097518459596972066>)
+
+Una herramienta previsualiza personajes compuestos y exporta video 360° listo para YouTube.
+
+**Creador:** [KANA｜東京AI映像](<https://x.com/KanaWorks_AI>) · **Herramientas / formato:** GPT Image 2.5, Video 360°, Herramienta creativa
+
+KANA afirma que Astra creó el taller desde una sola especificación. ChatGPT Images 2.5 aportó el panorama y Seedance 2.5 el video; la herramienta elimina fondos, coloca clips y escribe metadatos 360°.
+
+[Publicación original](<https://x.com/KanaWorks_AI/status/2097518459596972066>) · [Detalles en la galería](<https://magiccreator.ai/es/astra#panorama-video-workshop>)
 
 ### Orbital Core Showcase
 
@@ -1004,6 +1166,30 @@ Una web cartográfica explora Equal Earth y las concesiones necesarias para apla
 El creador menciona GPT-6 Astra Light y comparte una captura y una URL de demo. El comportamiento de la proyección y la precisión geográfica no se han validado de forma independiente.
 
 [Publicación original](<https://x.com/stevwangdev/status/2096983019294974011>) · [Probar demo](<https://your-equal-earth.pages.dev/>) · [Detalles en la galería](<https://magiccreator.ai/es/astra#equal-earth-map>)
+
+### Personaje Three.js riggeado por Astra
+
+[![Personaje Three.js riggeado por Astra — Vista previa de la publicación del creador](<https://pbs.twimg.com/amplify_video_thumb/2097560639455514624/img/IBFogCwcmIJtgTlc.jpg>)](<https://x.com/SimonasLTU1/status/2097561634076016774>)
+
+Un personaje generado pasó a una escena web Three.js con rig y animaciones.
+
+**Creador:** [Simonas](<https://x.com/SimonasLTU1>) · **Herramientas / formato:** GPT Image 2.5, Tripo3D, Three.js
+
+El creador obtuvo un GLB con ChatGPT Images 2.5 y Tripo3D, lo convirtió con su propia herramienta y encargó a Astra High todo el rigging y la animación. La cifra de cuota es una estimación del autor.
+
+[Publicación original](<https://x.com/SimonasLTU1/status/2097561634076016774>) · [Detalles en la galería](<https://magiccreator.ai/es/astra#astra-rigged-threejs-character>)
+
+### Estantería virtual
+
+[![Estantería virtual — Vista previa de la publicación del creador](<https://pbs.twimg.com/media/HRwL-MQaIAAP5nA.jpg>)](<https://x.com/sent0hil/status/2097564767984697757>)
+
+Una lista de lectura personal se convirtió en una estantería virtual visual para el navegador.
+
+**Creador:** [Senthil Arivudainambi](<https://x.com/sent0hil>) · **Herramientas / formato:** Libros, Sitio personal, Experiencia web
+
+Senthil Arivudainambi presenta una estantería virtual creada con Astra y enlaza su artículo del proyecto. Es una experiencia web personal, no una plantilla reutilizable.
+
+[Publicación original](<https://x.com/sent0hil/status/2097564767984697757>) · [Probar demo](<https://sent-hil.com/2026/09/08/my-virtual-bookshelf-built-with-astra.html>) · [Detalles en la galería](<https://magiccreator.ai/es/astra#virtual-bookshelf>)
 
 ### RB19 Engineering Explorer
 
@@ -1143,6 +1329,18 @@ El autor aportó 55 clips, cuatro opciones musicales e indicaciones de estilo. A
 
 [Publicación original](<https://x.com/0xTykoo/status/2096183262255386833>) · [Detalles en la galería](<https://magiccreator.ai/es/astra#astra-55-clip-edit>)
 
+### Motion graphics en After Effects
+
+[![Motion graphics en After Effects — Vista previa de la publicación del creador](<https://pbs.twimg.com/amplify_video_thumb/2097497983826956288/img/slA7YZTPz1cCzWWW.jpg>)](<https://x.com/Nyto_vd/status/2097499735942893726>)
+
+Astra manejó funciones estándar de After Effects para producir una breve prueba de motion graphics.
+
+**Creador:** [トニー太田](<https://x.com/Nyto_vd>) · **Herramientas / formato:** After Effects, Motion graphics, Computer Use
+
+Según el creador, Astra controló After Effects desde Codex y terminó la prueba en minutos sin un modelo externo de video. Es un experimento pequeño, no una edición lista para producción.
+
+[Publicación original](<https://x.com/Nyto_vd/status/2097499735942893726>) · [Detalles en la galería](<https://magiccreator.ai/es/astra#after-effects-motion-graphics>)
+
 ### Vuelo sobre Manhattan
 
 [![Vuelo sobre Manhattan — Vista previa de la publicación del creador](<https://pbs.twimg.com/amplify_video_thumb/2095612637182922752/img/zw51jZqWxsQnYpA6.jpg>)](<https://x.com/Dimillian/status/2096478021234426059>)
@@ -1156,6 +1354,18 @@ Según el creador, Astra modeló la ciudad con datos topográficos y cartográfi
 **Información adicional:** Demo compartida por un miembro del equipo del modelo.
 
 [Publicación original](<https://x.com/Dimillian/status/2096478021234426059>) · [Detalles en la galería](<https://magiccreator.ai/es/astra#manhattan-flyover>)
+
+### Stop motion de una nutria en un hawker
+
+[![Stop motion de una nutria en un hawker — Vista previa de la publicación del creador](<https://pbs.twimg.com/media/HRvcfILa4AAyiwX.jpg>)](<https://x.com/gabrielchua/status/2097512638704197681>)
+
+Noventa y nueve fotogramas consistentes formaron un corto stop motion con música y efectos.
+
+**Creador:** [Gabriel Chua](<https://x.com/gabrielchua>) · **Herramientas / formato:** GPT Image 2.5, Stop motion, Consistencia de personajes
+
+Gabriel Chua generó y editó todos los fotogramas con GPT Image 2.5 Sunburst y usó Astra para montar secuencia, música y efectos. El caso muestra un flujo combinado de imagen y edición.
+
+[Publicación original](<https://x.com/gabrielchua/status/2097512638704197681>) · [Detalles en la galería](<https://magiccreator.ai/es/astra#otter-hawker-stop-motion>)
 
 <a id="art"></a>
 
@@ -1246,6 +1456,18 @@ Astra dibuja un retrato dentro de Apple Notes a partir de una foto de referencia
 El autor proporcionó un retrato y observó a Astra dibujando en la aplicación de Mac. El caso muestra interacción con la aplicación, no generación aislada de imágenes.
 
 [Publicación original](<https://x.com/viticci/status/2096025249582039180>) · [Detalles en la galería](<https://magiccreator.ai/es/astra#apple-notes-portrait>)
+
+### Tipografía inspirada en Neuromancer
+
+[![Tipografía inspirada en Neuromancer — Vista previa de la publicación del creador](<https://pbs.twimg.com/amplify_video_thumb/2097252725205663744/img/OOgO1kwjE6QJpYjA.jpg>)](<https://x.com/maxescu/status/2097256565824774332>)
+
+Un póster de referencia dio lugar a dos variantes tipográficas utilizables y una presentación animada.
+
+**Creador:** [Alex Patrascu](<https://x.com/maxescu>) · **Herramientas / formato:** Tipografía, Diseño tipográfico, Higgsfield
+
+Alex Patrascu pidió a Astra una fuente inspirada en un póster de Neuromancer y una presentación animada mediante el plugin de Higgsfield. Es un estudio tipográfico de fans, no un recurso oficial.
+
+[Publicación original](<https://x.com/maxescu/status/2097256565824774332>) · [Detalles en la galería](<https://magiccreator.ai/es/astra#neuromancer-inspired-typeface>)
 
 ### Estudios de carteles con Astra
 

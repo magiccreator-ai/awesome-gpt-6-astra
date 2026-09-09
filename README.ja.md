@@ -11,7 +11,7 @@ GPT-6 Astraを使ったゲーム、Blender・3D、ウェブサイト、動画、
 >
 > 新しく見つけた作品を、元の出典や公開されている体験リンクとともに随時追加しています。リポジトリにスターを付けて保存し、また新しい作品を見に来てください。
 
-117件の事例 · 作者提供の体験リンク43件 · 最新の記録上の確認日：2026-09-08
+135件の事例 · 作者提供の体験リンク47件 · 最新の記録上の確認日：2026-09-09
 
 **[MagicCreatorのビジュアルギャラリーへ →](<https://magiccreator.ai/ja/astra>)** — プレビューを見て、分類で絞り込み、作者提供の体験リンクを探せます。
 
@@ -31,11 +31,11 @@ GPT-6 Astraを使ったゲーム、Blender・3D、ウェブサイト、動画、
 
 ## 目次
 
-- [GPT-6 Astraのゲームと体験デモ](#games) (36)
-- [GPT-6 AstraのBlender・3Dデモ](#blender) (17)
-- [GPT-6 Astraのウェブサイト・アプリ](#web) (30)
-- [GPT-6 Astraの動画制作事例](#video) (10)
-- [GPT-6 Astraのイラスト・ピクセルアート](#art) (9)
+- [GPT-6 Astraのゲームと体験デモ](#games) (42)
+- [GPT-6 AstraのBlender・3Dデモ](#blender) (19)
+- [GPT-6 Astraのウェブサイト・アプリ](#web) (37)
+- [GPT-6 Astraの動画制作事例](#video) (12)
+- [GPT-6 Astraのイラスト・ピクセルアート](#art) (10)
 - [GPT-6 Astraのその他の事例](#others) (15)
 - [作品を推薦する](#suggest-a-demo)
 
@@ -275,6 +275,20 @@ AstraとTesanaのゲーム制作プロジェクトとして紹介された、Hal
 
 [元投稿](<https://x.com/superalesha/status/2095988972879335792>) · [体験する](<https://alesha-pro.github.io/bench-portal/games/voidbound-choir-of-ash/>) · [作者のコード](<https://github.com/alesha-pro/bench-portal>) · [ギャラリーの詳細](<https://magiccreator.ai/ja/astra#voidbound-choir-of-ash>)
 
+### Arena Zero iPhone格闘ゲーム
+
+[![Arena Zero iPhone格闘ゲーム — 作者の元投稿からのプレビュー](<https://pbs.twimg.com/amplify_video_thumb/2097469520470478848/img/QonJEdt4G7P8l7tP.jpg>)](<https://x.com/higgsfield_ai/status/2097470354897740109>)
+
+タッチ操作、109本のアニメーション、最適化3D素材を備えたiPhone向け格闘ゲーム。
+
+**作者:** [Higgsfield AI](<https://x.com/higgsfield_ai>) · **ツール・形式:** GPT Image 2.5, Unity, iPhoneゲーム
+
+HiggsfieldはAstraがUnityゲームを構築し、GPT Image 2.5が画像を生成したと説明しています。4時間という制作時間と作者の未経験歴は宣伝投稿による情報で、独立再現していません。
+
+**開示事項:** Higgsfield製品デモ.
+
+[元投稿](<https://x.com/higgsfield_ai/status/2097470354897740109>) · [ギャラリーの詳細](<https://magiccreator.ai/ja/astra#arena-zero-iphone-fighter>)
+
 ### Sunwake セーリングゲーム
 
 [![Sunwake セーリングゲーム — 作者の元投稿からのプレビュー](<https://pbs.twimg.com/amplify_video_thumb/2096863862188548096/img/Z8oV2C6EO9BVrhOk.jpg>)](<https://x.com/Dimillian/status/2096863961203220741>)
@@ -286,6 +300,44 @@ AstraとTesanaのゲーム制作プロジェクトとして紹介された、Hal
 作者はSunwakeをAstraで制作し、船の調整にBlenderを使ったと説明しています。投稿はプレイ動画です。水の物理挙動と、単独で遊べる公開版は独立に確認していません。
 
 [元投稿](<https://x.com/Dimillian/status/2096863961203220741>) · [ギャラリーの詳細](<https://magiccreator.ai/ja/astra#sunwake>)
+
+### Unreal版スネーク＆ラダー
+
+[![Unreal版スネーク＆ラダー — 作者の元投稿からのプレビュー](<https://pbs.twimg.com/amplify_video_thumb/2097462407241342976/img/UNoEtfy2Bxqkq1jW.jpg>)](<https://x.com/higgsfield_ai/status/2097464282829168955>)
+
+古典的なボードゲームを3Dアニメーションと効果音付きのUnreal Engine作品へ。
+
+**作者:** [Higgsfield AI](<https://x.com/higgsfield_ai>) · **ツール・形式:** GPT Image 2.5, Unreal Engine, Blender
+
+Higgsfieldによると、AstraがUnreal Engineでゲームを再構築し、GPT Image 2.5が素材、Blenderがアニメーションを担当しました。製品デモで、プレイ可能なビルドは公開されていません。
+
+**開示事項:** Higgsfield製品デモ.
+
+[元投稿](<https://x.com/higgsfield_ai/status/2097464282829168955>) · [ギャラリーの詳細](<https://magiccreator.ai/ja/astra#snakes-and-ladders-unreal>)
+
+### 格闘ゲーム・アニメーションテスト
+
+[![格闘ゲーム・アニメーションテスト — 作者の元投稿からのプレビュー](<https://pbs.twimg.com/tweet_video_thumb/HRugpr4aIAAXCvu.jpg>)](<https://x.com/YuK1_Game/status/2097446904942780699>)
+
+GPT Image 2.5の画像とAstra Proを組み合わせた短い格闘アニメーション。
+
+**作者:** [YuK1](<https://x.com/YuK1_Game>) · **ツール・形式:** GPT Image 2.5, 2Dアニメーション, 格闘ゲーム
+
+YuK1はGPT Image 2.5とAstra Proで作った初回出力を公開し、まだ改善が必要だと説明しています。プレイ可能なゲームや制作ファイルは提供されていません。
+
+[元投稿](<https://x.com/YuK1_Game/status/2097446904942780699>) · [ギャラリーの詳細](<https://magiccreator.ai/ja/astra#gpt-image-fighting-animation>)
+
+### Metal Slug Dream Loopリメイク
+
+[![Metal Slug Dream Loopリメイク — 作者の元投稿からのプレビュー](<https://pbs.twimg.com/amplify_video_thumb/2097534130846375936/img/zIUWYEkvBGLvFpG7.jpg>)](<https://x.com/ashen_one/status/2097539441900261645>)
+
+AstraでMetal Slugの感触を再現した小規模なDream Loop実験。
+
+**作者:** [ashen](<https://x.com/ashen_one>) · **ツール・形式:** Dream Loop, ゲームリメイク, ファン作品
+
+作者は約1時間で完成したAstra製リメイクとしてゲーム映像を公開しています。非公式のファン実験で、制作時間とトークン量は作者の申告です。
+
+[元投稿](<https://x.com/ashen_one/status/2097539441900261645>) · [ギャラリーの詳細](<https://magiccreator.ai/ja/astra#metal-slug-dream-loop>)
 
 ### Rink Life
 
@@ -310,6 +362,30 @@ AstraとTesanaのゲーム制作プロジェクトとして紹介された、Hal
 作者はAstraとThree.jsを使用したと説明し、体験版と、返信内のソースコードを共有しています。ゲームの動作と物理挙動は独立にテストしていません。
 
 [元投稿](<https://x.com/crtvTeknologist/status/2096980188126986533>) · [体験する](<https://bubble-wrap-simulator.vercel.app/>) · [作者のコード](<https://github.com/finktheartist/bubble-wrap-simulator.git>) · [ギャラリーの詳細](<https://magiccreator.ai/ja/astra#bubble-wrap-simulator>)
+
+### Heroes III生成AIリマスター
+
+[![Heroes III生成AIリマスター — 作者の元投稿からのプレビュー](<https://pbs.twimg.com/amplify_video_thumb/2097561607610179584/img/jZYa_F-mUQXBMrD5.jpg>)](<https://x.com/ye_combinator/status/2097562847215845500>)
+
+新しい3Dモデルと再構築アニメーションでNecropolisを刷新するVCMI Mod。
+
+**作者:** [Zihao Ye](<https://x.com/ye_combinator>) · **ツール・形式:** Blender, Meshy, VCMI
+
+Meshyがテクスチャ付きモデルと初期リグを生成し、AstraがBlenderを操作してアニメーション再構築とレンダリングを担当しました。作者は残る欠点も示し、制作工程を公開しています。
+
+[元投稿](<https://x.com/ye_combinator/status/2097562847215845500>) · [体験する](<https://yzh119.github.io/series/enhancing-heroes-iii-with-generative-ai/>) · [ギャラリーの詳細](<https://magiccreator.ai/ja/astra#heroes-iii-generative-remaster>)
+
+### 金属加工ファクトリーゲーム
+
+[![金属加工ファクトリーゲーム — 作者の元投稿からのプレビュー](<https://pbs.twimg.com/amplify_video_thumb/2097561704028848128/img/Qx8l8csqkhtzuBYH.jpg>)](<https://x.com/chod3s/status/2097563137784385541>)
+
+金属キューブの加工を工場建設ループにしたBlender・Godot製プロトタイプ。
+
+**作者:** [gin0](<https://x.com/chod3s>) · **ツール・形式:** Godot, Blender, 工場ゲーム
+
+作者によると、Astraが週末の間にプロトタイプ、加工機械、段階式のプレイデモを制作し、音楽と効果音にはElevenLabsを使用しました。環境とUIは未完成であることも明記されています。
+
+[元投稿](<https://x.com/chod3s/status/2097563137784385541>) · [ギャラリーの詳細](<https://magiccreator.ai/ja/astra#machining-factory-game>)
 
 ### Infinite Garden
 
@@ -653,6 +729,18 @@ Bad Decisions Studioは初めてのAstraモデリング実験として、スマ�
 
 [元投稿](<https://x.com/senthilnayagam/status/2096543077917986823>) · [ギャラリーの詳細](<https://magiccreator.ai/ja/astra#taj-mahal-blender>)
 
+### 戦闘機スケッチからBlenderへ
+
+[![戦闘機スケッチからBlenderへ — 作者の元投稿からのプレビュー](<https://pbs.twimg.com/amplify_video_thumb/2097430437123735553/img/U6dancWa-WZ3fPtD.jpg>)](<https://x.com/karankendre/status/2097430655336620509>)
+
+手描きの戦闘機を写実的な参照画像にし、さらにBlenderモデルへ変換。
+
+**作者:** [Karan](<https://x.com/karankendre>) · **ツール・形式:** GPT Image 2.5, Blender, スケッチから3D
+
+Karanがスケッチを描き、GPT Image 2.5で写実的な参照画像を生成した後、AstraにBlenderでの3Dモデル化を依頼しました。段階的な工程を示しますが、モデルファイルは公開されていません。
+
+[元投稿](<https://x.com/karankendre/status/2097430655336620509>) · [ギャラリーの詳細](<https://magiccreator.ai/ja/astra#fighter-jet-sketch-to-blender>)
+
 ### Geometry Nodesの循環する水面
 
 [![Geometry Nodesの循環する水面 — 作者の元投稿からのプレビュー](<https://pbs.twimg.com/tweet_video_thumb/HRhW_AlaoAAvGfb.jpg>)](<https://x.com/uB95A7tobA17057/status/2096521798150242631>)
@@ -664,6 +752,18 @@ Bad Decisions Studioは初めてのAstraモデリング実験として、スマ�
 作者はBlender MCP経由でAstraを使い、ノードを編集せず結果を確認。循環する水面モデルであり、完全な流体シミュレーションではありません。
 
 [元投稿](<https://x.com/uB95A7tobA17057/status/2096521798150242631>) · [ギャラリーの詳細](<https://magiccreator.ai/ja/astra#geometry-nodes-looping-water>)
+
+### キューブ都市画像からBlenderへ
+
+[![キューブ都市画像からBlenderへ — 作者の元投稿からのプレビュー](<https://pbs.twimg.com/amplify_video_thumb/2097505780085993472/img/6zfwunEdVDTWlZK4.jpg>)](<https://x.com/old_pgmrs_will/status/2097506064078147861>)
+
+GPT Image 2.5で生成したキューブ都市画像をBlenderシーンとしてモデリング。
+
+**作者:** [Will Oldgram](<https://x.com/old_pgmrs_will>) · **ツール・形式:** GPT Image 2.5, Blender, 画像から3D
+
+作者はGPT Image 2.5で都市の参照画像を生成し、AstraにBlenderで再構築させました。Astra利用枠を約30%消費したとの申告がありますが、シーンファイルは公開されていません。
+
+[元投稿](<https://x.com/old_pgmrs_will/status/2097506064078147861>) · [ギャラリーの詳細](<https://magiccreator.ai/ja/astra#cube-city-image-to-blender>)
 
 <a id="web"></a>
 
@@ -813,6 +913,18 @@ Astraが既存の地理データから操作可能なThree.js地図を作る作�
 
 [元投稿](<https://x.com/DeryaTR_/status/2096090915790069857>) · [体験する](<https://brandenburg-piano.vercel.app/>) · [ギャラリーの詳細](<https://magiccreator.ai/ja/astra#brandenburg-piano>)
 
+### スタジオ写真からの3D再構築
+
+[![スタジオ写真からの3D再構築 — 作者の元投稿からのプレビュー](<https://pbs.twimg.com/media/HRvGiZHb0AAic3m.jpg>)](<https://x.com/rpnickson/status/2097488440489116111>)
+
+9枚のスタジオ写真から、ブラウザで歩き回れる3D空間を再構築。
+
+**作者:** [Roberto Nickson](<https://x.com/rpnickson>) · **ツール・形式:** Blender, インタラクティブ3D, 空間再構築
+
+Roberto Nicksonによると、Astraが部屋の配置を推定してBlenderモデルを作り、インタラクティブなWebサイトに仕上げました。初回版にはまだ誤りがあり、改善が必要とも説明しています。
+
+[元投稿](<https://x.com/rpnickson/status/2097488440489116111>) · [体験する](<https://studio-in-bricks.rpn24.chatgpt.site/interior>) · [ギャラリーの詳細](<https://magiccreator.ai/ja/astra#studio-photo-3d-reconstruction>)
+
 ### 地球史のタイムライン
 
 [![地球史のタイムライン — 作者の元投稿からのプレビュー](<https://pbs.twimg.com/amplify_video_thumb/2096776491011072000/img/3zm_Z5HY1pAZDQUB.jpg>)](<https://x.com/akshdeeps_001/status/2096776530005488028>)
@@ -873,6 +985,18 @@ Astraを使った個人プロジェクトとして公開された、ブラウザ
 
 [元投稿](<https://x.com/shinboson/status/2096568055413231902>) · [体験する](<https://clouds-in-motion.pages.dev>) · [ギャラリーの詳細](<https://magiccreator.ai/ja/astra#clouds-in-motion>)
 
+### ナビエ–ストークス視覚エッセイ
+
+[![ナビエ–ストークス視覚エッセイ — 作者の元投稿からのプレビュー](<https://pbs.twimg.com/amplify_video_thumb/2097493630164295680/img/1-I0LROu9HqCxfvl.jpg>)](<https://x.com/ashebytes/status/2097493817549038078>)
+
+紅茶の渦を比喩に、ナビエ–ストークス問題を説明するインタラクティブ作品。
+
+**作者:** [ashe](<https://x.com/ashebytes>) · **ツール・形式:** インタラクティブエッセイ, 数学, データ可視化
+
+作者は難しい数学テーマを理解しやすくするためAstraを使い、視覚エッセイとして公開しました。これは解説目的の創作であり、主張されている解法を独立検証するものではありません。
+
+[元投稿](<https://x.com/ashebytes/status/2097493817549038078>) · [体験する](<https://ashe.ai/explainers/navier-stokes/>) · [ギャラリーの詳細](<https://magiccreator.ai/ja/astra#navier-stokes-visual-essay>)
+
 ### 9気筒星型エンジン
 
 [![9気筒星型エンジン — 作者の元投稿からのプレビュー](<https://pbs.twimg.com/amplify_video_thumb/2096576241038188545/img/OzGNyaFGGhg5OfrD.jpg>)](<https://x.com/techartist_/status/2096577974242033738>)
@@ -921,6 +1045,20 @@ Astraを使った個人プロジェクトとして公開された、ブラウザ
 
 [元投稿](<https://x.com/tspy/status/2096238855519453662>) · [体験する](<https://microduck-assembly-lab.yishan-lin.chatgpt.site/>) · [ギャラリーの詳細](<https://magiccreator.ai/ja/astra#microduck-assembly-lab>)
 
+### 進化のハンドトラッキング体験
+
+[![進化のハンドトラッキング体験 — 作者の元投稿からのプレビュー](<https://pbs.twimg.com/amplify_video_thumb/2097439242372968448/img/ScszM1Pi6hhYFmaj.jpg>)](<https://x.com/higgsfield_ai/status/2097442296203759946>)
+
+手の動きで40億年の進化をたどるインタラクティブ体験。
+
+**作者:** [Higgsfield AI](<https://x.com/higgsfield_ai>) · **ツール・形式:** GPT Image 2.5, ハンドトラッキング, インタラクティブ年表
+
+HiggsfieldはAstraがインタラクションを構築し、GPT Image 2.5がビジュアル素材を生成したと説明しています。製品デモであり、実装や科学的な範囲は独立検証していません。
+
+**開示事項:** Higgsfield製品デモ.
+
+[元投稿](<https://x.com/higgsfield_ai/status/2097442296203759946>) · [ギャラリーの詳細](<https://magiccreator.ai/ja/astra#evolution-hand-tracking>)
+
 ### Boeing 777着陸シミュレーター
 
 [![Boeing 777着陸シミュレーター — 作者の元投稿からのプレビュー](<https://pbs.twimg.com/amplify_video_thumb/2096943524281286656/img/5zywNFWnlxigq4FG.jpg>)](<https://x.com/LuminaBench/status/2096946420234207459>)
@@ -945,6 +1083,18 @@ Boeing 777-300ERモデルと飛行データの操作部を備えた着陸シミ�
 
 [元投稿](<https://x.com/johnnnavent/status/2096983463760904311>) · [ギャラリーの詳細](<https://magiccreator.ai/ja/astra#directional-sticker-peel>)
 
+### 表情トラッキング・アバターアプリ
+
+[![表情トラッキング・アバターアプリ — 作者の元投稿からのプレビュー](<https://pbs.twimg.com/amplify_video_thumb/2097429685714272256/img/tq-Dq-hKk6dRPqPH.jpg>)](<https://x.com/nemumusitocha/status/2097430181095125251>)
+
+画像で作った表情差分をiFacialMocapのトラッキングに連動させる即席アプリ。
+
+**作者:** [しとちゃ！🦊🍮](<https://x.com/nemumusitocha>) · **ツール・形式:** GPT Image 2.5, iFacialMocap, アバタートラッキング
+
+作者はGPT Image 2.5で表情差分を作り、AstraでiFacialMocapと組み合わせるトラッキングアプリを制作しました。表情追従のデモですが、アプリや実装詳細は公開されていません。
+
+[元投稿](<https://x.com/nemumusitocha/status/2097430181095125251>) · [ギャラリーの詳細](<https://magiccreator.ai/ja/astra#facial-tracking-avatar-app>)
+
 ### 操作してたどるiPhoneの歴史
 
 [![操作してたどるiPhoneの歴史 — 作者の元投稿からのプレビュー](<https://pbs.twimg.com/amplify_video_thumb/2096917421718163457/img/qM5HjO10Vqq203oe.jpg>)](<https://x.com/blueemi99/status/2096917792737911131>)
@@ -956,6 +1106,18 @@ Boeing 777-300ERモデルと飛行データの操作部を備えた着陸シミ�
 作者はAstraでサイトを制作したと説明し、体験版と動画を共有しています。UIの再現作品で、歴史的な忠実さは独立に確認していません。
 
 [元投稿](<https://x.com/blueemi99/status/2096917792737911131>) · [体験する](<https://iphone-archive.vercel.app>) · [ギャラリーの詳細](<https://magiccreator.ai/ja/astra#interactive-iphone-history>)
+
+### 360°パノラマ動画工房
+
+[![360°パノラマ動画工房 — 作者の元投稿からのプレビュー](<https://pbs.twimg.com/amplify_video_thumb/2097518125361328128/img/CkFTCxvLT3rZM821.jpg>)](<https://x.com/KanaWorks_AI/status/2097518459596972066>)
+
+合成キャラクターをプレビューし、YouTube対応360°動画を書き出す専用ツール。
+
+**作者:** [KANA｜東京AI映像](<https://x.com/KanaWorks_AI>) · **ツール・形式:** GPT Image 2.5, 360°動画, クリエイティブツール
+
+KANAによると、Astraが一つの機能要件から工房を構築しました。パノラマはChatGPT Images 2.5、人物動画はSeedance 2.5を使用し、背景除去、配置、360°メタデータ付与に対応します。
+
+[元投稿](<https://x.com/KanaWorks_AI/status/2097518459596972066>) · [ギャラリーの詳細](<https://magiccreator.ai/ja/astra#panorama-video-workshop>)
 
 ### Orbital Core：3D展示
 
@@ -1004,6 +1166,30 @@ Equal Earth図法と、地球を平面にする際のトレードオフを探索
 作者はGPT-6 Astra Lightを使用したと説明し、スクリーンショットと体験用URLを共有しています。投影の挙動と地理的な正確さは独立に検証していません。
 
 [元投稿](<https://x.com/stevwangdev/status/2096983019294974011>) · [体験する](<https://your-equal-earth.pages.dev/>) · [ギャラリーの詳細](<https://magiccreator.ai/ja/astra#equal-earth-map>)
+
+### Astraリグ付きThree.jsキャラクター
+
+[![Astraリグ付きThree.jsキャラクター — 作者の元投稿からのプレビュー](<https://pbs.twimg.com/amplify_video_thumb/2097560639455514624/img/IBFogCwcmIJtgTlc.jpg>)](<https://x.com/SimonasLTU1/status/2097561634076016774>)
+
+生成キャラクターをリグ・アニメーション付きのThree.jsブラウザ作品へ。
+
+**作者:** [Simonas](<https://x.com/SimonasLTU1>) · **ツール・形式:** GPT Image 2.5, Tripo3D, Three.js
+
+作者はChatGPT Images 2.5とTripo3DでGLBを作り、独自ツールで変換した後、リギングとアニメーションをAstra Highに担当させました。利用枠の数値は作者の推定です。
+
+[元投稿](<https://x.com/SimonasLTU1/status/2097561634076016774>) · [ギャラリーの詳細](<https://magiccreator.ai/ja/astra#astra-rigged-threejs-character>)
+
+### バーチャル本棚
+
+[![バーチャル本棚 — 作者の元投稿からのプレビュー](<https://pbs.twimg.com/media/HRwL-MQaIAAP5nA.jpg>)](<https://x.com/sent0hil/status/2097564767984697757>)
+
+個人の読書リストを、ブラウザで楽しめる視覚的なバーチャル本棚に変換。
+
+**作者:** [Senthil Arivudainambi](<https://x.com/sent0hil>) · **ツール・形式:** 書籍, 個人サイト, Web体験
+
+Senthil ArivudainambiはAstraで作ったバーチャル本棚と制作記事を公開しています。汎用テンプレートではなく、作者自身のWeb体験を紹介する事例です。
+
+[元投稿](<https://x.com/sent0hil/status/2097564767984697757>) · [体験する](<https://sent-hil.com/2026/09/08/my-virtual-bookshelf-built-with-astra.html>) · [ギャラリーの詳細](<https://magiccreator.ai/ja/astra#virtual-bookshelf>)
 
 ### RB19 Engineering Explorer
 
@@ -1143,6 +1329,18 @@ Astraが形状をコードで記述し、Blender Clay Rendererプラグインが
 
 [元投稿](<https://x.com/0xTykoo/status/2096183262255386833>) · [ギャラリーの詳細](<https://magiccreator.ai/ja/astra#astra-55-clip-edit>)
 
+### After Effectsモーショングラフィックス
+
+[![After Effectsモーショングラフィックス — 作者の元投稿からのプレビュー](<https://pbs.twimg.com/amplify_video_thumb/2097497983826956288/img/slA7YZTPz1cCzWWW.jpg>)](<https://x.com/Nyto_vd/status/2097499735942893726>)
+
+AstraがAfter Effectsの標準機能を操作して制作した短いモーショングラフィックス。
+
+**作者:** [トニー太田](<https://x.com/Nyto_vd>) · **ツール・形式:** After Effects, モーショングラフィックス, Computer Use
+
+作者によると、Codex上のAstraがAfter Effectsを操作し、外部の動画生成モデルを使わず数分でテストを完成させました。公開内容は小規模な実験で、制作向けの完成編集ではありません。
+
+[元投稿](<https://x.com/Nyto_vd/status/2097499735942893726>) · [ギャラリーの詳細](<https://magiccreator.ai/ja/astra#after-effects-motion-graphics>)
+
 ### マンハッタン上空の映像
 
 [![マンハッタン上空の映像 — 作者の元投稿からのプレビュー](<https://pbs.twimg.com/amplify_video_thumb/2095612637182922752/img/zw51jZqWxsQnYpA6.jpg>)](<https://x.com/Dimillian/status/2096478021234426059>)
@@ -1156,6 +1354,18 @@ Astraが形状をコードで記述し、Blender Clay Rendererプラグインが
 **開示事項:** モデル開発チームのメンバーが共有したデモ.
 
 [元投稿](<https://x.com/Dimillian/status/2096478021234426059>) · [ギャラリーの詳細](<https://magiccreator.ai/ja/astra#manhattan-flyover>)
+
+### カワウソ屋台ストップモーション
+
+[![カワウソ屋台ストップモーション — 作者の元投稿からのプレビュー](<https://pbs.twimg.com/media/HRvcfILa4AAyiwX.jpg>)](<https://x.com/gabrielchua/status/2097512638704197681>)
+
+一貫した99枚の画像を、音楽と効果音付きのストップモーション短編へ。
+
+**作者:** [Gabriel Chua](<https://x.com/gabrielchua>) · **ツール・形式:** GPT Image 2.5, ストップモーション, キャラクター一貫性
+
+Gabriel ChuaはGPT Image 2.5 Sunburstで全フレームを生成・反復編集し、Astraでストップモーション、音楽、効果音を組み立てました。画像生成と編集をつないだ複合ワークフローです。
+
+[元投稿](<https://x.com/gabrielchua/status/2097512638704197681>) · [ギャラリーの詳細](<https://magiccreator.ai/ja/astra#otter-hawker-stop-motion>)
 
 <a id="art"></a>
 
@@ -1246,6 +1456,18 @@ MarsForTech が GPT-6 Astra Max で生成した SVG として、PlayStation 4 �
 作者が肖像写真を渡し、Macアプリ内で描く様子を確認。単独の画像生成ではなく、アプリ操作を示す事例です。
 
 [元投稿](<https://x.com/viticci/status/2096025249582039180>) · [ギャラリーの詳細](<https://magiccreator.ai/ja/astra#apple-notes-portrait>)
+
+### 『ニューロマンサー』風タイプフェイス
+
+[![『ニューロマンサー』風タイプフェイス — 作者の元投稿からのプレビュー](<https://pbs.twimg.com/amplify_video_thumb/2097252725205663744/img/OOgO1kwjE6QJpYjA.jpg>)](<https://x.com/maxescu/status/2097256565824774332>)
+
+ポスターを参考に、使用可能な2種類のフォントとアニメーション紹介映像を制作。
+
+**作者:** [Alex Patrascu](<https://x.com/maxescu>) · **ツール・形式:** タイポグラフィ, フォントデザイン, Higgsfield
+
+Alex Patrascuは『ニューロマンサー』のポスターに着想を得たフォントと、Higgsfieldプラグインによる紹介アニメーションをAstraに依頼しました。公式素材ではなく、ファンによるタイポグラフィ研究です。
+
+[元投稿](<https://x.com/maxescu/status/2097256565824774332>) · [ギャラリーの詳細](<https://magiccreator.ai/ja/astra#neuromancer-inspired-typeface>)
 
 ### Astraのポスターデザイン実験
 
