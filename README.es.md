@@ -3,7 +3,7 @@
 
 🟢 **Actualizado regularmente**
 
-[English](<README.md>) · [日本語](<README.ja.md>) · [Deutsch](<README.de.md>) · **Español**
+[English](<README.md>) · [日本語](<README.ja.md>) · [Deutsch](<README.de.md>) · **Español** · [한국어](<README.ko.md>)
 
 Una colección seleccionada de demos de GPT-6 Astra: juegos, Blender y 3D, webs, vídeos, dibujos y otros proyectos de uso del ordenador. Descubre las obras, el papel de Astra y dónde ver los originales.
 

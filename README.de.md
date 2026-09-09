@@ -3,7 +3,7 @@
 
 🟢 **Regelmäßig aktualisiert**
 
-[English](<README.md>) · [日本語](<README.ja.md>) · **Deutsch** · [Español](<README.es.md>)
+[English](<README.md>) · [日本語](<README.ja.md>) · **Deutsch** · [Español](<README.es.md>) · [한국어](<README.ko.md>)
 
 Eine kuratierte Sammlung von GPT-6 Astra Demos: Spiele, Blender und 3D, Websites, Videos, Zeichnungen und weitere Projekte mit Computerbedienung. Entdecke die Werke, Astras Beitrag und die Originalquellen.
 

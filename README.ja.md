@@ -3,7 +3,7 @@
 
 🟢 **随時更新中**
 
-[English](<README.md>) · **日本語** · [Deutsch](<README.de.md>) · [Español](<README.es.md>)
+[English](<README.md>) · **日本語** · [Deutsch](<README.de.md>) · [Español](<README.es.md>) · [한국어](<README.ko.md>)
 
 GPT-6 Astraを使ったゲーム、Blender・3D、ウェブサイト、動画、イラスト、その他のコンピューター操作事例を集めました。作品、Astraの役割、元の公開先を紹介します。
 

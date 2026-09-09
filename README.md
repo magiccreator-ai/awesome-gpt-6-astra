@@ -3,7 +3,7 @@
 
 🟢 **Updated regularly**
 
-**English** · [日本語](<README.ja.md>) · [Deutsch](<README.de.md>) · [Español](<README.es.md>)
+**English** · [日本語](<README.ja.md>) · [Deutsch](<README.de.md>) · [Español](<README.es.md>) · [한국어](<README.ko.md>)
 
 A curated collection of GPT-6 Astra demos: games, Blender & 3D, websites, video creation, drawing and other computer-use projects. Discover what creators built, how Astra contributed, and where to see the original work.
 
