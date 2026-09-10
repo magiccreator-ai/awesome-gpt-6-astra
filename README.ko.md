@@ -11,7 +11,7 @@
 >
 > 원본 출처와 이용 가능한 데모 링크를 포함한 새로운 사례를 정기적으로 추가합니다. 이 저장소에 스타를 눌러 컬렉션을 저장하고 다시 방문해 주세요.
 
-사례 139개 · 크리에이터 제공 라이브 링크 49개 · 최근 검토일: 2026-09-09
+사례 153개 · 크리에이터 제공 라이브 링크 51개 · 최근 검토일: 2026-09-10
 
 **[MagicCreator 비주얼 갤러리에서 보기 →](<https://magiccreator.ai/ko/astra>)** — 미리보기를 둘러보고 카테고리별로 필터링하며 크리에이터가 제공한 라이브 데모를 찾아보세요.
 
@@ -31,12 +31,12 @@
 
 ## 목차
 
-- [GPT-6 Astra 게임 및 플레이 가능한 데모](#games) (42)
-- [GPT-6 Astra Blender 및 3D 데모](#blender) (20)
-- [GPT-6 Astra 웹사이트 및 웹 앱 데모](#web) (40)
-- [GPT-6 Astra 비디오 제작 사례](#video) (12)
-- [GPT-6 Astra 드로잉 및 픽셀아트](#art) (10)
-- [GPT-6 Astra 기타 데모](#others) (15)
+- [GPT-6 Astra 게임 및 플레이 가능한 데모](#games) (43)
+- [GPT-6 Astra Blender 및 3D 데모](#blender) (21)
+- [GPT-6 Astra 웹사이트 및 웹 앱 데모](#web) (46)
+- [GPT-6 Astra 비디오 제작 사례](#video) (13)
+- [GPT-6 Astra 드로잉 및 픽셀아트](#art) (13)
+- [GPT-6 Astra 기타 데모](#others) (17)
 - [데모 제안](#suggest-a-demo)
 
 <a id="games"></a>
@@ -143,6 +143,18 @@ Astra 지원 최적화 후 Apple Silicon에서 실행된 Age of Empires IV 녹�
 
 [원본 게시물](<https://x.com/buildingadlicio/status/2096111709496680842>) · [비주얼 갤러리 상세 보기](<https://magiccreator.ai/ko/astra#mobile-ad-playable-remake>)
 
+### 사실적인 Contra 게임
+
+[![사실적인 Contra 게임 — 크리에이터 게시물의 미리보기](<https://pbs.twimg.com/amplify_video_thumb/2097057910090293248/img/H3TAuxFgF9s8ZRdu.jpg>)](<https://x.com/illscience/status/2097059547328241971>)
+
+주말 실험으로 Contra를 플레이 가능한 사실적 횡스크롤 게임으로 재해석했습니다.
+
+**크리에이터:** [Anish Acharya](<https://x.com/illscience>) · **도구 / 형식:** 플레이 가능한 게임, 사실적 표현, 횡스크롤
+
+Anish Acharya는 주말 동안 Astra로 게임 실험을 만들고 작성자 답글에 플레이 가능한 배포판을 공유했습니다. 프로토타입 데모이며 공식 Contra 출시작은 아닙니다.
+
+[원본 게시물](<https://x.com/illscience/status/2097059547328241971>) · [라이브 데모](<https://runner-stage1.vercel.app/>) · [비주얼 갤러리 상세 보기](<https://magiccreator.ai/ko/astra#photorealistic-contra-game>)
+
 ### Afterlight Robot World
 
 [![Afterlight Robot World — 크리에이터 게시물의 미리보기](<https://pbs.twimg.com/amplify_video_thumb/2096580463288803328/img/_S5-VDnQ9RJh9URY.jpg>)](<https://x.com/anshuc/status/2096584624432374151>)
@@ -154,6 +166,18 @@ Astra 지원 최적화 후 Apple Silicon에서 실행된 Age of Empires IV 녹�
 제작자는 시각적 목표와 텍스처를 위해 Astra, Blender, Three.js 및 이미지 생성을 반복 사용했다고 설명합니다. 그들은 글리치 일부를 수동으로 수정했으며 최적화와 테스트가 여전히 필요하다고 말합니다. 녹화로 제시됩니다.
 
 [원본 게시물](<https://x.com/anshuc/status/2096584624432374151>) · [비주얼 갤러리 상세 보기](<https://magiccreator.ai/ko/astra#afterlight-robot-world>)
+
+### Godot 로그라이크 레벨
+
+[![Godot 로그라이크 레벨 — 크리에이터 게시물의 미리보기](<https://pbs.twimg.com/amplify_video_thumb/2096494188548550656/img/uCmzr3Tx-OpNUE5c.jpg>)](<https://x.com/op7418/status/2096494840431386950>)
+
+변하는 날씨, 무기·능력, 주야간 사이클을 갖춘 3D 전투 레벨입니다.
+
+**크리에이터:** [歸藏(guizang.ai)](<https://x.com/op7418>) · **도구 / 형식:** Godot, Blender
+
+제작자는 Astra, Blender, Godot를 사용했다고 밝힙니다. 이 항목은 녹화된 레벨 데모이며 다운로드 가능하거나 브라우저에서 플레이 가능한 게임은 아닙니다.
+
+[원본 게시물](<https://x.com/op7418/status/2096494840431386950>) · [비주얼 갤러리 상세 보기](<https://magiccreator.ai/ko/astra#godot-roguelike>)
 
 ### Zork in 3D
 
@@ -178,18 +202,6 @@ Astra 지원 최적화 후 Apple Silicon에서 실행된 Age of Empires IV 녹�
 제작자는 이 Three.js 게임을 Astra로 만들었다고 밝힙니다. 연결된 저장소에는 이동, 늘이기 기능과 놀이터 활동이 문서화되어 있습니다. 라이브 페이지는 WebGPU가 필요하며 게임플레이는 독립적으로 테스트되지 않았습니다.
 
 [원본 게시물](<https://x.com/scottstts/status/2096364764054131119>) · [라이브 데모](<https://jelly.scottsun.io/>) · [크리에이터의 코드](<https://github.com/scottstts/Jelly-Baby>) · [비주얼 갤러리 상세 보기](<https://magiccreator.ai/ko/astra#jelly-baby>)
-
-### Godot 로그라이크 레벨
-
-[![Godot 로그라이크 레벨 — 크리에이터 게시물의 미리보기](<https://pbs.twimg.com/amplify_video_thumb/2096494188548550656/img/uCmzr3Tx-OpNUE5c.jpg>)](<https://x.com/op7418/status/2096494840431386950>)
-
-변하는 날씨, 무기·능력, 주야간 사이클을 갖춘 3D 전투 레벨입니다.
-
-**크리에이터:** [歸藏(guizang.ai)](<https://x.com/op7418>) · **도구 / 형식:** Godot, Blender
-
-제작자는 Astra, Blender, Godot를 사용했다고 밝힙니다. 이 항목은 녹화된 레벨 데모이며 다운로드 가능하거나 브라우저에서 플레이 가능한 게임은 아닙니다.
-
-[원본 게시물](<https://x.com/op7418/status/2096494840431386950>) · [비주얼 갤러리 상세 보기](<https://magiccreator.ai/ko/astra#godot-roguelike>)
 
 ### Elderwood Realms
 
@@ -581,6 +593,18 @@ VHS 효과와 사운드를 적용해 Blender로 렌더링한 Backrooms 장면.
 
 [원본 게시물](<https://x.com/duncantrussell/status/2096003511104508411>) · [비주얼 갤러리 상세 보기](<https://magiccreator.ai/ko/astra#backrooms-blender-vhs>)
 
+### Blender의 사실적인 박쥐
+
+[![Blender의 사실적인 박쥐 — 크리에이터 게시물의 미리보기](<https://pbs.twimg.com/amplify_video_thumb/2096226629974454274/img/B9GHU5hd1BZdZYYX.jpg>)](<https://x.com/aollivier82/status/2096226819401801896>)
+
+Astra가 긴 자율 작업을 통해 Blender 안에서 정교하고 사실적인 박쥐 모델을 만듭니다.
+
+**크리에이터:** [Alix Ollivier](<https://x.com/aollivier82>) · **도구 / 형식:** Blender, 사실적 3D, 동물 모델
+
+Alix Ollivier는 Astra에게 Blender에서 사실적인 박쥐를 만들게 하고 세션 토큰이 소진될 때까지 계속 작업하도록 했습니다. 게시물은 녹화된 결과를 보여주며 다운로드 가능한 모델은 제공하지 않습니다.
+
+[원본 게시물](<https://x.com/aollivier82/status/2096226819401801896>) · [비주얼 갤러리 상세 보기](<https://magiccreator.ai/ko/astra#photorealistic-bat-blender>)
+
 ### Blender to Unreal House
 
 [![Blender to Unreal House — 크리에이터 게시물의 미리보기](<https://pbs.twimg.com/amplify_video_thumb/2095596669320810496/img/W43WylmZrzBLZ-Ye.jpg>)](<https://x.com/Dimillian/status/2095596700815516004>)
@@ -819,6 +843,18 @@ Astra로 생성한 인터페이스 디자인 시연.
 
 [원본 게시물](<https://x.com/MSchwaibold/status/2096059496812716307>) · [비주얼 갤러리 상세 보기](<https://magiccreator.ai/ko/astra#astra-ui-generation-study>)
 
+### 책을 찾는 인터랙티브 사진
+
+[![책을 찾는 인터랙티브 사진 — 크리에이터 게시물의 미리보기](<https://pbs.twimg.com/amplify_video_thumb/2097008833235492864/img/3W5BerAZjOxBs6rs.jpg>)](<https://x.com/rohancalum/status/2097009625627500814>)
+
+정적인 책장 사진이 책을 찾는 도전을 제공하는 인터랙티브 장면으로 바뀝니다.
+
+**크리에이터:** [Rohan Nuttall](<https://x.com/rohancalum>) · **도구 / 형식:** 인터랙티브 사진, 시각 검색, 웹 프로토타입
+
+Rohan Nuttall은 Astra에게 사진을 인터랙티브하게 만들고 책 찾기를 영상 속 활동으로 구현해 달라고 요청했습니다. 이는 녹화된 시연이며 게시물에는 공개 플레이 링크가 없습니다.
+
+[원본 게시물](<https://x.com/rohancalum/status/2097009625627500814>) · [비주얼 갤러리 상세 보기](<https://magiccreator.ai/ko/astra#interactive-hidden-book-photo>)
+
 ### Model X Studio
 
 [![Model X Studio — 크리에이터 게시물의 미리보기](<https://pbs.twimg.com/amplify_video_thumb/2096008340329627648/img/f7Gt3ww30PLWmsKK.jpg>)](<https://x.com/ashebytes/status/2096009146248122416>)
@@ -830,6 +866,30 @@ Astra로 생성한 인터페이스 디자인 시연.
 제작자는 사이트 제작에 Astra를 기여자로 표기했습니다. 저장소는 cgi Moon의 BlendKit Model X 자산을 사용하며 334개 메시가 Tesla 서비스 부품임은 확인되지 않았습니다. 독립적 교육용 시각화이며 완전한 OEM 부품 목록이 아닙니다.
 
 [원본 게시물](<https://x.com/ashebytes/status/2096009146248122416>) · [라이브 데모](<https://model-x-studio.vercel.app>) · [크리에이터의 코드](<https://github.com/ashemag/model-x-studio>) · [비주얼 갤러리 상세 보기](<https://magiccreator.ai/ko/astra#model-x-studio>)
+
+### 인터랙티브 3D 발목 아틀라스
+
+[![인터랙티브 3D 발목 아틀라스 — 크리에이터 게시물의 미리보기](<https://pbs.twimg.com/amplify_video_thumb/2096528732894736385/img/5eBgy_Fep7HLynql.jpg>)](<https://x.com/Emanuel_Andre7/status/2096528986390085696>)
+
+뼈, 인대, 힘줄, 운동축과 움직임별 실시간 수치를 보여주는 인터랙티브 발목 아틀라스입니다.
+
+**크리에이터:** [Emanuel AOF](<https://x.com/Emanuel_Andre7>) · **도구 / 형식:** 의학 시각화, 인터랙티브 3D, 교육
+
+Emanuel AOF는 자신의 발목 통증을 이해하도록 Astra에 도움을 요청했고 영상의 3D 아틀라스를 얻었습니다. 한 세션에서 만든 교육용 시각화이며 의학적 진단이나 검증된 임상 도구가 아닙니다.
+
+[원본 게시물](<https://x.com/Emanuel_Andre7/status/2096528986390085696>) · [비주얼 갤러리 상세 보기](<https://magiccreator.ai/ko/astra#interactive-3d-ankle-atlas>)
+
+### 닉스 팁인 3D 리플레이
+
+[![닉스 팁인 3D 리플레이 — 크리에이터 게시물의 미리보기](<https://pbs.twimg.com/amplify_video_thumb/2096663265812332544/img/JRENdmreJLLAoTZr.jpg>)](<https://x.com/Flynnjamm/status/2096663293901578438>)
+
+기억에 남는 농구 팁인 장면을 경기장 여러 좌석에서 볼 수 있는 3D 장면으로 재구성합니다.
+
+**크리에이터:** [brian flynn](<https://x.com/Flynnjamm>) · **도구 / 형식:** 스포츠 리플레이, 인터랙티브 3D, 공간 재구성
+
+Brian Flynn은 Astra에게 경기 영상을 살펴보고 OG Anunoby의 팁인을 경기장 시점 선택이 가능하도록 재현해 달라고 요청했습니다. 게시물은 녹화된 데모이며 공개 인터랙티브 링크는 없습니다.
+
+[원본 게시물](<https://x.com/Flynnjamm/status/2096663293901578438>) · [비주얼 갤러리 상세 보기](<https://magiccreator.ai/ko/astra#knicks-tip-in-3d-replay>)
 
 ### Three.js의 싱가포르 거리
 
@@ -901,6 +961,18 @@ Astra는 기존 지리 데이터로 인터랙티브 Three.js 지도를 구축하
 
 [원본 게시물](<https://x.com/synabreu/status/2096557555086725159>) · [라이브 데모](<https://seoul-3d-atlas.synabreu.chatgpt.site/>) · [비주얼 갤러리 상세 보기](<https://magiccreator.ai/ko/astra#seoul-atlas>)
 
+### 유리잔 건조 물리 시뮬레이션
+
+[![유리잔 건조 물리 시뮬레이션 — 크리에이터 게시물의 미리보기](<https://pbs.twimg.com/amplify_video_thumb/2096407350420860928/img/BVqp3PxNApu8RF9e.jpg>)](<https://x.com/iamBarronRoth/status/2096407730030530762>)
+
+세척한 유리잔을 바로 또는 거꾸로 두었을 때 어느 쪽이 빨리 마르는지 물리 시뮬레이션으로 비교합니다.
+
+**크리에이터:** [Barron Roth](<https://x.com/iamBarronRoth>) · **도구 / 형식:** 물리 시뮬레이션, 유체 거동, 인터랙티브 과학
+
+Barron Roth는 일상의 질문을 탐구하기 위해 Astra에게 물의 움직임과 주변 공기 습도를 시뮬레이션해 달라고 요청했습니다. 영상은 모델을 보여주지만 공개 시뮬레이션 링크나 검증 데이터는 없습니다.
+
+[원본 게시물](<https://x.com/iamBarronRoth/status/2096407730030530762>) · [비주얼 갤러리 상세 보기](<https://magiccreator.ai/ko/astra#glass-drying-physics-simulation>)
+
 ### Three.js의 항저우
 
 [![Three.js의 항저우 — 크리에이터 게시물의 미리보기](<https://pbs.twimg.com/amplify_video_thumb/2096142969032351744/img/lZvQ1GZMdqznrSqb.jpg>)](<https://x.com/NFT_Chen/status/2096143589151756638>)
@@ -924,6 +996,30 @@ Astra는 기존 지리 데이터로 인터랙티브 Three.js 지도를 구축하
 Varun은 GPT-6 Astra가 사이트 디자인을 담당했다고 밝히고 완성된 포트폴리오를 링크합니다. 라이브 페이지는 리뷰 당시 접근 가능했으며 프롬프트와 구현 워크플로는 문서화되지 않았습니다.
 
 [원본 게시물](<https://x.com/orseliyas/status/2097307376143773730>) · [라이브 데모](<https://varunlohade.com/>) · [비주얼 갤러리 상세 보기](<https://magiccreator.ai/ko/astra#varun-lohade-portfolio>)
+
+### 텍사스 항공기 공장 시뮬레이션
+
+[![텍사스 항공기 공장 시뮬레이션 — 크리에이터 게시물의 미리보기](<https://pbs.twimg.com/amplify_video_thumb/2096121674982727684/img/KOtQLbRs5hSSFlDT.jpg>)](<https://x.com/konstantinsaifo/status/2096122429319852319>)
+
+텍사스의 기능적인 항공기 제조 공장을 배치한 실시간 Three.js 시뮬레이션입니다.
+
+**크리에이터:** [Konstantin Saifoulline](<https://x.com/konstantinsaifo>) · **도구 / 형식:** 제조, Three.js, 3D 시뮬레이션
+
+Konstantin Saifoulline은 Astra에게 항공기 제조를 조사하고 Airsup의 린 생산 자료를 학습해 공장을 설계하고 시뮬레이션을 구축·시험하도록 요청했습니다. 게시물은 결과를 보여주지만 공개 데모 링크는 없습니다.
+
+[원본 게시물](<https://x.com/konstantinsaifo/status/2096122429319852319>) · [비주얼 갤러리 상세 보기](<https://magiccreator.ai/ko/astra#texas-jet-plant-simulation>)
+
+### 인터랙티브 모형 철도
+
+[![인터랙티브 모형 철도 — 크리에이터 게시물의 미리보기](<https://pbs.twimg.com/amplify_video_thumb/2097339097396416512/img/9xEMeUt_Obm_20lC.jpg>)](<https://x.com/nickfromlater/status/2097355845524726084>)
+
+Astra와 Three.js가 어린 시절의 모형 철도 아이디어를 브라우저에서 즐기는 인터랙티브 경험으로 만듭니다.
+
+**크리에이터:** [Probably Nick](<https://x.com/nickfromlater>) · **도구 / 형식:** 인터랙티브 3D, Three.js, 모형 철도
+
+Probably Nick은 Astra와 Three.js로 철도를 만들고 영상과 공개 플레이 사이트를 공유했습니다. 링크된 사이트는 완성 제품이 아니라 작성자의 프로토타입입니다.
+
+[원본 게시물](<https://x.com/nickfromlater/status/2097355845524726084>) · [라이브 데모](<https://alder-valley-rail-atelier.nickfromlater.chatgpt.site/>) · [비주얼 갤러리 상세 보기](<https://magiccreator.ai/ko/astra#interactive-model-railroad>)
 
 ### Brandenburg Piano
 
@@ -1277,6 +1373,18 @@ Astra가 매물 사진으로 주택을 재구성하고 영상을 만들었다고
 
 [원본 게시물](<https://x.com/realYunfanYe/status/2095612137582526615>) · [비주얼 갤러리 상세 보기](<https://magiccreator.ai/ko/astra#zillow-house-video>)
 
+### 11분 Higgsfield 영상
+
+[![11분 Higgsfield 영상 — 크리에이터 게시물의 미리보기](<https://pbs.twimg.com/amplify_video_thumb/2096491888966852608/img/sOPzOKuspX5PNY8j.jpg>)](<https://x.com/adilinthewild/status/2096501790774817240>)
+
+Astra가 Higgsfield 생성과 편집을 조율해 하나의 채팅에서 11분짜리 영상을 완성합니다.
+
+**크리에이터:** [Adil Alimzhanov](<https://x.com/adilinthewild>) · **도구 / 형식:** 영상 제작, Higgsfield MCP, 에이전트 워크플로
+
+Adil Alimzhanov는 Astra가 Higgsfield MCP를 사용해 얼굴, 목소리, 모션 디자인을 유지하며 전체 영상을 생성하고 편집했다고 설명합니다. 게시물은 제작자의 워크플로와 결과를 기록합니다.
+
+[원본 게시물](<https://x.com/adilinthewild/status/2096501790774817240>) · [비주얼 갤러리 상세 보기](<https://magiccreator.ai/ko/astra#eleven-minute-higgsfield-video>)
+
 ### Final Cut 편집 준비
 
 [![Final Cut 편집 준비 — 크리에이터 게시물의 미리보기](<https://pbs.twimg.com/amplify_video_thumb/2095740451047567360/img/3JXZzheS2LHEPeLM.jpg>)](<https://x.com/davis7/status/2095742249275699415>)
@@ -1432,6 +1540,42 @@ Aseprite로 만든 Hatsune Miku 픽셀 아트로 과정 녹화와 이미지가 �
 제작자는 GPT-6 Astra가 Aseprite에서 픽셀 아트를 만들었다고 말합니다. 픽셀 수준 정밀도 주장은 독립적으로 확인되지 않았습니다. 이는 게임이 아닌 예술 제작 예시입니다.
 
 [원본 게시물](<https://x.com/suemaruuuuuuX/status/2096212351502721361>) · [비주얼 갤러리 상세 보기](<https://magiccreator.ai/ko/astra#hatsune-miku-pixel-art>)
+
+### 로봇이 그린 금문교
+
+[![로봇이 그린 금문교 — 크리에이터 게시물의 미리보기](<https://pbs.twimg.com/amplify_video_thumb/2097210560727437312/img/GYHkMobXeJU1Ahb-.jpg>)](<https://x.com/cdngdev/status/2097339677128982873>)
+
+Astra가 로봇과 붓, 카메라를 제어해 여러 차례 시도하며 금문교를 그립니다.
+
+**크리에이터:** [thijs](<https://x.com/cdngdev>) · **도구 / 형식:** 로봇공학, 피지컬 아트, 반복 학습
+
+작성자는 Astra가 실제 로봇의 제어 방법을 알아내고 시도할 때마다 그림을 개선했다고 말합니다. 이 영상은 제작자가 보고한 현실 세계 시연이며, 독립적으로 재현된 로봇공학 벤치마크가 아닙니다.
+
+[원본 게시물](<https://x.com/cdngdev/status/2097339677128982873>) · [비주얼 갤러리 상세 보기](<https://magiccreator.ai/ko/astra#robot-golden-gate-painting>)
+
+### Ass Bench: 스스로 개선되는 3D 엉덩이
+
+[![Ass Bench: 스스로 개선되는 3D 엉덩이 — 크리에이터 게시물의 미리보기](<https://pbs.twimg.com/amplify_video_thumb/2097430424205295616/img/3DRzerCx-p39fz32.jpg>)](<https://x.com/developedbyed/status/2097431364270248104>)
+
+일주일간의 생성 루프가 가끔 사람의 지시를 받으며 스타일화된 3D 엉덩이를 반복 개선합니다.
+
+**크리에이터:** [Dev Ed](<https://x.com/developedbyed>) · **도구 / 형식:** 3D 생성, 반복 워크플로, AI 벤치마크
+
+Dev Ed는 Astra를 일주일간 루프로 실행하고 하루에 몇 차례 지시해 3D 결과를 점진적으로 개선했다고 말합니다. 제작자는 실험을 계속할 예정이며, 이는 독립 평가가 아니라 진행 중인 제작자 보고 벤치마크입니다.
+
+[원본 게시물](<https://x.com/developedbyed/status/2097431364270248104>) · [비주얼 갤러리 상세 보기](<https://magiccreator.ai/ko/astra#ass-bench-3d-generation-loop>)
+
+### Astra의 손그림 선화 채색
+
+[![Astra의 손그림 선화 채색 — 크리에이터 게시물의 미리보기](<https://pbs.twimg.com/amplify_video_thumb/2096148385795612672/img/mLpeD5kmGrA7RQXk.jpg>)](<https://x.com/taiyaki_sun/status/2096149368193839455>)
+
+Astra가 데스크톱 페인팅 앱을 조작해 작가의 손그림 선화를 레이어별로 채색합니다.
+
+**크리에이터:** [taiyakisun(たい焼き太陽)🥐](<https://x.com/taiyaki_sun>) · **도구 / 형식:** 디지털 페인팅, 컴퓨터 사용, 선화
+
+taiyakisun은 직접 그린 선화를 제공하고 Astra에게 Clip Studio Paint에서 채색해 달라고 요청했습니다. 영상에는 Astra가 레이어를 만들고 확대하며 도구를 선택해 칠하는 과정이 담겼으며, 결과는 작가의 데모입니다.
+
+[원본 게시물](<https://x.com/taiyaki_sun/status/2096149368193839455>) · [비주얼 갤러리 상세 보기](<https://magiccreator.ai/ko/astra#astra-colors-hand-drawn-line-art>)
 
 ### Hatsune Miku Drawing
 
@@ -1630,6 +1774,30 @@ Ableton에서 합성 악기와 편곡으로 만든 음악 트랙.
 제작자는 Astra가 RAM 접근, 힌트, 공략 없이 스크린샷만으로 18시간 12분 만에 챔피언에 도달했다고 보고합니다.
 
 [원본 게시물](<https://x.com/Clad3815/status/2095596013168050551>) · [비주얼 갤러리 상세 보기](<https://magiccreator.ai/ko/astra#pokemon-screenshot-agent>)
+
+### MecAgent 기반 SolidWorks CAD
+
+[![MecAgent 기반 SolidWorks CAD — 크리에이터 게시물의 미리보기](<https://pbs.twimg.com/amplify_video_thumb/2097676576628641792/img/5LmOcRt0PTh5Wpd9.jpg>)](<https://x.com/MecAgent/status/2097676816592797816>)
+
+Astra가 MecAgent 하네스를 통해 SolidWorks 2026을 조작하는 CAD 작업 데모입니다.
+
+**크리에이터:** [MecAgent](<https://x.com/MecAgent>) · **도구 / 형식:** SolidWorks, CAD, MecAgent
+
+MecAgent는 하네스를 통해 Astra를 SolidWorks 2026에 연결하고 그 CAD 데모를 공개했습니다. 짧은 게시물에는 모델 파일이나 자세한 재현 정보가 포함되지 않았습니다.
+
+[원본 게시물](<https://x.com/MecAgent/status/2097676816592797816>) · [비주얼 갤러리 상세 보기](<https://magiccreator.ai/ko/astra#solidworks-cad-mecagent>)
+
+### 바흐풍 푸가 작곡
+
+[![바흐풍 푸가 작곡 — 크리에이터 게시물의 미리보기](<https://pbs.twimg.com/amplify_video_thumb/2097372797769240577/img/G0kfKIrgpnVwvJ6w.jpg>)](<https://x.com/aug5thmusic/status/2097373938393456984>)
+
+Astra가 하나의 프롬프트로 바흐 스타일의 완전한 푸가를 작곡합니다.
+
+**크리에이터:** [Auggie](<https://x.com/aug5thmusic>) · **도구 / 형식:** 음악 작곡, 푸가, 단일 프롬프트
+
+Auggie는 한 번의 프롬프트로 영상에 제시된 푸가를 작곡하도록 Astra에 요청했습니다. 제작자 데모이며 악보, 프로젝트 파일, 독립적인 음악 분석은 제공되지 않습니다.
+
+[원본 게시물](<https://x.com/aug5thmusic/status/2097373938393456984>) · [비주얼 갤러리 상세 보기](<https://magiccreator.ai/ko/astra#astra-bach-style-fugue>)
 
 ### 지도 핀에서 3D 동네로
 

@@ -11,7 +11,7 @@ Una colección seleccionada de demos de GPT-6 Astra: juegos, Blender y 3D, webs,
 >
 > Añadimos nuevos descubrimientos con sus fuentes originales y los enlaces de demo disponibles. Dale una estrella a este repositorio para guardar la colección y volver a descubrir más.
 
-139 ejemplos · 49 enlaces de demo aportados por creadores · Última revisión registrada: 2026-09-09
+153 ejemplos · 51 enlaces de demo aportados por creadores · Última revisión registrada: 2026-09-10
 
 **[Explora la galería visual en MagicCreator →](<https://magiccreator.ai/es/astra>)** — Mira vistas previas, filtra por categoría y encuentra demos enlazadas por sus creadores.
 
@@ -31,12 +31,12 @@ La vista previa pertenece a su creador y enlaza la publicación original; este r
 
 ## Índice
 
-- [Juegos y demos jugables de GPT-6 Astra](#games) (42)
-- [Demos de Blender y 3D con GPT-6 Astra](#blender) (20)
-- [Webs y aplicaciones con GPT-6 Astra](#web) (40)
-- [Creación de vídeo con GPT-6 Astra](#video) (12)
-- [Dibujos y pixel art con GPT-6 Astra](#art) (10)
-- [Otras demos de GPT-6 Astra](#others) (15)
+- [Juegos y demos jugables de GPT-6 Astra](#games) (43)
+- [Demos de Blender y 3D con GPT-6 Astra](#blender) (21)
+- [Webs y aplicaciones con GPT-6 Astra](#web) (46)
+- [Creación de vídeo con GPT-6 Astra](#video) (13)
+- [Dibujos y pixel art con GPT-6 Astra](#art) (13)
+- [Otras demos de GPT-6 Astra](#others) (17)
 - [Sugerir una demo](#suggest-a-demo)
 
 <a id="games"></a>
@@ -143,6 +143,18 @@ El creador usó Astra y Blender para convertir el anuncio en un prototipo jugabl
 
 [Publicación original](<https://x.com/buildingadlicio/status/2096111709496680842>) · [Detalles en la galería](<https://magiccreator.ai/es/astra#mobile-ad-playable-remake>)
 
+### Juego fotorrealista de Contra
+
+[![Juego fotorrealista de Contra — Vista previa de la publicación del creador](<https://pbs.twimg.com/amplify_video_thumb/2097057910090293248/img/H3TAuxFgF9s8ZRdu.jpg>)](<https://x.com/illscience/status/2097059547328241971>)
+
+Un experimento de fin de semana reinventa Contra como un juego lateral fotorrealista y jugable.
+
+**Creador:** [Anish Acharya](<https://x.com/illscience>) · **Herramientas / formato:** Juego jugable, Fotorrealista, Desplazamiento lateral
+
+Anish Acharya creó el experimento con Astra durante un fin de semana y compartió una versión jugable en una respuesta propia. Es una demostración prototipo, no un lanzamiento oficial de Contra.
+
+[Publicación original](<https://x.com/illscience/status/2097059547328241971>) · [Probar demo](<https://runner-stage1.vercel.app/>) · [Detalles en la galería](<https://magiccreator.ai/es/astra#photorealistic-contra-game>)
+
 ### Afterlight: mundo de robots
 
 [![Afterlight: mundo de robots — Vista previa de la publicación del creador](<https://pbs.twimg.com/amplify_video_thumb/2096580463288803328/img/_S5-VDnQ9RJh9URY.jpg>)](<https://x.com/anshuc/status/2096584624432374151>)
@@ -154,6 +166,18 @@ Una escena de juego distópico con robots, lluvia, luces cálidas, calles detall
 El creador describe iteraciones con Astra, Blender, Three.js y generación de imágenes para referencias visuales y texturas. Corrigió fallos manualmente y señala que aún faltan optimización y pruebas. Se muestra una grabación.
 
 [Publicación original](<https://x.com/anshuc/status/2096584624432374151>) · [Detalles en la galería](<https://magiccreator.ai/es/astra#afterlight-robot-world>)
+
+### Un nivel roguelike en Godot
+
+[![Un nivel roguelike en Godot — Vista previa de la publicación del creador](<https://pbs.twimg.com/amplify_video_thumb/2096494188548550656/img/uCmzr3Tx-OpNUE5c.jpg>)](<https://x.com/op7418/status/2096494840431386950>)
+
+Un nivel de combate 3D con clima cambiante, armas, habilidades y ciclos de día y noche.
+
+**Creador:** [歸藏(guizang.ai)](<https://x.com/op7418>) · **Herramientas / formato:** Godot, Blender
+
+El creador menciona Astra, Blender y Godot. Esta entrada es una demostración grabada de un nivel, no un juego descargable ni jugable en el navegador.
+
+[Publicación original](<https://x.com/op7418/status/2096494840431386950>) · [Detalles en la galería](<https://magiccreator.ai/es/astra#godot-roguelike>)
 
 ### Zork en 3D
 
@@ -178,18 +202,6 @@ Estira, lanza y haz rebotar un personaje de gelatina sobre una mesa de madera. C
 El creador atribuye el juego de Three.js a Astra. El repositorio enlazado documenta el movimiento, los estiramientos y las actividades. La página necesita WebGPU; no se ha probado el juego de forma independiente.
 
 [Publicación original](<https://x.com/scottstts/status/2096364764054131119>) · [Probar demo](<https://jelly.scottsun.io/>) · [Código del creador](<https://github.com/scottstts/Jelly-Baby>) · [Detalles en la galería](<https://magiccreator.ai/es/astra#jelly-baby>)
-
-### Un nivel roguelike en Godot
-
-[![Un nivel roguelike en Godot — Vista previa de la publicación del creador](<https://pbs.twimg.com/amplify_video_thumb/2096494188548550656/img/uCmzr3Tx-OpNUE5c.jpg>)](<https://x.com/op7418/status/2096494840431386950>)
-
-Un nivel de combate 3D con clima cambiante, armas, habilidades y ciclos de día y noche.
-
-**Creador:** [歸藏(guizang.ai)](<https://x.com/op7418>) · **Herramientas / formato:** Godot, Blender
-
-El creador menciona Astra, Blender y Godot. Esta entrada es una demostración grabada de un nivel, no un juego descargable ni jugable en el navegador.
-
-[Publicación original](<https://x.com/op7418/status/2096494840431386950>) · [Detalles en la galería](<https://magiccreator.ai/es/astra#godot-roguelike>)
 
 ### Elderwood Realms
 
@@ -581,6 +593,18 @@ El creador describe unas cinco instrucciones a Astra para construir la escena y 
 
 [Publicación original](<https://x.com/duncantrussell/status/2096003511104508411>) · [Detalles en la galería](<https://magiccreator.ai/es/astra#backrooms-blender-vhs>)
 
+### Murciélago fotorrealista en Blender
+
+[![Murciélago fotorrealista en Blender — Vista previa de la publicación del creador](<https://pbs.twimg.com/amplify_video_thumb/2096226629974454274/img/B9GHU5hd1BZdZYYX.jpg>)](<https://x.com/aollivier82/status/2096226819401801896>)
+
+Astra crea en Blender un murciélago detallado y fotorrealista durante una ejecución autónoma prolongada.
+
+**Creador:** [Alix Ollivier](<https://x.com/aollivier82>) · **Herramientas / formato:** Blender, 3D fotorrealista, Modelo animal
+
+Alix Ollivier pidió a Astra que hiciera un murciélago fotorrealista en Blender y dejó que continuara hasta agotar los tokens de la sesión. La publicación muestra el resultado grabado, no un modelo descargable.
+
+[Publicación original](<https://x.com/aollivier82/status/2096226819401801896>) · [Detalles en la galería](<https://magiccreator.ai/es/astra#photorealistic-bat-blender>)
+
 ### Una casa de Blender a Unreal
 
 [![Una casa de Blender a Unreal — Vista previa de la publicación del creador](<https://pbs.twimg.com/amplify_video_thumb/2095596669320810496/img/W43WylmZrzBLZ-Ye.jpg>)](<https://x.com/Dimillian/status/2095596700815516004>)
@@ -819,6 +843,18 @@ El creador muestra una interfaz generada con Astra en vídeo. La publicación se
 
 [Publicación original](<https://x.com/MSchwaibold/status/2096059496812716307>) · [Detalles en la galería](<https://magiccreator.ai/es/astra#astra-ui-generation-study>)
 
+### Foto interactiva para encontrar libros
+
+[![Foto interactiva para encontrar libros — Vista previa de la publicación del creador](<https://pbs.twimg.com/amplify_video_thumb/2097008833235492864/img/3W5BerAZjOxBs6rs.jpg>)](<https://x.com/rohancalum/status/2097009625627500814>)
+
+Una foto estática de una estantería se convierte en una escena interactiva que reta a encontrar los libros.
+
+**Creador:** [Rohan Nuttall](<https://x.com/rohancalum>) · **Herramientas / formato:** Foto interactiva, Búsqueda visual, Prototipo web
+
+Rohan Nuttall pidió a Astra que hiciera interactiva una foto y convirtiera la búsqueda de libros en la actividad del video. Es una demostración grabada; la publicación no ofrece un enlace público jugable.
+
+[Publicación original](<https://x.com/rohancalum/status/2097009625627500814>) · [Detalles en la galería](<https://magiccreator.ai/es/astra#interactive-hidden-book-photo>)
+
 ### Model X Studio
 
 [![Model X Studio — Vista previa de la publicación del creador](<https://pbs.twimg.com/amplify_video_thumb/2096008340329627648/img/f7Gt3ww30PLWmsKK.jpg>)](<https://x.com/ashebytes/status/2096009146248122416>)
@@ -830,6 +866,30 @@ Un visor interactivo del Tesla Model X con vista de despiece, aislamiento de com
 El creador atribuye la web a Astra. El repositorio usa un modelo existente de cgi Moon en BlendKit; sus 334 piezas de malla no son recambios Tesla verificados. Es una visualización educativa independiente, no un catálogo completo de piezas originales.
 
 [Publicación original](<https://x.com/ashebytes/status/2096009146248122416>) · [Probar demo](<https://model-x-studio.vercel.app>) · [Código del creador](<https://github.com/ashemag/model-x-studio>) · [Detalles en la galería](<https://magiccreator.ai/es/astra#model-x-studio>)
+
+### Atlas 3D interactivo del tobillo
+
+[![Atlas 3D interactivo del tobillo — Vista previa de la publicación del creador](<https://pbs.twimg.com/amplify_video_thumb/2096528732894736385/img/5eBgy_Fep7HLynql.jpg>)](<https://x.com/Emanuel_Andre7/status/2096528986390085696>)
+
+Un atlas interactivo visualiza huesos, ligamentos, tendones, ejes de movimiento y lecturas en vivo del tobillo.
+
+**Creador:** [Emanuel AOF](<https://x.com/Emanuel_Andre7>) · **Herramientas / formato:** Visualización médica, 3D interactivo, Educación
+
+Emanuel AOF pidió a Astra ayuda para entender su dolor de tobillo y obtuvo el atlas 3D del video. Es una visualización educativa creada en una sesión, no un diagnóstico médico ni una herramienta clínica validada.
+
+[Publicación original](<https://x.com/Emanuel_Andre7/status/2096528986390085696>) · [Detalles en la galería](<https://magiccreator.ai/es/astra#interactive-3d-ankle-atlas>)
+
+### Repetición 3D de un tip-in de los Knicks
+
+[![Repetición 3D de un tip-in de los Knicks — Vista previa de la publicación del creador](<https://pbs.twimg.com/amplify_video_thumb/2096663265812332544/img/JRENdmreJLLAoTZr.jpg>)](<https://x.com/Flynnjamm/status/2096663293901578438>)
+
+Un tip-in memorable se reconstruye como escena 3D que puede verse desde distintos asientos de la cancha.
+
+**Creador:** [brian flynn](<https://x.com/Flynnjamm>) · **Herramientas / formato:** Repetición deportiva, 3D interactivo, Reconstrucción espacial
+
+Brian Flynn pidió a Astra estudiar clips y recrear el tip-in de OG Anunoby con puntos de vista seleccionables por la cancha. La publicación muestra una grabación y no ofrece un enlace interactivo público.
+
+[Publicación original](<https://x.com/Flynnjamm/status/2096663293901578438>) · [Detalles en la galería](<https://magiccreator.ai/es/astra#knicks-tip-in-3d-replay>)
 
 ### Calle de Singapur en Three.js
 
@@ -901,6 +961,18 @@ Astra ayudó a crear un mapa interactivo de Three.js a partir de datos geográfi
 
 [Publicación original](<https://x.com/synabreu/status/2096557555086725159>) · [Probar demo](<https://seoul-3d-atlas.synabreu.chatgpt.site/>) · [Detalles en la galería](<https://magiccreator.ai/es/astra#seoul-atlas>)
 
+### Simulación física del secado de vasos
+
+[![Simulación física del secado de vasos — Vista previa de la publicación del creador](<https://pbs.twimg.com/amplify_video_thumb/2096407350420860928/img/BVqp3PxNApu8RF9e.jpg>)](<https://x.com/iamBarronRoth/status/2096407730030530762>)
+
+Una simulación compara cómo se secan los vasos lavados cuando se dejan derechos o boca abajo.
+
+**Creador:** [Barron Roth](<https://x.com/iamBarronRoth>) · **Herramientas / formato:** Simulación física, Comportamiento de fluidos, Ciencia interactiva
+
+Barron Roth pidió a Astra simular el comportamiento del agua y la humedad del aire para explorar una duda doméstica. El video muestra el modelo, pero no hay enlace público a la simulación ni datos de validación.
+
+[Publicación original](<https://x.com/iamBarronRoth/status/2096407730030530762>) · [Detalles en la galería](<https://magiccreator.ai/es/astra#glass-drying-physics-simulation>)
+
 ### Hangzhou en Three.js
 
 [![Hangzhou en Three.js — Vista previa de la publicación del creador](<https://pbs.twimg.com/amplify_video_thumb/2096142969032351744/img/lZvQ1GZMdqznrSqb.jpg>)](<https://x.com/NFT_Chen/status/2096143589151756638>)
@@ -924,6 +996,30 @@ Un portafolio que combina un paisaje pictórico, una muestra de proyectos al des
 Varun afirma que GPT-6 Astra se encargó del diseño del sitio y enlaza el portafolio terminado. La página estaba accesible durante la revisión; la publicación breve no documenta el prompt ni el proceso de implementación.
 
 [Publicación original](<https://x.com/orseliyas/status/2097307376143773730>) · [Probar demo](<https://varunlohade.com/>) · [Detalles en la galería](<https://magiccreator.ai/es/astra#varun-lohade-portfolio>)
+
+### Simulación de una fábrica aeronáutica en Texas
+
+[![Simulación de una fábrica aeronáutica en Texas — Vista previa de la publicación del creador](<https://pbs.twimg.com/amplify_video_thumb/2096121674982727684/img/KOtQLbRs5hSSFlDT.jpg>)](<https://x.com/konstantinsaifo/status/2096122429319852319>)
+
+Una simulación en vivo con Three.js diseña una fábrica aeronáutica funcional situada en Texas.
+
+**Creador:** [Konstantin Saifoulline](<https://x.com/konstantinsaifo>) · **Herramientas / formato:** Fabricación, Three.js, Simulación 3D
+
+Konstantin Saifoulline pidió a Astra investigar la fabricación aeronáutica, estudiar material de producción lean de Airsup, diseñar la planta y construir y probar la simulación. La publicación muestra el resultado sin demo pública.
+
+[Publicación original](<https://x.com/konstantinsaifo/status/2096122429319852319>) · [Detalles en la galería](<https://magiccreator.ai/es/astra#texas-jet-plant-simulation>)
+
+### Maqueta ferroviaria interactiva
+
+[![Maqueta ferroviaria interactiva — Vista previa de la publicación del creador](<https://pbs.twimg.com/amplify_video_thumb/2097339097396416512/img/9xEMeUt_Obm_20lC.jpg>)](<https://x.com/nickfromlater/status/2097355845524726084>)
+
+Astra y Three.js convierten una idea infantil de maqueta ferroviaria en una experiencia interactiva en el navegador.
+
+**Creador:** [Probably Nick](<https://x.com/nickfromlater>) · **Herramientas / formato:** 3D interactivo, Three.js, Maqueta ferroviaria
+
+Probably Nick construyó el ferrocarril con Astra y Three.js, compartió un video y enlazó una versión jugable pública. El sitio enlazado es un prototipo del autor, no un producto terminado.
+
+[Publicación original](<https://x.com/nickfromlater/status/2097355845524726084>) · [Probar demo](<https://alder-valley-rail-atelier.nickfromlater.chatgpt.site/>) · [Detalles en la galería](<https://magiccreator.ai/es/astra#interactive-model-railroad>)
 
 ### Piano de Brandeburgo
 
@@ -1277,6 +1373,18 @@ Se atribuyen a Astra la reconstrucción de la vivienda y la creación del vídeo
 
 [Publicación original](<https://x.com/realYunfanYe/status/2095612137582526615>) · [Detalles en la galería](<https://magiccreator.ai/es/astra#zillow-house-video>)
 
+### Video de once minutos con Higgsfield
+
+[![Video de once minutos con Higgsfield — Vista previa de la publicación del creador](<https://pbs.twimg.com/amplify_video_thumb/2096491888966852608/img/sOPzOKuspX5PNY8j.jpg>)](<https://x.com/adilinthewild/status/2096501790774817240>)
+
+Astra coordina la generación y edición con Higgsfield para completar un video de once minutos en un solo chat.
+
+**Creador:** [Adil Alimzhanov](<https://x.com/adilinthewild>) · **Herramientas / formato:** Producción de video, Higgsfield MCP, Flujo de agentes
+
+Adil Alimzhanov afirma que Astra usó Higgsfield MCP para generar y editar todo el video conservando su rostro, voz y diseño de movimiento. La publicación documenta el flujo y el resultado del creador.
+
+[Publicación original](<https://x.com/adilinthewild/status/2096501790774817240>) · [Detalles en la galería](<https://magiccreator.ai/es/astra#eleven-minute-higgsfield-video>)
+
 ### Preparación de edición en Final Cut
 
 [![Preparación de edición en Final Cut — Vista previa de la publicación del creador](<https://pbs.twimg.com/amplify_video_thumb/2095740451047567360/img/3JXZzheS2LHEPeLM.jpg>)](<https://x.com/davis7/status/2095742249275699415>)
@@ -1432,6 +1540,42 @@ Pixel art de Hatsune Miku creado en Aseprite, mostrado en una grabación del pro
 El creador dice que GPT-6 Astra realizó el pixel art en Aseprite. No se han verificado las afirmaciones de precisión a nivel de píxel. Es un ejemplo de creación artística, no un juego.
 
 [Publicación original](<https://x.com/suemaruuuuuuX/status/2096212351502721361>) · [Detalles en la galería](<https://magiccreator.ai/es/astra#hatsune-miku-pixel-art>)
+
+### Un robot pinta el puente Golden Gate
+
+[![Un robot pinta el puente Golden Gate — Vista previa de la publicación del creador](<https://pbs.twimg.com/amplify_video_thumb/2097210560727437312/img/GYHkMobXeJU1Ahb-.jpg>)](<https://x.com/cdngdev/status/2097339677128982873>)
+
+Astra controla un robot, un pincel y una cámara para pintar el Golden Gate mediante varios intentos.
+
+**Creador:** [thijs](<https://x.com/cdngdev>) · **Herramientas / formato:** Robótica, Arte físico, Aprendizaje iterativo
+
+El autor afirma que Astra descubrió cómo controlar el robot físico y mejoró la pintura con cada intento. El video es una demostración real informada por su creador, no un benchmark de robótica reproducido de forma independiente.
+
+[Publicación original](<https://x.com/cdngdev/status/2097339677128982873>) · [Detalles en la galería](<https://magiccreator.ai/es/astra#robot-golden-gate-painting>)
+
+### Ass Bench: glúteos 3D que se automejoran
+
+[![Ass Bench: glúteos 3D que se automejoran — Vista previa de la publicación del creador](<https://pbs.twimg.com/amplify_video_thumb/2097430424205295616/img/3DRzerCx-p39fz32.jpg>)](<https://x.com/developedbyed/status/2097431364270248104>)
+
+Un ciclo de generación de una semana mejora glúteos 3D estilizados con intervenciones humanas ocasionales.
+
+**Creador:** [Dev Ed](<https://x.com/developedbyed>) · **Herramientas / formato:** Generación 3D, Flujo iterativo, Benchmark de IA
+
+Dev Ed afirma que Astra funcionó en bucle durante una semana, con un par de indicaciones al día, y mejoró progresivamente el resultado 3D. El creador planea continuar el experimento; es un benchmark en evolución informado por su autor, no una evaluación independiente.
+
+[Publicación original](<https://x.com/developedbyed/status/2097431364270248104>) · [Detalles en la galería](<https://magiccreator.ai/es/astra#ass-bench-3d-generation-loop>)
+
+### Astra colorea un dibujo lineal a mano
+
+[![Astra colorea un dibujo lineal a mano — Vista previa de la publicación del creador](<https://pbs.twimg.com/amplify_video_thumb/2096148385795612672/img/mLpeD5kmGrA7RQXk.jpg>)](<https://x.com/taiyaki_sun/status/2096149368193839455>)
+
+Astra maneja una app de pintura de escritorio para colorear por capas el dibujo lineal hecho a mano por el artista.
+
+**Creador:** [taiyakisun(たい焼き太陽)🥐](<https://x.com/taiyaki_sun>) · **Herramientas / formato:** Pintura digital, Uso del ordenador, Dibujo lineal
+
+taiyakisun aportó su dibujo lineal y pidió a Astra que lo coloreara en Clip Studio Paint. El video registra cómo Astra crea capas, amplía, elige herramientas y pinta; el resultado sigue siendo una demostración del autor.
+
+[Publicación original](<https://x.com/taiyaki_sun/status/2096149368193839455>) · [Detalles en la galería](<https://magiccreator.ai/es/astra#astra-colors-hand-drawn-line-art>)
 
 ### Dibujo de Hatsune Miku
 
@@ -1630,6 +1774,30 @@ Una partida autónoma de Pokémon controlada mediante capturas de pantalla.
 El creador informa de que Astra llegó a Campeón en 18 horas y 12 minutos usando solo capturas, sin acceso a RAM, pistas ni guías.
 
 [Publicación original](<https://x.com/Clad3815/status/2095596013168050551>) · [Detalles en la galería](<https://magiccreator.ai/es/astra#pokemon-screenshot-agent>)
+
+### CAD en SolidWorks con MecAgent
+
+[![CAD en SolidWorks con MecAgent — Vista previa de la publicación del creador](<https://pbs.twimg.com/amplify_video_thumb/2097676576628641792/img/5LmOcRt0PTh5Wpd9.jpg>)](<https://x.com/MecAgent/status/2097676816592797816>)
+
+Astra maneja SolidWorks 2026 mediante el arnés de MecAgent durante un flujo de trabajo CAD grabado.
+
+**Creador:** [MecAgent](<https://x.com/MecAgent>) · **Herramientas / formato:** SolidWorks, CAD, MecAgent
+
+MecAgent conectó Astra con SolidWorks 2026 mediante su arnés y publicó la demostración CAD resultante. La breve publicación no aporta un archivo del modelo ni instrucciones detalladas de reproducción.
+
+[Publicación original](<https://x.com/MecAgent/status/2097676816592797816>) · [Detalles en la galería](<https://magiccreator.ai/es/astra#solidworks-cad-mecagent>)
+
+### Composición de una fuga al estilo de Bach
+
+[![Composición de una fuga al estilo de Bach — Vista previa de la publicación del creador](<https://pbs.twimg.com/amplify_video_thumb/2097372797769240577/img/G0kfKIrgpnVwvJ6w.jpg>)](<https://x.com/aug5thmusic/status/2097373938393456984>)
+
+Astra compone una fuga completa al estilo de Bach a partir de una sola instrucción.
+
+**Creador:** [Auggie](<https://x.com/aug5thmusic>) · **Herramientas / formato:** Composición musical, Fuga, Una instrucción
+
+Auggie pidió a Astra con una sola instrucción que compusiera la fuga presentada en el video. Es una demostración del creador y no incluye partitura, archivos del proyecto ni un análisis musical independiente.
+
+[Publicación original](<https://x.com/aug5thmusic/status/2097373938393456984>) · [Detalles en la galería](<https://magiccreator.ai/es/astra#astra-bach-style-fugue>)
 
 ### De marcador a barrio 3D
 
