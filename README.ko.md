@@ -11,7 +11,7 @@
 >
 > 원본 출처와 이용 가능한 데모 링크를 포함한 새로운 사례를 정기적으로 추가합니다. 이 저장소에 스타를 눌러 컬렉션을 저장하고 다시 방문해 주세요.
 
-사례 153개 · 크리에이터 제공 라이브 링크 51개 · 최근 검토일: 2026-09-10
+사례 161개 · 크리에이터 제공 라이브 링크 51개 · 최근 검토일: 2026-09-11
 
 **[MagicCreator 비주얼 갤러리에서 보기 →](<https://magiccreator.ai/ko/astra>)** — 미리보기를 둘러보고 카테고리별로 필터링하며 크리에이터가 제공한 라이브 데모를 찾아보세요.
 
@@ -31,12 +31,12 @@
 
 ## 목차
 
-- [GPT-6 Astra 게임 및 플레이 가능한 데모](#games) (43)
+- [GPT-6 Astra 게임 및 플레이 가능한 데모](#games) (46)
 - [GPT-6 Astra Blender 및 3D 데모](#blender) (21)
-- [GPT-6 Astra 웹사이트 및 웹 앱 데모](#web) (46)
+- [GPT-6 Astra 웹사이트 및 웹 앱 데모](#web) (49)
 - [GPT-6 Astra 비디오 제작 사례](#video) (13)
 - [GPT-6 Astra 드로잉 및 픽셀아트](#art) (13)
-- [GPT-6 Astra 기타 데모](#others) (17)
+- [GPT-6 Astra 기타 데모](#others) (19)
 - [데모 제안](#suggest-a-demo)
 
 <a id="games"></a>
@@ -119,6 +119,30 @@ Astra 지원 최적화 후 Apple Silicon에서 실행된 Age of Empires IV 녹�
 
 [원본 게시물](<https://x.com/TimJayas/status/2095611134992945385>) · [비주얼 갤러리 상세 보기](<https://magiccreator.ai/ko/astra#aquarium-reference-game>)
 
+### League of Legends 브라우저 클론
+
+[![League of Legends 브라우저 클론 — 크리에이터 게시물의 미리보기](<https://pbs.twimg.com/amplify_video_thumb/2097163774700691456/img/PxN8990qRo7p2-um.jpg>)](<https://x.com/konstiwohlwend/status/2097164513527357608>)
+
+두 번의 프롬프트로 League of Legends의 익숙한 챔피언과 메커니즘을 재현한 브라우저 게임입니다.
+
+**크리에이터:** [Konsti Wohlwend](<https://x.com/konstiwohlwend>) · **도구 / 형식:** 브라우저 게임, 게임 프로토타입, 팬 리메이크
+
+Konsti Wohlwend는 Astra가 프로토타입과 메커니즘을 구현하면서 요청하지 않은 기존 게임 에셋을 가져왔다고 설명합니다. 공식 작품이 아니며 독창적 에셋이나 라이선스를 갖춘 출시작도 아닙니다.
+
+[원본 게시물](<https://x.com/konstiwohlwend/status/2097164513527357608>) · [비주얼 갤러리 상세 보기](<https://magiccreator.ai/ko/astra#league-of-legends-browser-clone>)
+
+### 카탄 스타일 Three.js 보드게임
+
+[![카탄 스타일 Three.js 보드게임 — 크리에이터 게시물의 미리보기](<https://pbs.twimg.com/amplify_video_thumb/2097289783454412800/img/HB0UNAJlq4dASGMK.jpg>)](<https://x.com/MengTo/status/2097291240672993773>)
+
+애니메이션 말, 안내 카드, AI 상대, 플레이어 간 거래를 갖춘 Three.js 보드게임입니다.
+
+**크리에이터:** [Meng To](<https://x.com/MengTo>) · **도구 / 형식:** 보드게임, Three.js, AI 상대
+
+Meng To는 기존 게임을 참고해 Astra로 만들고 후속 프롬프트로 다듬었습니다. 게임은 작동하지만 카탄과 너무 비슷해 라이선스 없이는 공개할 수 없다고 밝혔습니다.
+
+[원본 게시물](<https://x.com/MengTo/status/2097291240672993773>) · [비주얼 갤러리 상세 보기](<https://magiccreator.ai/ko/astra#catan-threejs-board-game>)
+
 ### Universe Duel
 
 [![Universe Duel — 크리에이터 게시물의 미리보기](<https://pbs.twimg.com/amplify_video_thumb/2096254500579540993/img/UXLhYa_-rokNMOgq.jpg>)](<https://x.com/hayashimon1/status/2096255665778069957>)
@@ -154,6 +178,18 @@ Astra 지원 최적화 후 Apple Silicon에서 실행된 Age of Empires IV 녹�
 Anish Acharya는 주말 동안 Astra로 게임 실험을 만들고 작성자 답글에 플레이 가능한 배포판을 공유했습니다. 프로토타입 데모이며 공식 Contra 출시작은 아닙니다.
 
 [원본 게시물](<https://x.com/illscience/status/2097059547328241971>) · [라이브 데모](<https://runner-stage1.vercel.app/>) · [비주얼 갤러리 상세 보기](<https://magiccreator.ai/ko/astra#photorealistic-contra-game>)
+
+### Paperboy 브라우저 리메이크
+
+[![Paperboy 브라우저 리메이크 — 크리에이터 게시물의 미리보기](<https://pbs.twimg.com/amplify_video_thumb/2096510012675801088/img/UNeeo52BhmG8B2Rg.jpg>)](<https://x.com/builtbysketch/status/2096515959469072630>)
+
+Paperboy 세계를 Blender로 모델링하고 플레이 가능한 듯한 장면을 브라우저에서 렌더링한 팬 리메이크입니다.
+
+**크리에이터:** [Emm Tee](<https://x.com/builtbysketch>) · **도구 / 형식:** 브라우저 게임, Blender, 팬 리메이크
+
+Emm Tee는 Astra 지원 리메이크로 소개하며 모델, 렌더링, 조작감을 다듬는 데 많은 반복이 필요했다고 말합니다. 게시물은 프로젝트를 시연하지만 공개 빌드는 제공하지 않습니다.
+
+[원본 게시물](<https://x.com/builtbysketch/status/2096515959469072630>) · [비주얼 갤러리 상세 보기](<https://magiccreator.ai/ko/astra#paperboy-browser-remake>)
 
 ### Afterlight Robot World
 
@@ -867,6 +903,18 @@ Rohan Nuttall은 Astra에게 사진을 인터랙티브하게 만들고 책 찾�
 
 [원본 게시물](<https://x.com/ashebytes/status/2096009146248122416>) · [라이브 데모](<https://model-x-studio.vercel.app>) · [크리에이터의 코드](<https://github.com/ashemag/model-x-studio>) · [비주얼 갤러리 상세 보기](<https://magiccreator.ai/ko/astra#model-x-studio>)
 
+### 맞춤형 LEGO 세트 생성기
+
+[![맞춤형 LEGO 세트 생성기 — 크리에이터 게시물의 미리보기](<https://pbs.twimg.com/amplify_video_thumb/2096375746709344256/img/tt75jgD9SwglzH_t.jpg>)](<https://x.com/emmanuel_2m/status/2096377028945576370>)
+
+이미지나 텍스트를 공식 부품으로 조립 가능한 모델로 바꾸고 LDraw 파일로 내려받을 수 있습니다.
+
+**크리에이터:** [Emm](<https://x.com/emmanuel_2m>) · **도구 / 형식:** LEGO, 3D 생성, LDraw
+
+Emm은 실제 조립과 부품 주문에 맞게 모델을 최적화하는 시스템을 Astra와 만들었다고 설명합니다. 게시물은 생성 예시를 보여 주지만 웹 앱과 설명서 생성기는 아직 공개되지 않았습니다.
+
+[원본 게시물](<https://x.com/emmanuel_2m/status/2096377028945576370>) · [비주얼 갤러리 상세 보기](<https://magiccreator.ai/ko/astra#custom-lego-set-generator>)
+
 ### 인터랙티브 3D 발목 아틀라스
 
 [![인터랙티브 3D 발목 아틀라스 — 크리에이터 게시물의 미리보기](<https://pbs.twimg.com/amplify_video_thumb/2096528732894736385/img/5eBgy_Fep7HLynql.jpg>)](<https://x.com/Emanuel_Andre7/status/2096528986390085696>)
@@ -949,6 +997,18 @@ Finder와 앱 인터페이스가 포함된 브라우저 기반 macOS 데스크�
 
 [원본 게시물](<https://x.com/joshmillgate/status/2095619319690400253>) · [비주얼 갤러리 상세 보기](<https://magiccreator.ai/ko/astra#product-mockup-studio>)
 
+### Ozempic 작용 원리 시각화
+
+[![Ozempic 작용 원리 시각화 — 크리에이터 게시물의 미리보기](<https://pbs.twimg.com/amplify_video_thumb/2096998428152836096/img/Himvsjre37azPjNn.jpg>)](<https://x.com/andrewaiginin/status/2096998783351664993>)
+
+대화형 세포 모델로 Ozempic이 몸에서 작용하는 방식을 시각적으로 설명합니다.
+
+**크리에이터:** [Andrew Aiginin](<https://x.com/andrewaiginin>) · **도구 / 형식:** 의료 시각화, 세포생물학, 교육
+
+Andrew Aiginin은 Astra가 기존 세포 모델을 약 한 시간 만에 작용 원리 시각화로 확장했다고 말합니다. 과학적 정확성은 독립적으로 검증되지 않았으며 의료 조언이 아닙니다.
+
+[원본 게시물](<https://x.com/andrewaiginin/status/2096998783351664993>) · [비주얼 갤러리 상세 보기](<https://magiccreator.ai/ko/astra#ozempic-mechanism-visualization>)
+
 ### 서울 3D 아틀라스
 
 [![서울 3D 아틀라스 — 크리에이터 게시물의 미리보기](<https://pbs.twimg.com/amplify_video_thumb/2096557441312034816/img/v3Iur3rDygYBuOdR.jpg>)](<https://x.com/synabreu/status/2096557555086725159>)
@@ -984,6 +1044,18 @@ Barron Roth는 일상의 질문을 탐구하기 위해 Astra에게 물의 움직
 제작자는 오비트 컨트롤, 랜드마크 이동 내비게이션, 조명 변화를 갖춘 Astra 제작 Three.js 도시를 제시합니다. 장면은 스타일화된 도시 시각화입니다.
 
 [원본 게시물](<https://x.com/NFT_Chen/status/2096143589151756638>) · [비주얼 갤러리 상세 보기](<https://magiccreator.ai/ko/astra#hangzhou-threejs-city>)
+
+### 항체 개발 적합성 탐색기
+
+[![항체 개발 적합성 탐색기 — 크리에이터 게시물의 미리보기](<https://pbs.twimg.com/amplify_video_thumb/2098077790042214400/img/dssFiraBPXuLCRGM.jpg>)](<https://x.com/andrewaiginin/status/2098078245350518884>)
+
+항체 개발 적합성 예측 벤치마크와 항체 작동 방식을 설명하는 대화형 시각화를 결합했습니다.
+
+**크리에이터:** [Andrew Aiginin](<https://x.com/andrewaiginin>) · **도구 / 형식:** 항체, 예측, 의료 시각화
+
+Andrew Aiginin은 Astra가 자신의 벤치마크에서 다른 프런티어 모델보다 앞섰고 약 한 시간 만에 시각화도 만들었다고 보고했습니다. 두 주장 모두 독립 검증되지 않았으며 임상 도구가 아닙니다.
+
+[원본 게시물](<https://x.com/andrewaiginin/status/2098078245350518884>) · [비주얼 갤러리 상세 보기](<https://magiccreator.ai/ko/astra#antibody-developability-explorer>)
 
 ### Varun Lohade 포트폴리오
 
@@ -1762,6 +1834,30 @@ Ableton에서 합성 악기와 편곡으로 만든 음악 트랙.
 제작자는 모델을 MCP로 Ableton에 연결해 트랙을 처음부터 제작했다고 보고합니다. 이는 그의 GPT‑6 얼리 액세스 스레드의 마지막 예시입니다.
 
 [원본 게시물](<https://x.com/skirano/status/2095595942544089525>) · [비주얼 갤러리 상세 보기](<https://magiccreator.ai/ko/astra#ableton-mcp-track>)
+
+### 힘줄 구동 로봇 손
+
+[![힘줄 구동 로봇 손 — 크리에이터 게시물의 미리보기](<https://pbs.twimg.com/amplify_video_thumb/2097789448717217793/img/mP5JV0MyE7L2gXOq.jpg>)](<https://x.com/earthtojake/status/2097789988670709821>)
+
+Astra가 힘줄 구동 로봇 손 설계, STEP 파일 190개, 애니메이션과 브라우저 뷰어를 생성했습니다.
+
+**크리에이터:** [Jake Fitzgerald](<https://x.com/earthtojake>) · **도구 / 형식:** 로보틱스, CAD, build123d
+
+Jake Fitzgerald는 build123d와 JavaScript를 사용해 Astra High를 사용량 초기화 세 번에 걸쳐 약 48시간 실행했다고 설명합니다. 또한 이 설계는 실제 로봇 손으로 작동하지 않는다고 명시했습니다.
+
+[원본 게시물](<https://x.com/earthtojake/status/2097789988670709821>) · [비주얼 갤러리 상세 보기](<https://magiccreator.ai/ko/astra#tendon-driven-robot-hand>)
+
+### 미니 DJ 컨트롤러 설계 워크플로
+
+[![미니 DJ 컨트롤러 설계 워크플로 — 크리에이터 게시물의 미리보기](<https://pbs.twimg.com/amplify_video_thumb/2098071379220348928/img/JL6lHV4QGTkI-UtX.jpg>)](<https://x.com/eminimnim/status/2098072497182666987>)
+
+Astra가 미니 DJ 컨트롤러의 콘셉트부터 부품 조달, CAD, 주문, 조립 애니메이션까지 진행했습니다.
+
+**크리에이터:** [nim](<https://x.com/eminimnim>) · **도구 / 형식:** 하드웨어, CAD, 제품 디자인
+
+Nim은 Astra가 콘셉트를 만들고 부품 데이터시트를 읽어 CAD 모델과 Blender 조립 애니메이션을 제작하고 부품도 주문했다고 설명합니다. 게시물에는 완성된 실물이나 하드웨어 테스트가 없습니다.
+
+[원본 게시물](<https://x.com/eminimnim/status/2098072497182666987>) · [비주얼 갤러리 상세 보기](<https://magiccreator.ai/ko/astra#mini-dj-controller-workflow>)
 
 ### 포켓몬 스크린샷 에이전트
 

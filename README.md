@@ -11,7 +11,7 @@ A curated collection of GPT-6 Astra demos: games, Blender & 3D, websites, video 
 >
 > We regularly add new discoveries with original sources and available demo links. Star this repo to save the collection and come back for more.
 
-153 cases · 51 creator-supplied live links · Latest recorded review: 2026-09-10
+161 cases · 51 creator-supplied live links · Latest recorded review: 2026-09-11
 
 **[Explore the visual gallery on MagicCreator →](<https://magiccreator.ai/astra>)** — Browse previews, filter by category, and find creator-supplied live demos.
 
@@ -31,12 +31,12 @@ The preview belongs to its creator and links to the original post; this reposito
 
 ## Contents
 
-- [GPT-6 Astra Games & Playable Demos](#games) (43)
+- [GPT-6 Astra Games & Playable Demos](#games) (46)
 - [GPT-6 Astra Blender & 3D Demos](#blender) (21)
-- [GPT-6 Astra Website & Web App Demos](#web) (46)
+- [GPT-6 Astra Website & Web App Demos](#web) (49)
 - [GPT-6 Astra Video Creation Showcase](#video) (13)
 - [GPT-6 Astra Drawing & Pixel Art](#art) (13)
-- [GPT-6 Astra Other Demos](#others) (17)
+- [GPT-6 Astra Other Demos](#others) (19)
 - [Suggest a demo](#suggest-a-demo)
 
 <a id="games"></a>
@@ -119,6 +119,30 @@ The creator compares Astra and Fable 5 using a single prompt and a reference ima
 
 [Original post](<https://x.com/TimJayas/status/2095611134992945385>) · [Visual gallery details](<https://magiccreator.ai/astra#aquarium-reference-game>)
 
+### League of Legends Browser Clone
+
+[![League of Legends Browser Clone — Preview from the creator’s post](<https://pbs.twimg.com/amplify_video_thumb/2097163774700691456/img/PxN8990qRo7p2-um.jpg>)](<https://x.com/konstiwohlwend/status/2097164513527357608>)
+
+A browser game recreates recognizable champions and mechanics from League of Legends after two prompts.
+
+**Creator:** [Konsti Wohlwend](<https://x.com/konstiwohlwend>) · **Tools / format:** Browser game, Game prototype, Fan remake
+
+Konsti Wohlwend says Astra assembled the prototype and implemented its mechanics while pulling existing game assets without being asked. This is an unofficial experiment, not an original asset set or licensed release.
+
+[Original post](<https://x.com/konstiwohlwend/status/2097164513527357608>) · [Visual gallery details](<https://magiccreator.ai/astra#league-of-legends-browser-clone>)
+
+### Catan-Style Three.js Board Game
+
+[![Catan-Style Three.js Board Game — Preview from the creator’s post](<https://pbs.twimg.com/amplify_video_thumb/2097289783454412800/img/HB0UNAJlq4dASGMK.jpg>)](<https://x.com/MengTo/status/2097291240672993773>)
+
+A playable Three.js board game adds animated pieces, guidance cards, AI opponents, and player trading.
+
+**Creator:** [Meng To](<https://x.com/MengTo>) · **Tools / format:** Board game, Three.js, AI opponents
+
+Meng To asked Astra to build from an earlier game reference and refined the result through follow-up prompts. He says the game works, but it is too close to Catan to release without licensing.
+
+[Original post](<https://x.com/MengTo/status/2097291240672993773>) · [Visual gallery details](<https://magiccreator.ai/astra#catan-threejs-board-game>)
+
 ### Universe Duel
 
 [![Universe Duel — Preview from the creator’s post](<https://pbs.twimg.com/amplify_video_thumb/2096254500579540993/img/UXLhYa_-rokNMOgq.jpg>)](<https://x.com/hayashimon1/status/2096255665778069957>)
@@ -154,6 +178,18 @@ A weekend experiment reimagines Contra as a playable photorealistic side-scrolli
 Anish Acharya used Astra to build the game experiment over a weekend and shared a playable deployment in an author reply. It is a prototype demonstration, not an official Contra release.
 
 [Original post](<https://x.com/illscience/status/2097059547328241971>) · [Live demo](<https://runner-stage1.vercel.app/>) · [Visual gallery details](<https://magiccreator.ai/astra#photorealistic-contra-game>)
+
+### Paperboy Browser Remake
+
+[![Paperboy Browser Remake — Preview from the creator’s post](<https://pbs.twimg.com/amplify_video_thumb/2096510012675801088/img/UNeeo52BhmG8B2Rg.jpg>)](<https://x.com/builtbysketch/status/2096515959469072630>)
+
+A fan remake models the Paperboy world in Blender and renders the playable-looking scene in a browser.
+
+**Creator:** [Emm Tee](<https://x.com/builtbysketch>) · **Tools / format:** Browser game, Blender, Fan remake
+
+Emm Tee presents the result as an Astra-assisted remake and says substantial iteration was needed to refine its models, rendering, and feel. The post demonstrates the project but provides no public build.
+
+[Original post](<https://x.com/builtbysketch/status/2096515959469072630>) · [Visual gallery details](<https://magiccreator.ai/astra#paperboy-browser-remake>)
 
 ### Afterlight Robot World
 
@@ -867,6 +903,18 @@ The creator credits Astra with building the website. The repository uses an exis
 
 [Original post](<https://x.com/ashebytes/status/2096009146248122416>) · [Live demo](<https://model-x-studio.vercel.app>) · [Creator’s code](<https://github.com/ashemag/model-x-studio>) · [Visual gallery details](<https://magiccreator.ai/astra#model-x-studio>)
 
+### Custom LEGO Set Generator
+
+[![Custom LEGO Set Generator — Preview from the creator’s post](<https://pbs.twimg.com/amplify_video_thumb/2096375746709344256/img/tt75jgD9SwglzH_t.jpg>)](<https://x.com/emmanuel_2m/status/2096377028945576370>)
+
+Images or text prompts become custom brick models made from official parts and downloadable as LDraw files.
+
+**Creator:** [Emm](<https://x.com/emmanuel_2m>) · **Tools / format:** LEGO, 3D generation, LDraw
+
+Emm says Astra helped build a system that optimizes models for physical assembly and parts ordering. The post shows generated examples; the web app and instruction-leaflet generator were not yet released.
+
+[Original post](<https://x.com/emmanuel_2m/status/2096377028945576370>) · [Visual gallery details](<https://magiccreator.ai/astra#custom-lego-set-generator>)
+
 ### Interactive 3D Ankle Atlas
 
 [![Interactive 3D Ankle Atlas — Preview from the creator’s post](<https://pbs.twimg.com/amplify_video_thumb/2096528732894736385/img/5eBgy_Fep7HLynql.jpg>)](<https://x.com/Emanuel_Andre7/status/2096528986390085696>)
@@ -949,6 +997,18 @@ The creator presents the mockup tool as the result of a single Astra prompt. The
 
 [Original post](<https://x.com/joshmillgate/status/2095619319690400253>) · [Visual gallery details](<https://magiccreator.ai/astra#product-mockup-studio>)
 
+### Ozempic Mechanism Visualization
+
+[![Ozempic Mechanism Visualization — Preview from the creator’s post](<https://pbs.twimg.com/amplify_video_thumb/2096998428152836096/img/Himvsjre37azPjNn.jpg>)](<https://x.com/andrewaiginin/status/2096998783351664993>)
+
+An interactive cell model presents a visual explanation of how Ozempic acts in the body.
+
+**Creator:** [Andrew Aiginin](<https://x.com/andrewaiginin>) · **Tools / format:** Medical visualization, Cell biology, Education
+
+Andrew Aiginin says Astra extended his cell model into this mechanism visualization in about one hour. The scientific accuracy was not independently reviewed, and the result is not medical advice.
+
+[Original post](<https://x.com/andrewaiginin/status/2096998783351664993>) · [Visual gallery details](<https://magiccreator.ai/astra#ozempic-mechanism-visualization>)
+
 ### Seoul 3D Atlas
 
 [![Seoul 3D Atlas — Preview from the creator’s post](<https://pbs.twimg.com/amplify_video_thumb/2096557441312034816/img/v3Iur3rDygYBuOdR.jpg>)](<https://x.com/synabreu/status/2096557555086725159>)
@@ -984,6 +1044,18 @@ A miniature Hangzhou scene with landmarks, camera navigation and day-to-night li
 The creator presents an Astra-built Three.js city with orbit controls, landmark fly-to navigation and changing light. The scene is a stylized city visualization.
 
 [Original post](<https://x.com/NFT_Chen/status/2096143589151756638>) · [Visual gallery details](<https://magiccreator.ai/astra#hangzhou-threejs-city>)
+
+### Antibody Developability Explorer
+
+[![Antibody Developability Explorer — Preview from the creator’s post](<https://pbs.twimg.com/amplify_video_thumb/2098077790042214400/img/dssFiraBPXuLCRGM.jpg>)](<https://x.com/andrewaiginin/status/2098078245350518884>)
+
+A benchmark pairs antibody developability predictions with an interactive explanation of antibody function.
+
+**Creator:** [Andrew Aiginin](<https://x.com/andrewaiginin>) · **Tools / format:** Antibodies, Prediction, Medical visualization
+
+Andrew Aiginin reports Astra led the frontier models in his developability benchmark and built the interactive visualization in about one hour. Neither claim was independently validated, and this is not a clinical tool.
+
+[Original post](<https://x.com/andrewaiginin/status/2098078245350518884>) · [Visual gallery details](<https://magiccreator.ai/astra#antibody-developability-explorer>)
 
 ### Varun Lohade Portfolio
 
@@ -1762,6 +1834,30 @@ A music track with synthesized instruments, parts and arrangement created throug
 The creator connected the model to Ableton via MCP and reports producing the track from scratch. It is the final example in his GPT-6 early-access thread.
 
 [Original post](<https://x.com/skirano/status/2095595942544089525>) · [Visual gallery details](<https://magiccreator.ai/astra#ableton-mcp-track>)
+
+### Tendon-Driven Robot Hand
+
+[![Tendon-Driven Robot Hand — Preview from the creator’s post](<https://pbs.twimg.com/amplify_video_thumb/2097789448717217793/img/mP5JV0MyE7L2gXOq.jpg>)](<https://x.com/earthtojake/status/2097789988670709821>)
+
+Astra generated a tendon-driven robot-hand design, 190 STEP files, an animation, and a browser viewer.
+
+**Creator:** [Jake Fitzgerald](<https://x.com/earthtojake>) · **Tools / format:** Robotics, CAD, build123d
+
+Jake Fitzgerald reports a roughly 48-hour Astra High run across three usage resets, using build123d and JavaScript. He explicitly says the shown design would not work as a real robot hand.
+
+[Original post](<https://x.com/earthtojake/status/2097789988670709821>) · [Visual gallery details](<https://magiccreator.ai/astra#tendon-driven-robot-hand>)
+
+### Mini DJ Controller Workflow
+
+[![Mini DJ Controller Workflow — Preview from the creator’s post](<https://pbs.twimg.com/amplify_video_thumb/2098071379220348928/img/JL6lHV4QGTkI-UtX.jpg>)](<https://x.com/eminimnim/status/2098072497182666987>)
+
+Astra developed a mini DJ controller concept through sourcing, CAD, parts ordering, and assembly animation.
+
+**Creator:** [nim](<https://x.com/eminimnim>) · **Tools / format:** Hardware, CAD, Product design
+
+Nim reports that Astra generated the concept, read component datasheets, created a CAD model, ordered parts, and made a Blender assembly animation. The post does not show a completed physical build or hardware test.
+
+[Original post](<https://x.com/eminimnim/status/2098072497182666987>) · [Visual gallery details](<https://magiccreator.ai/astra#mini-dj-controller-workflow>)
 
 ### Pokémon Screenshot Agent
 

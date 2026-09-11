@@ -11,7 +11,7 @@ GPT-6 Astraを使ったゲーム、Blender・3D、ウェブサイト、動画、
 >
 > 新しく見つけた作品を、元の出典や公開されている体験リンクとともに随時追加しています。リポジトリにスターを付けて保存し、また新しい作品を見に来てください。
 
-153件の事例 · 作者提供の体験リンク51件 · 最新の記録上の確認日：2026-09-10
+161件の事例 · 作者提供の体験リンク51件 · 最新の記録上の確認日：2026-09-11
 
 **[MagicCreatorのビジュアルギャラリーへ →](<https://magiccreator.ai/ja/astra>)** — プレビューを見て、分類で絞り込み、作者提供の体験リンクを探せます。
 
@@ -31,12 +31,12 @@ GPT-6 Astraを使ったゲーム、Blender・3D、ウェブサイト、動画、
 
 ## 目次
 
-- [GPT-6 Astraのゲームと体験デモ](#games) (43)
+- [GPT-6 Astraのゲームと体験デモ](#games) (46)
 - [GPT-6 AstraのBlender・3Dデモ](#blender) (21)
-- [GPT-6 Astraのウェブサイト・アプリ](#web) (46)
+- [GPT-6 Astraのウェブサイト・アプリ](#web) (49)
 - [GPT-6 Astraの動画制作事例](#video) (13)
 - [GPT-6 Astraのイラスト・ピクセルアート](#art) (13)
-- [GPT-6 Astraのその他の事例](#others) (17)
+- [GPT-6 Astraのその他の事例](#others) (19)
 - [作品を推薦する](#suggest-a-demo)
 
 <a id="games"></a>
@@ -119,6 +119,30 @@ Minecraft風のコーディング実験として紹介されたブロックの�
 
 [元投稿](<https://x.com/TimJayas/status/2095611134992945385>) · [ギャラリーの詳細](<https://magiccreator.ai/ja/astra#aquarium-reference-game>)
 
+### League of Legendsブラウザ版クローン
+
+[![League of Legendsブラウザ版クローン — 作者の元投稿からのプレビュー](<https://pbs.twimg.com/amplify_video_thumb/2097163774700691456/img/PxN8990qRo7p2-um.jpg>)](<https://x.com/konstiwohlwend/status/2097164513527357608>)
+
+2つのプロンプトで、League of Legendsのキャラクターと仕組みを再現したブラウザゲーム。
+
+**作者:** [Konsti Wohlwend](<https://x.com/konstiwohlwend>) · **ツール・形式:** ブラウザゲーム, ゲーム試作, ファンリメイク
+
+Konsti Wohlwendは、Astraがプロトタイプを組み立て、指示なしに既存ゲームの素材を取得して仕組みを実装したと説明しています。非公式の実験であり、独自素材や正式ライセンス作品ではありません。
+
+[元投稿](<https://x.com/konstiwohlwend/status/2097164513527357608>) · [ギャラリーの詳細](<https://magiccreator.ai/ja/astra#league-of-legends-browser-clone>)
+
+### カタン風Three.jsボードゲーム
+
+[![カタン風Three.jsボードゲーム — 作者の元投稿からのプレビュー](<https://pbs.twimg.com/amplify_video_thumb/2097289783454412800/img/HB0UNAJlq4dASGMK.jpg>)](<https://x.com/MengTo/status/2097291240672993773>)
+
+アニメーション駒、案内カード、AI対戦相手、プレイヤー間取引を備えたThree.js製ボードゲーム。
+
+**作者:** [Meng To](<https://x.com/MengTo>) · **ツール・形式:** ボードゲーム, Three.js, AI対戦相手
+
+Meng Toは以前制作したゲームを参照させ、追加プロンプトでAstraの成果を調整しました。ゲームは動作するものの、カタンに酷似しているためライセンスなしでは公開できないと説明しています。
+
+[元投稿](<https://x.com/MengTo/status/2097291240672993773>) · [ギャラリーの詳細](<https://magiccreator.ai/ja/astra#catan-threejs-board-game>)
+
 ### Universe Duel
 
 [![Universe Duel — 作者の元投稿からのプレビュー](<https://pbs.twimg.com/amplify_video_thumb/2096254500579540993/img/UXLhYa_-rokNMOgq.jpg>)](<https://x.com/hayashimon1/status/2096255665778069957>)
@@ -154,6 +178,18 @@ Minecraft風のコーディング実験として紹介されたブロックの�
 Anish Acharyaは週末にAstraを使ってゲーム実験を制作し、作者返信でプレイ可能なデプロイを共有しました。これはプロトタイプのデモであり、Contraの公式作品ではありません。
 
 [元投稿](<https://x.com/illscience/status/2097059547328241971>) · [体験する](<https://runner-stage1.vercel.app/>) · [ギャラリーの詳細](<https://magiccreator.ai/ja/astra#photorealistic-contra-game>)
+
+### Paperboyブラウザ版リメイク
+
+[![Paperboyブラウザ版リメイク — 作者の元投稿からのプレビュー](<https://pbs.twimg.com/amplify_video_thumb/2096510012675801088/img/UNeeo52BhmG8B2Rg.jpg>)](<https://x.com/builtbysketch/status/2096515959469072630>)
+
+Paperboyの世界をBlenderでモデリングし、プレイ可能に見えるシーンをブラウザで描画したファンリメイク。
+
+**作者:** [Emm Tee](<https://x.com/builtbysketch>) · **ツール・形式:** ブラウザゲーム, Blender, ファンリメイク
+
+Emm TeeはAstra支援によるリメイクとして紹介し、モデル、描画、操作感の調整に多くの反復が必要だったと述べています。投稿は作品を実演していますが、公開ビルドはありません。
+
+[元投稿](<https://x.com/builtbysketch/status/2096515959469072630>) · [ギャラリーの詳細](<https://magiccreator.ai/ja/astra#paperboy-browser-remake>)
 
 ### Afterlight ロボットの世界
 
@@ -867,6 +903,18 @@ Rohan NuttallはAstraに写真をインタラクティブにし、本探しを�
 
 [元投稿](<https://x.com/ashebytes/status/2096009146248122416>) · [体験する](<https://model-x-studio.vercel.app>) · [作者のコード](<https://github.com/ashemag/model-x-studio>) · [ギャラリーの詳細](<https://magiccreator.ai/ja/astra#model-x-studio>)
 
+### カスタムLEGOセット生成ツール
+
+[![カスタムLEGOセット生成ツール — 作者の元投稿からのプレビュー](<https://pbs.twimg.com/amplify_video_thumb/2096375746709344256/img/tt75jgD9SwglzH_t.jpg>)](<https://x.com/emmanuel_2m/status/2096377028945576370>)
+
+画像やテキストから公式パーツで組めるブロックモデルを作り、LDrawファイルとして出力します。
+
+**作者:** [Emm](<https://x.com/emmanuel_2m>) · **ツール・形式:** LEGO, 3D生成, LDraw
+
+Emmは、物理的に組み立てやすく、パーツを注文できるよう最適化する仕組みをAstraと構築したと説明しています。投稿時点ではWebアプリと組立説明書生成機能は未公開でした。
+
+[元投稿](<https://x.com/emmanuel_2m/status/2096377028945576370>) · [ギャラリーの詳細](<https://magiccreator.ai/ja/astra#custom-lego-set-generator>)
+
 ### インタラクティブ3D足首アトラス
 
 [![インタラクティブ3D足首アトラス — 作者の元投稿からのプレビュー](<https://pbs.twimg.com/amplify_video_thumb/2096528732894736385/img/5eBgy_Fep7HLynql.jpg>)](<https://x.com/Emanuel_Andre7/status/2096528986390085696>)
@@ -949,6 +997,18 @@ Gameboy を思わせる画面と操作ボタンを備えた、携帯ゲーム機
 
 [元投稿](<https://x.com/joshmillgate/status/2095619319690400253>) · [ギャラリーの詳細](<https://magiccreator.ai/ja/astra#product-mockup-studio>)
 
+### Ozempic作用機序ビジュアライザー
+
+[![Ozempic作用機序ビジュアライザー — 作者の元投稿からのプレビュー](<https://pbs.twimg.com/amplify_video_thumb/2096998428152836096/img/Himvsjre37azPjNn.jpg>)](<https://x.com/andrewaiginin/status/2096998783351664993>)
+
+インタラクティブな細胞モデルで、Ozempicが体内で作用する仕組みを視覚的に説明します。
+
+**作者:** [Andrew Aiginin](<https://x.com/andrewaiginin>) · **ツール・形式:** 医療可視化, 細胞生物学, 教育
+
+Andrew Aigininは、Astraが既存の細胞モデルを約1時間で作用機序の可視化へ拡張したと述べています。科学的正確性は独立検証されておらず、医療上の助言ではありません。
+
+[元投稿](<https://x.com/andrewaiginin/status/2096998783351664993>) · [ギャラリーの詳細](<https://magiccreator.ai/ja/astra#ozempic-mechanism-visualization>)
+
 ### ソウル3Dアトラス
 
 [![ソウル3Dアトラス — 作者の元投稿からのプレビュー](<https://pbs.twimg.com/amplify_video_thumb/2096557441312034816/img/v3Iur3rDygYBuOdR.jpg>)](<https://x.com/synabreu/status/2096557555086725159>)
@@ -984,6 +1044,18 @@ Barron Rothは日常の疑問を調べるため、水の挙動と周囲の空気
 作者はAstraで作ったThree.jsの街として、回転操作、名所へのカメラ移動、照明の切り替えを紹介している。街を様式化したビジュアライゼーション。
 
 [元投稿](<https://x.com/NFT_Chen/status/2096143589151756638>) · [ギャラリーの詳細](<https://magiccreator.ai/ja/astra#hangzhou-threejs-city>)
+
+### 抗体開発適性エクスプローラー
+
+[![抗体開発適性エクスプローラー — 作者の元投稿からのプレビュー](<https://pbs.twimg.com/amplify_video_thumb/2098077790042214400/img/dssFiraBPXuLCRGM.jpg>)](<https://x.com/andrewaiginin/status/2098078245350518884>)
+
+抗体の開発適性予測ベンチマークと、抗体の働きを説明するインタラクティブ表示を組み合わせた作品。
+
+**作者:** [Andrew Aiginin](<https://x.com/andrewaiginin>) · **ツール・形式:** 抗体, 予測, 医療可視化
+
+Andrew Aigininは、自身の開発適性ベンチマークでAstraが他のフロンティアモデルを上回り、約1時間で可視化も構築したと報告しています。どちらも独立検証されておらず、臨床ツールではありません。
+
+[元投稿](<https://x.com/andrewaiginin/status/2098078245350518884>) · [ギャラリーの詳細](<https://magiccreator.ai/ja/astra#antibody-developability-explorer>)
 
 ### Varun Lohadeのポートフォリオ
 
@@ -1762,6 +1834,30 @@ Abletonでシンセ音源、各パート、編曲を組み立てた楽曲。
 作者はMCP経由でモデルをAbletonにつなぎ、楽曲をゼロから制作したと説明している。GPT-6の早期アクセス体験を紹介するスレッドの最後の作例。
 
 [元投稿](<https://x.com/skirano/status/2095595942544089525>) · [ギャラリーの詳細](<https://magiccreator.ai/ja/astra#ableton-mcp-track>)
+
+### 腱駆動ロボットハンド
+
+[![腱駆動ロボットハンド — 作者の元投稿からのプレビュー](<https://pbs.twimg.com/amplify_video_thumb/2097789448717217793/img/mP5JV0MyE7L2gXOq.jpg>)](<https://x.com/earthtojake/status/2097789988670709821>)
+
+Astraが腱駆動ロボットハンドの設計、190個のSTEPファイル、アニメーション、ブラウザビューアを生成。
+
+**作者:** [Jake Fitzgerald](<https://x.com/earthtojake>) · **ツール・形式:** ロボティクス, CAD, build123d
+
+Jake Fitzgeraldによると、Astra Highを約48時間、3回の使用量リセットにまたがって実行し、build123dとJavaScriptを使用しました。本人は、この設計が実物のロボットハンドとしては動作しないと明記しています。
+
+[元投稿](<https://x.com/earthtojake/status/2097789988670709821>) · [ギャラリーの詳細](<https://magiccreator.ai/ja/astra#tendon-driven-robot-hand>)
+
+### ミニDJコントローラー設計ワークフロー
+
+[![ミニDJコントローラー設計ワークフロー — 作者の元投稿からのプレビュー](<https://pbs.twimg.com/amplify_video_thumb/2098071379220348928/img/JL6lHV4QGTkI-UtX.jpg>)](<https://x.com/eminimnim/status/2098072497182666987>)
+
+AstraがミニDJコントローラーの構想から部品調達、CAD、発注、組立アニメーションまで進めた事例。
+
+**作者:** [nim](<https://x.com/eminimnim>) · **ツール・形式:** ハードウェア, CAD, 製品設計
+
+Nimによると、Astraはコンセプト生成、部品データシートの読解、CADモデル作成、部品発注、Blender組立アニメーション制作を行いました。投稿では完成した実機や動作試験は示されていません。
+
+[元投稿](<https://x.com/eminimnim/status/2098072497182666987>) · [ギャラリーの詳細](<https://magiccreator.ai/ja/astra#mini-dj-controller-workflow>)
 
 ### 画面を見て遊ぶPokémonエージェント
 
