@@ -11,7 +11,7 @@ A curated collection of GPT-6 Astra demos: games, Blender & 3D, websites, video 
 >
 > We regularly add new discoveries with original sources and available demo links. Star this repo to save the collection and come back for more.
 
-161 cases · 51 creator-supplied live links · Latest recorded review: 2026-09-11
+171 cases · 53 creator-supplied live links · Latest recorded review: 2026-09-14
 
 **[Explore the visual gallery on MagicCreator →](<https://magiccreator.ai/astra>)** — Browse previews, filter by category, and find creator-supplied live demos.
 
@@ -31,12 +31,12 @@ The preview belongs to its creator and links to the original post; this reposito
 
 ## Contents
 
-- [GPT-6 Astra Games & Playable Demos](#games) (46)
-- [GPT-6 Astra Blender & 3D Demos](#blender) (21)
-- [GPT-6 Astra Website & Web App Demos](#web) (49)
-- [GPT-6 Astra Video Creation Showcase](#video) (13)
+- [GPT-6 Astra Games & Playable Demos](#games) (48)
+- [GPT-6 Astra Blender & 3D Demos](#blender) (23)
+- [GPT-6 Astra Website & Web App Demos](#web) (51)
+- [GPT-6 Astra Video Creation Showcase](#video) (15)
 - [GPT-6 Astra Drawing & Pixel Art](#art) (13)
-- [GPT-6 Astra Other Demos](#others) (19)
+- [GPT-6 Astra Other Demos](#others) (21)
 - [Suggest a demo](#suggest-a-demo)
 
 <a id="games"></a>
@@ -58,6 +58,18 @@ The creator confirms this is their own Astra benchmark inspired by Rocket League
 **Disclosure:** Unofficial game recreation.
 
 [Original post](<https://x.com/LLMJunky/status/2096028790925488452>) · [Visual gallery details](<https://magiccreator.ai/astra#rocket-league-style-benchmark>)
+
+### Paperboy Browser Remake
+
+[![Paperboy Browser Remake — Preview from the creator’s post](<https://pbs.twimg.com/amplify_video_thumb/2098775794281828352/img/Hoy8EuS5JEPOFpLO.jpg>)](<https://x.com/builtbysketch/status/2098777028078211283>)
+
+A finished browser remake of Paperboy models its world in Blender and turns it into a playable delivery game.
+
+**Creator:** [Emm Tee](<https://x.com/builtbysketch>) · **Tools / format:** Browser game, Blender, Fan remake
+
+Emm Tee presents Paper Route as the completed version of the Astra-assisted remake after extensive iteration on models, rendering, and feel. The author now provides a public playable build and development log; it remains an unofficial fan remake.
+
+[Original post](<https://x.com/builtbysketch/status/2098777028078211283>) · [Live demo](<https://www.paperroute.lol/>) · [Visual gallery details](<https://magiccreator.ai/astra#paperboy-browser-remake>)
 
 ### Browser 3D Game Prototype
 
@@ -179,17 +191,17 @@ Anish Acharya used Astra to build the game experiment over a weekend and shared 
 
 [Original post](<https://x.com/illscience/status/2097059547328241971>) · [Live demo](<https://runner-stage1.vercel.app/>) · [Visual gallery details](<https://magiccreator.ai/astra#photorealistic-contra-game>)
 
-### Paperboy Browser Remake
+### Scorpid Creature Animation
 
-[![Paperboy Browser Remake — Preview from the creator’s post](<https://pbs.twimg.com/amplify_video_thumb/2096510012675801088/img/UNeeo52BhmG8B2Rg.jpg>)](<https://x.com/builtbysketch/status/2096515959469072630>)
+[![Scorpid Creature Animation — Preview from the creator’s post](<https://pbs.twimg.com/amplify_video_thumb/2098386055095619584/img/HidQhyf1Q5Ao7mSg.jpg>)](<https://x.com/Stefan_3D_AI/status/2098387407565730203>)
 
-A fan remake models the Paperboy world in Blender and renders the playable-looking scene in a browser.
+A Tripo creature model receives five animations from Astra before being integrated into Unity.
 
-**Creator:** [Emm Tee](<https://x.com/builtbysketch>) · **Tools / format:** Browser game, Blender, Fan remake
+**Creator:** [Stefan 3D AI](<https://x.com/Stefan_3D_AI>) · **Tools / format:** Creature animation, Unity, Tripo
 
-Emm Tee presents the result as an Astra-assisted remake and says substantial iteration was needed to refine its models, rendering, and feel. The post demonstrates the project but provides no public build.
+Stefan started with an optimized, logically separated Tripo P2.0 model and SD 2.5 video references. He reports several feedback rounds with Astra for rigging and animation, followed by Unity integration; the timing and quality claims are the author's account.
 
-[Original post](<https://x.com/builtbysketch/status/2096515959469072630>) · [Visual gallery details](<https://magiccreator.ai/astra#paperboy-browser-remake>)
+[Original post](<https://x.com/Stefan_3D_AI/status/2098387407565730203>) · [Visual gallery details](<https://magiccreator.ai/astra#scorpid-creature-animation>)
 
 ### Afterlight Robot World
 
@@ -238,6 +250,18 @@ A glossy jelly character you can stretch, throw and bounce around a wooden table
 The creator attributes the Three.js game to Astra. The linked repository documents movement, stretching and playground activities. The live page requires WebGPU; gameplay has not been independently tested.
 
 [Original post](<https://x.com/scottstts/status/2096364764054131119>) · [Live demo](<https://jelly.scottsun.io/>) · [Creator’s code](<https://github.com/scottstts/Jelly-Baby>) · [Visual gallery details](<https://magiccreator.ai/astra#jelly-baby>)
+
+### Floating Blimp Unity Prototype
+
+[![Floating Blimp Unity Prototype — Preview from the creator’s post](<https://pbs.twimg.com/amplify_video_thumb/2096627921708584960/img/1dbsrLRpDTMNp2Us.jpg>)](<https://x.com/chongdashu/status/2096628135630615028>)
+
+A single image becomes a floating-blimp game prototype through Astra, Blender, and Unity.
+
+**Creator:** [Chong-U](<https://x.com/chongdashu>) · **Tools / format:** Unity, Blender, Game prototype
+
+Chong-U tested how far Astra could take an image-based game recreation through Blender and Unity. The post shows the floating blimp result, without a public build or a detailed breakdown of manual intervention.
+
+[Original post](<https://x.com/chongdashu/status/2096628135630615028>) · [Visual gallery details](<https://magiccreator.ai/astra#floating-blimp-unity-prototype>)
 
 ### Elderwood Realms
 
@@ -729,6 +753,20 @@ Bad Decisions Studio presents its first Astra modeling test, reporting a buildin
 
 [Original post](<https://x.com/badxstudio/status/2095982983379653113>) · [Visual gallery details](<https://magiccreator.ai/astra#iphone-photos-blender-building>)
 
+### Tripo Character Rigging Workflow
+
+[![Tripo Character Rigging Workflow — Preview from the creator’s post](<https://pbs.twimg.com/amplify_video_thumb/2098760351827517440/img/u4_JL_LvcteHCX_J.jpg>)](<https://x.com/Dstudio_ai/status/2098760566672417240>)
+
+A multipart Tripo character is assembled, rigged, and given secondary motion in Blender with Astra.
+
+**Creator:** [Nano](<https://x.com/Dstudio_ai>) · **Tools / format:** Character rigging, Blender, Tripo
+
+Nano generated separate head, hair, body, and expression meshes with Tripo, then used Astra through computer use for assembly, rigging, and secondary-motion setup. The author says supervision and a custom app were still required.
+
+**Disclosure:** Partner post for Tripo.
+
+[Original post](<https://x.com/Dstudio_ai/status/2098760566672417240>) · [Visual gallery details](<https://magiccreator.ai/astra#tripo-character-rigging-workflow>)
+
 ### Street Scene from an Image
 
 [![Street Scene from an Image — Preview from the creator’s post](<https://pbs.twimg.com/amplify_video_thumb/2096619986119016448/img/DnxNHOzY0HSwEHqW.jpg>)](<https://x.com/Yokohara_h/status/2096622171011666003>)
@@ -788,6 +826,18 @@ A detailed Blender reconstruction of the Summer Palace's Tower of Buddhist Incen
 Sac says Astra built the scene by iterating through Blender's CLI and then created the demonstration video. In replies, the creator reports a three-to-four-hour workflow; the claim was not independently reproduced.
 
 [Original post](<https://x.com/Saccc_c/status/2097225315089256814>) · [Visual gallery details](<https://magiccreator.ai/astra#summer-palace-tower-blender>)
+
+### Schematic-to-3D Mechanism
+
+[![Schematic-to-3D Mechanism — Preview from the creator’s post](<https://pbs.twimg.com/amplify_video_thumb/2097003576224788484/img/jlhyhvRpyq3Vuox4.jpg>)](<https://x.com/DilumSanjaya/status/2097005668389802027>)
+
+Astra turns a flat mechanical schematic into an animated, dimensional mechanism study.
+
+**Creator:** [Dilum Sanjaya](<https://x.com/DilumSanjaya>) · **Tools / format:** 3D modeling, Mechanical design, Schematic
+
+Dilum Sanjaya presents the clip as an experiment in moving naturally from a 2D schematic to 3D with Astra. The post shows the visual result but gives no project files, measurements, or engineering validation.
+
+[Original post](<https://x.com/DilumSanjaya/status/2097005668389802027>) · [Visual gallery details](<https://magiccreator.ai/astra#schematic-to-3d-mechanism>)
 
 ### Taj Mahal in Blender
 
@@ -1033,6 +1083,18 @@ Barron Roth asked Astra to simulate water behavior and nearby air humidity to ex
 
 [Original post](<https://x.com/iamBarronRoth/status/2096407730030530762>) · [Visual gallery details](<https://magiccreator.ai/astra#glass-drying-physics-simulation>)
 
+### VEYRA Interactive Car
+
+[![VEYRA Interactive Car — Preview from the creator’s post](<https://pbs.twimg.com/amplify_video_thumb/2098459847088103424/img/8Q85Yp1K30Liqsz0.jpg>)](<https://x.com/AmirMushich/status/2098464881498370090>)
+
+An interactive electric-car study combines cutaway films, appearance controls, and responsive product UI.
+
+**Creator:** [Amir Mušić](<https://x.com/AmirMushich>) · **Tools / format:** Product website, Automotive design, Interactive media
+
+Amir Mušić used Astra to coordinate the site, GPT Image 2.5 for appearance choices, and prepared video transitions instead of 3D models. The public repository identifies VEYRA as a fictional design study, not an engineering model or automaker project.
+
+[Original post](<https://x.com/AmirMushich/status/2098464881498370090>) · [Creator’s code](<https://github.com/amirmushichge/veyra-interactive-car>) · [Visual gallery details](<https://magiccreator.ai/astra#veyra-interactive-car>)
+
 ### Hangzhou in Three.js
 
 [![Hangzhou in Three.js — Preview from the creator’s post](<https://pbs.twimg.com/amplify_video_thumb/2096142969032351744/img/lZvQ1GZMdqznrSqb.jpg>)](<https://x.com/NFT_Chen/status/2096143589151756638>)
@@ -1044,6 +1106,18 @@ A miniature Hangzhou scene with landmarks, camera navigation and day-to-night li
 The creator presents an Astra-built Three.js city with orbit controls, landmark fly-to navigation and changing light. The scene is a stylized city visualization.
 
 [Original post](<https://x.com/NFT_Chen/status/2096143589151756638>) · [Visual gallery details](<https://magiccreator.ai/astra#hangzhou-threejs-city>)
+
+### Birthday Rarity Explorer
+
+[![Birthday Rarity Explorer — Preview from the creator’s post](<https://pbs.twimg.com/media/HR_63SwawAAKETQ.jpg>)](<https://x.com/adriannalakatos/status/2098671802574840117>)
+
+A website built from a large birthday dataset estimates how common or rare a selected birth date is.
+
+**Creator:** [Adrianna Lakatos](<https://x.com/adriannalakatos>) · **Tools / format:** Data visualization, Interactive website, Statistics
+
+Adrianna Lakatos says she assembled an 85-million-record birthday dataset and used Astra to build the public explorer. The website was accessible during review; the data source and rarity calculations were not independently audited.
+
+[Original post](<https://x.com/adriannalakatos/status/2098671802574840117>) · [Live demo](<https://birthdaytraffic.com/>) · [Visual gallery details](<https://magiccreator.ai/astra#birthday-rarity-explorer>)
 
 ### Antibody Developability Explorer
 
@@ -1481,6 +1555,32 @@ The creator reports using Astra with Remotion and Imagegen to script and assembl
 
 [Original post](<https://x.com/DeryaTR_/status/2095659170661904804>) · [Visual gallery details](<https://magiccreator.ai/astra#t-cell-remotion-explainer>)
 
+### DaVinci Resolve Automated Edit
+
+[![DaVinci Resolve Automated Edit — Preview from the creator’s post](<https://pbs.twimg.com/amplify_video_thumb/2098000548272459776/img/MB59F2efCZSu29Rk.jpg>)](<https://x.com/EHuanglu/status/2098000582443430019>)
+
+Astra reviews 84 clips, trims an edit, selects library music, and generates subtitles in DaVinci Resolve.
+
+**Creator:** [el.cine](<https://x.com/EHuanglu>) · **Tools / format:** Video editing, DaVinci Resolve, Computer use
+
+El.cine presents the completed edit as an Astra computer-use workflow inside DaVinci Resolve. The post demonstrates the result but does not provide the project files or an independent comparison with a manual edit.
+
+[Original post](<https://x.com/EHuanglu/status/2098000582443430019>) · [Visual gallery details](<https://magiccreator.ai/astra#davinci-resolve-automated-edit>)
+
+### Clay-to-Seedance Animation Pipeline
+
+[![Clay-to-Seedance Animation Pipeline — Preview from the creator’s post](<https://pbs.twimg.com/amplify_video_thumb/2097361789000486912/img/07-e5gE7IUGAb3lb.jpg>)](<https://x.com/Ciri_ai/status/2097361976968237462>)
+
+A coded clay scene moves from Astra and Blender into a camera-matched Seedance 2.5 render.
+
+**Creator:** [Ciri](<https://x.com/Ciri_ai>) · **Tools / format:** Blender, Seedance 2.5, Animation pipeline
+
+Ciri describes Astra coding the geometry in Blender, a Clay Renderer plugin preserving the camera and layout, and Dreamina Seedance 2.5 producing the final animation. Cost and quality statements are the author's account.
+
+**Disclosure:** Dreamina partner post.
+
+[Original post](<https://x.com/Ciri_ai/status/2097361976968237462>) · [Visual gallery details](<https://magiccreator.ai/astra#clay-to-seedance-pipeline>)
+
 ### Bikini Bottom Fan Film
 
 [![Bikini Bottom Fan Film — Preview from the creator’s post](<https://pbs.twimg.com/amplify_video_thumb/2096377710390239233/img/g6A2gGVGbxN-Fr1h.jpg>)](<https://x.com/groovestreetgen/status/2096377742916981247>)
@@ -1823,6 +1923,18 @@ The creator shows Astra performing PCB layout in KiCad. The clip demonstrates th
 
 [Original post](<https://x.com/ChihYang04/status/2095637507337826741>) · [Visual gallery details](<https://magiccreator.ai/astra#kicad-pcb-layout>)
 
+### 3D Scan Patch for Printing
+
+[![3D Scan Patch for Printing — Preview from the creator’s post](<https://pbs.twimg.com/amplify_video_thumb/2098689349462466560/img/qeLFqQFtAn3R5FUa.jpg>)](<https://x.com/toyoshi/status/2098690472193695756>)
+
+Astra identifies a missing region in an iPhone scan and creates geometry for a printable patch.
+
+**Creator:** [Toyoshi](<https://x.com/toyoshi>) · **Tools / format:** 3D scanning, 3D printing, Point cloud
+
+Toyoshi scanned the real object with an iPhone and asked Astra to prepare the 3D-print data. He says Astra located the missing region without it being pointed out; the post shows the patch and print workflow, not a dimensional accuracy test.
+
+[Original post](<https://x.com/toyoshi/status/2098690472193695756>) · [Visual gallery details](<https://magiccreator.ai/astra#3d-scan-patch-for-printing>)
+
 ### Ableton Track via MCP
 
 [![Ableton Track via MCP — Preview from the creator’s post](<https://pbs.twimg.com/amplify_video_thumb/2095522731559469057/img/aq55_5f7xs6_LiZh.jpg>)](<https://x.com/skirano/status/2095595942544089525>)
@@ -1894,6 +2006,18 @@ Astra composes a complete fugue in the style of Bach from a single prompt.
 Auggie prompted Astra once to compose the fugue presented in the video. The post is a creator demonstration and does not include the score, project files, or an independent musical analysis.
 
 [Original post](<https://x.com/aug5thmusic/status/2097373938393456984>) · [Visual gallery details](<https://magiccreator.ai/astra#astra-bach-style-fugue>)
+
+### Adaptive OBS Setup
+
+[![Adaptive OBS Setup — Preview from the creator’s post](<https://pbs.twimg.com/media/HSGlvT9aYAEvFAy.jpg>)](<https://x.com/ryanvogel/status/2099141395894227152>)
+
+While configuring OBS, Astra uses the camera and system feedback to regain the absent user's attention.
+
+**Creator:** [vogel](<https://x.com/ryanvogel>) · **Tools / format:** OBS, Computer use, Adaptive interface
+
+Ryan Vogel reports that Astra noticed he had not responded, checked the camera, made the Mac beep, and displayed its question when he looked back. The screenshot documents the interaction, not a reproducible benchmark.
+
+[Original post](<https://x.com/ryanvogel/status/2099141395894227152>) · [Visual gallery details](<https://magiccreator.ai/astra#adaptive-obs-setup>)
 
 ### Map Pin to 3D Neighborhood
 

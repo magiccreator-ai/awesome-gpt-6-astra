@@ -11,7 +11,7 @@
 >
 > 원본 출처와 이용 가능한 데모 링크를 포함한 새로운 사례를 정기적으로 추가합니다. 이 저장소에 스타를 눌러 컬렉션을 저장하고 다시 방문해 주세요.
 
-사례 161개 · 크리에이터 제공 라이브 링크 51개 · 최근 검토일: 2026-09-11
+사례 171개 · 크리에이터 제공 라이브 링크 53개 · 최근 검토일: 2026-09-14
 
 **[MagicCreator 비주얼 갤러리에서 보기 →](<https://magiccreator.ai/ko/astra>)** — 미리보기를 둘러보고 카테고리별로 필터링하며 크리에이터가 제공한 라이브 데모를 찾아보세요.
 
@@ -31,12 +31,12 @@
 
 ## 목차
 
-- [GPT-6 Astra 게임 및 플레이 가능한 데모](#games) (46)
-- [GPT-6 Astra Blender 및 3D 데모](#blender) (21)
-- [GPT-6 Astra 웹사이트 및 웹 앱 데모](#web) (49)
-- [GPT-6 Astra 비디오 제작 사례](#video) (13)
+- [GPT-6 Astra 게임 및 플레이 가능한 데모](#games) (48)
+- [GPT-6 Astra Blender 및 3D 데모](#blender) (23)
+- [GPT-6 Astra 웹사이트 및 웹 앱 데모](#web) (51)
+- [GPT-6 Astra 비디오 제작 사례](#video) (15)
 - [GPT-6 Astra 드로잉 및 픽셀아트](#art) (13)
-- [GPT-6 Astra 기타 데모](#others) (19)
+- [GPT-6 Astra 기타 데모](#others) (21)
 - [데모 제안](#suggest-a-demo)
 
 <a id="games"></a>
@@ -58,6 +58,18 @@
 **고지:** 비공식 게임 재현.
 
 [원본 게시물](<https://x.com/LLMJunky/status/2096028790925488452>) · [비주얼 갤러리 상세 보기](<https://magiccreator.ai/ko/astra#rocket-league-style-benchmark>)
+
+### Paperboy 브라우저 리메이크
+
+[![Paperboy 브라우저 리메이크 — 크리에이터 게시물의 미리보기](<https://pbs.twimg.com/amplify_video_thumb/2098775794281828352/img/Hoy8EuS5JEPOFpLO.jpg>)](<https://x.com/builtbysketch/status/2098777028078211283>)
+
+Paperboy 세계를 Blender로 모델링하고 배달 게임으로 완성한 플레이 가능한 브라우저 리메이크입니다.
+
+**크리에이터:** [Emm Tee](<https://x.com/builtbysketch>) · **도구 / 형식:** 브라우저 게임, Blender, 팬 리메이크
+
+Emm Tee는 모델, 렌더링, 조작감을 여러 차례 다듬은 Astra 지원 리메이크의 완성판으로 Paper Route를 소개합니다. 이제 공개 플레이 빌드와 개발 기록이 제공되지만 비공식 팬 리메이크입니다.
+
+[원본 게시물](<https://x.com/builtbysketch/status/2098777028078211283>) · [라이브 데모](<https://www.paperroute.lol/>) · [비주얼 갤러리 상세 보기](<https://magiccreator.ai/ko/astra#paperboy-browser-remake>)
 
 ### 브라우저 3D 게임 프로토타입
 
@@ -179,17 +191,17 @@ Anish Acharya는 주말 동안 Astra로 게임 실험을 만들고 작성자 답
 
 [원본 게시물](<https://x.com/illscience/status/2097059547328241971>) · [라이브 데모](<https://runner-stage1.vercel.app/>) · [비주얼 갤러리 상세 보기](<https://magiccreator.ai/ko/astra#photorealistic-contra-game>)
 
-### Paperboy 브라우저 리메이크
+### 스코피드 크리처 애니메이션
 
-[![Paperboy 브라우저 리메이크 — 크리에이터 게시물의 미리보기](<https://pbs.twimg.com/amplify_video_thumb/2096510012675801088/img/UNeeo52BhmG8B2Rg.jpg>)](<https://x.com/builtbysketch/status/2096515959469072630>)
+[![스코피드 크리처 애니메이션 — 크리에이터 게시물의 미리보기](<https://pbs.twimg.com/amplify_video_thumb/2098386055095619584/img/HidQhyf1Q5Ao7mSg.jpg>)](<https://x.com/Stefan_3D_AI/status/2098387407565730203>)
 
-Paperboy 세계를 Blender로 모델링하고 플레이 가능한 듯한 장면을 브라우저에서 렌더링한 팬 리메이크입니다.
+Tripo 크리처 모델에 Astra로 다섯 가지 애니메이션을 적용한 뒤 Unity에 통합했습니다.
 
-**크리에이터:** [Emm Tee](<https://x.com/builtbysketch>) · **도구 / 형식:** 브라우저 게임, Blender, 팬 리메이크
+**크리에이터:** [Stefan 3D AI](<https://x.com/Stefan_3D_AI>) · **도구 / 형식:** 크리처 애니메이션, Unity, Tripo
 
-Emm Tee는 Astra 지원 리메이크로 소개하며 모델, 렌더링, 조작감을 다듬는 데 많은 반복이 필요했다고 말합니다. 게시물은 프로젝트를 시연하지만 공개 빌드는 제공하지 않습니다.
+Stefan은 최적화되고 논리적으로 분리된 Tripo P2.0 모델과 SD 2.5 영상 레퍼런스로 시작했습니다. Astra와 여러 차례 피드백을 주고받으며 리깅과 애니메이션을 만든 뒤 Unity에 통합했다고 설명하며, 시간과 품질 수치는 작성자의 주장입니다.
 
-[원본 게시물](<https://x.com/builtbysketch/status/2096515959469072630>) · [비주얼 갤러리 상세 보기](<https://magiccreator.ai/ko/astra#paperboy-browser-remake>)
+[원본 게시물](<https://x.com/Stefan_3D_AI/status/2098387407565730203>) · [비주얼 갤러리 상세 보기](<https://magiccreator.ai/ko/astra#scorpid-creature-animation>)
 
 ### Afterlight Robot World
 
@@ -238,6 +250,18 @@ Emm Tee는 Astra 지원 리메이크로 소개하며 모델, 렌더링, 조작�
 제작자는 이 Three.js 게임을 Astra로 만들었다고 밝힙니다. 연결된 저장소에는 이동, 늘이기 기능과 놀이터 활동이 문서화되어 있습니다. 라이브 페이지는 WebGPU가 필요하며 게임플레이는 독립적으로 테스트되지 않았습니다.
 
 [원본 게시물](<https://x.com/scottstts/status/2096364764054131119>) · [라이브 데모](<https://jelly.scottsun.io/>) · [크리에이터의 코드](<https://github.com/scottstts/Jelly-Baby>) · [비주얼 갤러리 상세 보기](<https://magiccreator.ai/ko/astra#jelly-baby>)
+
+### 부유 비행선 Unity 프로토타입
+
+[![부유 비행선 Unity 프로토타입 — 크리에이터 게시물의 미리보기](<https://pbs.twimg.com/amplify_video_thumb/2096627921708584960/img/1dbsrLRpDTMNp2Us.jpg>)](<https://x.com/chongdashu/status/2096628135630615028>)
+
+한 장의 이미지를 Astra, Blender, Unity로 부유 비행선 게임 프로토타입으로 만들었습니다.
+
+**크리에이터:** [Chong-U](<https://x.com/chongdashu>) · **도구 / 형식:** Unity, Blender, 게임 프로토타입
+
+Chong-U는 이미지 기반 게임 재현을 Astra가 Blender와 Unity를 거쳐 어디까지 만들 수 있는지 시험했습니다. 게시물은 부유 비행선 결과를 보여 주지만 공개 빌드나 수동 개입의 상세 내역은 제공하지 않습니다.
+
+[원본 게시물](<https://x.com/chongdashu/status/2096628135630615028>) · [비주얼 갤러리 상세 보기](<https://magiccreator.ai/ko/astra#floating-blimp-unity-prototype>)
 
 ### Elderwood Realms
 
@@ -729,6 +753,20 @@ Bad Decisions Studio는 첫 Astra 모델링 테스트에서 전화 사진으로 
 
 [원본 게시물](<https://x.com/badxstudio/status/2095982983379653113>) · [비주얼 갤러리 상세 보기](<https://magiccreator.ai/ko/astra#iphone-photos-blender-building>)
 
+### Tripo 캐릭터 리깅 워크플로
+
+[![Tripo 캐릭터 리깅 워크플로 — 크리에이터 게시물의 미리보기](<https://pbs.twimg.com/amplify_video_thumb/2098760351827517440/img/u4_JL_LvcteHCX_J.jpg>)](<https://x.com/Dstudio_ai/status/2098760566672417240>)
+
+여러 파트로 된 Tripo 캐릭터를 Astra로 Blender에서 조립하고 리깅과 보조 움직임을 설정했습니다.
+
+**크리에이터:** [Nano](<https://x.com/Dstudio_ai>) · **도구 / 형식:** 캐릭터 리깅, Blender, Tripo
+
+Nano는 Tripo로 머리, 머리카락, 몸, 표정 메시를 따로 생성한 뒤 Computer Use를 통한 Astra로 조립, 리깅, 보조 움직임 설정을 진행했습니다. 작성자에 따르면 감독과 자체 앱이 여전히 필요했습니다.
+
+**고지:** Tripo 파트너 게시물.
+
+[원본 게시물](<https://x.com/Dstudio_ai/status/2098760566672417240>) · [비주얼 갤러리 상세 보기](<https://magiccreator.ai/ko/astra#tripo-character-rigging-workflow>)
+
 ### 이미지 기반 스트리트 신
 
 [![이미지 기반 스트리트 신 — 크리에이터 게시물의 미리보기](<https://pbs.twimg.com/amplify_video_thumb/2096619986119016448/img/DnxNHOzY0HSwEHqW.jpg>)](<https://x.com/Yokohara_h/status/2096622171011666003>)
@@ -788,6 +826,18 @@ Bad Decisions Studio는 첫 Astra 모델링 테스트에서 전화 사진으로 
 Sac는 Astra가 Blender CLI를 반복 사용해 장면을 구축하고 시연 영상을 제작했다고 전합니다. 제작자는 3~4시간 워크플로를 보고했으며 해당 주장은 독립 재현되지 않았습니다.
 
 [원본 게시물](<https://x.com/Saccc_c/status/2097225315089256814>) · [비주얼 갤러리 상세 보기](<https://magiccreator.ai/ko/astra#summer-palace-tower-blender>)
+
+### 도면에서 3D 메커니즘으로
+
+[![도면에서 3D 메커니즘으로 — 크리에이터 게시물의 미리보기](<https://pbs.twimg.com/amplify_video_thumb/2097003576224788484/img/jlhyhvRpyq3Vuox4.jpg>)](<https://x.com/DilumSanjaya/status/2097005668389802027>)
+
+Astra가 평면 기계 도면을 애니메이션이 있는 입체 메커니즘 연구로 변환했습니다.
+
+**크리에이터:** [Dilum Sanjaya](<https://x.com/DilumSanjaya>) · **도구 / 형식:** 3D 모델링, 기계 설계, 도면
+
+Dilum Sanjaya는 Astra로 2D 도면에서 3D로 자연스럽게 전환하는 실험으로 영상을 소개합니다. 게시물은 시각적 결과를 보여 주지만 프로젝트 파일, 치수, 공학적 검증은 제공하지 않습니다.
+
+[원본 게시물](<https://x.com/DilumSanjaya/status/2097005668389802027>) · [비주얼 갤러리 상세 보기](<https://magiccreator.ai/ko/astra#schematic-to-3d-mechanism>)
 
 ### Blender의 Taj Mahal
 
@@ -1033,6 +1083,18 @@ Barron Roth는 일상의 질문을 탐구하기 위해 Astra에게 물의 움직
 
 [원본 게시물](<https://x.com/iamBarronRoth/status/2096407730030530762>) · [비주얼 갤러리 상세 보기](<https://magiccreator.ai/ko/astra#glass-drying-physics-simulation>)
 
+### VEYRA 인터랙티브 자동차
+
+[![VEYRA 인터랙티브 자동차 — 크리에이터 게시물의 미리보기](<https://pbs.twimg.com/amplify_video_thumb/2098459847088103424/img/8Q85Yp1K30Liqsz0.jpg>)](<https://x.com/AmirMushich/status/2098464881498370090>)
+
+컷어웨이 영상, 외관 선택, 반응형 제품 UI를 결합한 인터랙티브 전기차 디자인 스터디입니다.
+
+**크리에이터:** [Amir Mušić](<https://x.com/AmirMushich>) · **도구 / 형식:** 제품 웹사이트, 자동차 디자인, 인터랙티브 미디어
+
+Amir Mušić는 Astra로 사이트를 구성하고 GPT Image 2.5로 외관 선택지를 만들었으며 3D 모델 대신 준비된 영상 전환을 사용했습니다. 공개 저장소는 VEYRA를 가상의 디자인 스터디로 명시하며 공학 모델이나 자동차 제조사 프로젝트가 아니라고 설명합니다.
+
+[원본 게시물](<https://x.com/AmirMushich/status/2098464881498370090>) · [크리에이터의 코드](<https://github.com/amirmushichge/veyra-interactive-car>) · [비주얼 갤러리 상세 보기](<https://magiccreator.ai/ko/astra#veyra-interactive-car>)
+
 ### Three.js의 항저우
 
 [![Three.js의 항저우 — 크리에이터 게시물의 미리보기](<https://pbs.twimg.com/amplify_video_thumb/2096142969032351744/img/lZvQ1GZMdqznrSqb.jpg>)](<https://x.com/NFT_Chen/status/2096143589151756638>)
@@ -1044,6 +1106,18 @@ Barron Roth는 일상의 질문을 탐구하기 위해 Astra에게 물의 움직
 제작자는 오비트 컨트롤, 랜드마크 이동 내비게이션, 조명 변화를 갖춘 Astra 제작 Three.js 도시를 제시합니다. 장면은 스타일화된 도시 시각화입니다.
 
 [원본 게시물](<https://x.com/NFT_Chen/status/2096143589151756638>) · [비주얼 갤러리 상세 보기](<https://magiccreator.ai/ko/astra#hangzhou-threejs-city>)
+
+### 생일 희귀도 탐색기
+
+[![생일 희귀도 탐색기 — 크리에이터 게시물의 미리보기](<https://pbs.twimg.com/media/HR_63SwawAAKETQ.jpg>)](<https://x.com/adriannalakatos/status/2098671802574840117>)
+
+대규모 생일 데이터셋을 바탕으로 선택한 생년월일이 얼마나 흔하거나 드문지 추정하는 웹사이트입니다.
+
+**크리에이터:** [Adrianna Lakatos](<https://x.com/adriannalakatos>) · **도구 / 형식:** 데이터 시각화, 인터랙티브 웹사이트, 통계
+
+Adrianna Lakatos는 8,500만 건의 생일 데이터셋을 모아 Astra로 공개 탐색기를 만들었다고 설명합니다. 검토 당시 사이트에 접속할 수 있었지만 데이터 출처와 희귀도 계산은 독립적으로 감사하지 않았습니다.
+
+[원본 게시물](<https://x.com/adriannalakatos/status/2098671802574840117>) · [라이브 데모](<https://birthdaytraffic.com/>) · [비주얼 갤러리 상세 보기](<https://magiccreator.ai/ko/astra#birthday-rarity-explorer>)
 
 ### 항체 개발 적합성 탐색기
 
@@ -1481,6 +1555,32 @@ Remotion과 Imagegen 시각자료로 조립한 Astra 생성 T 세포 교육용 �
 
 [원본 게시물](<https://x.com/DeryaTR_/status/2095659170661904804>) · [비주얼 갤러리 상세 보기](<https://magiccreator.ai/ko/astra#t-cell-remotion-explainer>)
 
+### DaVinci Resolve 자동 편집
+
+[![DaVinci Resolve 자동 편집 — 크리에이터 게시물의 미리보기](<https://pbs.twimg.com/amplify_video_thumb/2098000548272459776/img/MB59F2efCZSu29Rk.jpg>)](<https://x.com/EHuanglu/status/2098000582443430019>)
+
+Astra가 84개 클립을 검토하고 컷 편집, 라이브러리 음악 선택, 자막 생성을 DaVinci Resolve에서 수행했습니다.
+
+**크리에이터:** [el.cine](<https://x.com/EHuanglu>) · **도구 / 형식:** 영상 편집, DaVinci Resolve, Computer Use
+
+El.cine은 DaVinci Resolve 안에서 Astra의 Computer Use로 완성한 편집 결과를 소개합니다. 게시물은 결과를 보여 주지만 프로젝트 파일이나 수동 편집과의 독립 비교는 제공하지 않습니다.
+
+[원본 게시물](<https://x.com/EHuanglu/status/2098000582443430019>) · [비주얼 갤러리 상세 보기](<https://magiccreator.ai/ko/astra#davinci-resolve-automated-edit>)
+
+### 클레이에서 Seedance로 이어지는 애니메이션 파이프라인
+
+[![클레이에서 Seedance로 이어지는 애니메이션 파이프라인 — 크리에이터 게시물의 미리보기](<https://pbs.twimg.com/amplify_video_thumb/2097361789000486912/img/07-e5gE7IUGAb3lb.jpg>)](<https://x.com/Ciri_ai/status/2097361976968237462>)
+
+Astra와 Blender로 만든 클레이 장면을 카메라 구도를 유지한 Seedance 2.5 렌더로 옮겼습니다.
+
+**크리에이터:** [Ciri](<https://x.com/Ciri_ai>) · **도구 / 형식:** Blender, Seedance 2.5, 애니메이션 파이프라인
+
+Ciri는 Astra가 Blender 지오메트리를 코딩하고, Clay Renderer 플러그인이 카메라와 레이아웃을 유지하며, Dreamina Seedance 2.5가 최종 애니메이션을 만드는 과정을 설명합니다. 비용과 품질 평가는 작성자의 주장입니다.
+
+**고지:** Dreamina 파트너 게시물.
+
+[원본 게시물](<https://x.com/Ciri_ai/status/2097361976968237462>) · [비주얼 갤러리 상세 보기](<https://magiccreator.ai/ko/astra#clay-to-seedance-pipeline>)
+
 ### Bikini Bottom 팬 필름
 
 [![Bikini Bottom 팬 필름 — 크리에이터 게시물의 미리보기](<https://pbs.twimg.com/amplify_video_thumb/2096377710390239233/img/g6A2gGVGbxN-Fr1h.jpg>)](<https://x.com/groovestreetgen/status/2096377742916981247>)
@@ -1823,6 +1923,18 @@ KiCad 내에서 인쇄회로기판 배치를 시연한 사례.
 
 [원본 게시물](<https://x.com/ChihYang04/status/2095637507337826741>) · [비주얼 갤러리 상세 보기](<https://magiccreator.ai/ko/astra#kicad-pcb-layout>)
 
+### 3D 프린팅용 스캔 보수
+
+[![3D 프린팅용 스캔 보수 — 크리에이터 게시물의 미리보기](<https://pbs.twimg.com/amplify_video_thumb/2098689349462466560/img/qeLFqQFtAn3R5FUa.jpg>)](<https://x.com/toyoshi/status/2098690472193695756>)
+
+Astra가 iPhone 스캔의 누락 영역을 찾아 출력 가능한 보수 부품의 형상을 만들었습니다.
+
+**크리에이터:** [Toyoshi](<https://x.com/toyoshi>) · **도구 / 형식:** 3D 스캔, 3D 프린팅, 포인트 클라우드
+
+Toyoshi는 실물을 iPhone으로 스캔하고 Astra에 3D 프린팅 데이터를 준비하도록 요청했습니다. 작성자에 따르면 누락 위치를 알려 주지 않았는데도 Astra가 찾아냈습니다. 게시물은 보수와 출력 과정을 보여 주지만 치수 정확도 시험은 아닙니다.
+
+[원본 게시물](<https://x.com/toyoshi/status/2098690472193695756>) · [비주얼 갤러리 상세 보기](<https://magiccreator.ai/ko/astra#3d-scan-patch-for-printing>)
+
 ### MCP를 통한 Ableton 트랙
 
 [![MCP를 통한 Ableton 트랙 — 크리에이터 게시물의 미리보기](<https://pbs.twimg.com/amplify_video_thumb/2095522731559469057/img/aq55_5f7xs6_LiZh.jpg>)](<https://x.com/skirano/status/2095595942544089525>)
@@ -1894,6 +2006,18 @@ Astra가 하나의 프롬프트로 바흐 스타일의 완전한 푸가를 작�
 Auggie는 한 번의 프롬프트로 영상에 제시된 푸가를 작곡하도록 Astra에 요청했습니다. 제작자 데모이며 악보, 프로젝트 파일, 독립적인 음악 분석은 제공되지 않습니다.
 
 [원본 게시물](<https://x.com/aug5thmusic/status/2097373938393456984>) · [비주얼 갤러리 상세 보기](<https://magiccreator.ai/ko/astra#astra-bach-style-fugue>)
+
+### 상황 적응형 OBS 설정
+
+[![상황 적응형 OBS 설정 — 크리에이터 게시물의 미리보기](<https://pbs.twimg.com/media/HSGlvT9aYAEvFAy.jpg>)](<https://x.com/ryanvogel/status/2099141395894227152>)
+
+OBS를 설정하던 Astra가 카메라와 시스템 신호를 사용해 자리를 비운 사용자의 주의를 다시 끌었습니다.
+
+**크리에이터:** [vogel](<https://x.com/ryanvogel>) · **도구 / 형식:** OBS, Computer Use, 적응형 인터페이스
+
+Ryan Vogel은 Astra가 응답이 없음을 알아차리고 카메라를 확인한 뒤 Mac에서 소리를 내고, 자신이 돌아보자 질문을 화면에 표시했다고 설명합니다. 스크린샷은 이 상호작용의 기록이며 재현 가능한 벤치마크는 아닙니다.
+
+[원본 게시물](<https://x.com/ryanvogel/status/2099141395894227152>) · [비주얼 갤러리 상세 보기](<https://magiccreator.ai/ko/astra#adaptive-obs-setup>)
 
 ### 지도 핀에서 3D 동네로
 
