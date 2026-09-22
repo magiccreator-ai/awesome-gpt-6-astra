@@ -11,7 +11,7 @@
 >
 > 원본 출처와 이용 가능한 데모 링크를 포함한 새로운 사례를 정기적으로 추가합니다. 이 저장소에 스타를 눌러 컬렉션을 저장하고 다시 방문해 주세요.
 
-사례 171개 · 크리에이터 제공 라이브 링크 53개 · 최근 검토일: 2026-09-14
+사례 181개 · 크리에이터 제공 라이브 링크 54개 · 최근 검토일: 2026-09-22
 
 **[MagicCreator 비주얼 갤러리에서 보기 →](<https://magiccreator.ai/ko/astra>)** — 미리보기를 둘러보고 카테고리별로 필터링하며 크리에이터가 제공한 라이브 데모를 찾아보세요.
 
@@ -31,12 +31,12 @@
 
 ## 목차
 
-- [GPT-6 Astra 게임 및 플레이 가능한 데모](#games) (48)
-- [GPT-6 Astra Blender 및 3D 데모](#blender) (23)
-- [GPT-6 Astra 웹사이트 및 웹 앱 데모](#web) (51)
-- [GPT-6 Astra 비디오 제작 사례](#video) (15)
+- [GPT-6 Astra 게임 및 플레이 가능한 데모](#games) (49)
+- [GPT-6 Astra Blender 및 3D 데모](#blender) (24)
+- [GPT-6 Astra 웹사이트 및 웹 앱 데모](#web) (54)
+- [GPT-6 Astra 비디오 제작 사례](#video) (16)
 - [GPT-6 Astra 드로잉 및 픽셀아트](#art) (13)
-- [GPT-6 Astra 기타 데모](#others) (21)
+- [GPT-6 Astra 기타 데모](#others) (25)
 - [데모 제안](#suggest-a-demo)
 
 <a id="games"></a>
@@ -154,6 +154,18 @@ Konsti Wohlwend는 Astra가 프로토타입과 메커니즘을 구현하면서 �
 Meng To는 기존 게임을 참고해 Astra로 만들고 후속 프롬프트로 다듬었습니다. 게임은 작동하지만 카탄과 너무 비슷해 라이선스 없이는 공개할 수 없다고 밝혔습니다.
 
 [원본 게시물](<https://x.com/MengTo/status/2097291240672993773>) · [비주얼 갤러리 상세 보기](<https://magiccreator.ai/ko/astra#catan-threejs-board-game>)
+
+### Junnaid Valley 언리얼 월드
+
+[![Junnaid Valley 언리얼 월드 — 크리에이터 게시물의 미리보기](<https://pbs.twimg.com/amplify_video_thumb/2101395397445050368/img/F9db-bOLbAgvo4lo.jpg>)](<https://x.com/seftsaint/status/2101395711015497764>)
+
+기존 Godot 콘셉트를 Unreal로 옮기고 나무와 조명을 다듬은 플레이 가능한 풍경.
+
+**크리에이터:** [eta](<https://x.com/seftsaint>) · **도구 / 형식:** Unreal Engine, Blender, 게임 월드
+
+제작자는 Astra, Unreal, Blender로 기존 Godot 콘셉트를 옮겨 게임을 계속 만들었다. 일부 에셋은 Meshy에서 가져왔으므로 Astra만으로 처음부터 만든 결과가 아닌 복합 도구 워크플로다.
+
+[원본 게시물](<https://x.com/seftsaint/status/2101395711015497764>) · [비주얼 갤러리 상세 보기](<https://magiccreator.ai/ko/astra#junnaid-valley-unreal>)
 
 ### Universe Duel
 
@@ -741,6 +753,18 @@ Blender로 만든 3D iPod과 클래식 iPod 인터랙션으로 Codex 스레드�
 
 [원본 게시물](<https://x.com/skirano/status/2095648379455861054>) · [비주얼 갤러리 상세 보기](<https://magiccreator.ai/ko/astra#ipod-codex-thread-viewer>)
 
+### 청명 캐릭터 3D 모델
+
+[![청명 캐릭터 3D 모델 — 크리에이터 게시물의 미리보기](<https://pbs.twimg.com/amplify_video_thumb/2100192488543727617/img/IAkoiHbr17A3WjKv.jpg>)](<https://x.com/rionaifantasy/status/2100192604541395335>)
+
+참조 캐릭터를 Astra와 Blender의 반복 작업으로 정교한 3D 인물로 구현했다.
+
+**크리에이터:** [Rion Wu](<https://x.com/rionaifantasy>) · **도구 / 형식:** 캐릭터 모델링, Blender, 참조 이미지
+
+Rion Wu는 여러 차례 다듬은 Astra·Blender 캐릭터 연구로 이 모델을 소개했다. 품질과 토큰 사용량은 제작자의 설명이며, 독립적으로 확인할 모델 파일은 공개되지 않았다.
+
+[원본 게시물](<https://x.com/rionaifantasy/status/2100192604541395335>) · [비주얼 갤러리 상세 보기](<https://magiccreator.ai/ko/astra#qingming-character-model>)
+
 ### 전화 사진으로 Blender 건물
 
 [![전화 사진으로 Blender 건물 — 크리에이터 게시물의 미리보기](<https://pbs.twimg.com/ext_tw_video_thumb/2095982524044541952/pu/img/NojpJgktJm7E-l-F.jpg>)](<https://x.com/badxstudio/status/2095982983379653113>)
@@ -977,6 +1001,18 @@ Emanuel AOF는 자신의 발목 통증을 이해하도록 Astra에 도움을 요
 
 [원본 게시물](<https://x.com/Emanuel_Andre7/status/2096528986390085696>) · [비주얼 갤러리 상세 보기](<https://magiccreator.ai/ko/astra#interactive-3d-ankle-atlas>)
 
+### Desktop Habitats 수족관
+
+[![Desktop Habitats 수족관 — 크리에이터 게시물의 미리보기](<https://pbs.twimg.com/amplify_video_thumb/2100662903934193664/img/iUeUBtXa6uk4_iN-.jpg>)](<https://x.com/chaseleantj/status/2100663203076128908>)
+
+물고기가 커서에 반응하고 먹이도 줄 수 있는 macOS용 라이브 수족관 배경화면.
+
+**크리에이터:** [Chase Lean](<https://x.com/chaseleantj>) · **도구 / 형식:** macOS, Three.js, 인터랙티브 배경화면
+
+Chase Lean은 Astra가 인터랙티브 수족관을 만들었다고 설명한다. 오픈 소스 프로젝트는 두 Three.js 서식지를 로컬로 렌더링하고 브라우저 미리보기도 지원하며, 정지 이미지보다 전력을 더 쓴다고 알린다.
+
+[원본 게시물](<https://x.com/chaseleantj/status/2100663203076128908>) · [크리에이터의 코드](<https://github.com/chaseleantj/desktop-habitats>) · [비주얼 갤러리 상세 보기](<https://magiccreator.ai/ko/astra#desktop-habitats-aquarium>)
+
 ### 닉스 팁인 3D 리플레이
 
 [![닉스 팁인 3D 리플레이 — 크리에이터 게시물의 미리보기](<https://pbs.twimg.com/amplify_video_thumb/2096663265812332544/img/JRENdmreJLLAoTZr.jpg>)](<https://x.com/Flynnjamm/status/2096663293901578438>)
@@ -1059,6 +1095,16 @@ Andrew Aiginin은 Astra가 기존 세포 모델을 약 한 시간 만에 작용 
 
 [원본 게시물](<https://x.com/andrewaiginin/status/2096998783351664993>) · [비주얼 갤러리 상세 보기](<https://magiccreator.ai/ko/astra#ozempic-mechanism-visualization>)
 
+### 로마 십이면체 가설 탐색기
+
+로마 십이면체의 용도를 둘러싼 여섯 가지 가설을 보여 주는 인터랙티브 고고학 사이트.
+
+**크리에이터:** [Boris Power](<https://x.com/BorisMPower>) · **도구 / 형식:** 고고학, 인터랙티브 웹사이트, 교육
+
+Boris Power는 용도를 알 수 없는 유물에 관한 논의를 계기로 Astra가 공개 사이트를 만들었다고 밝혔다. 이 경험은 경쟁 가설을 시각화하지만 어떤 가설이 맞는지 입증하지 않는다.
+
+[원본 게시물](<https://x.com/BorisMPower/status/2101023784165908610>) · [라이브 데모](<https://twelve-faces-one-mystery.borisxp.chatgpt.site>) · [비주얼 갤러리 상세 보기](<https://magiccreator.ai/ko/astra#roman-dodecahedron-theories>)
+
 ### 서울 3D 아틀라스
 
 [![서울 3D 아틀라스 — 크리에이터 게시물의 미리보기](<https://pbs.twimg.com/amplify_video_thumb/2096557441312034816/img/v3Iur3rDygYBuOdR.jpg>)](<https://x.com/synabreu/status/2096557555086725159>)
@@ -1130,6 +1176,18 @@ Adrianna Lakatos는 8,500만 건의 생일 데이터셋을 모아 Astra로 공�
 Andrew Aiginin은 Astra가 자신의 벤치마크에서 다른 프런티어 모델보다 앞섰고 약 한 시간 만에 시각화도 만들었다고 보고했습니다. 두 주장 모두 독립 검증되지 않았으며 임상 도구가 아닙니다.
 
 [원본 게시물](<https://x.com/andrewaiginin/status/2098078245350518884>) · [비주얼 갤러리 상세 보기](<https://magiccreator.ai/ko/astra#antibody-developability-explorer>)
+
+### Tidal Garden 바다 도감
+
+[![Tidal Garden 바다 도감 — 크리에이터 게시물의 미리보기](<https://pbs.twimg.com/amplify_video_thumb/2100492088500686848/img/-Xye1cTnx7CvHFsf.jpg>)](<https://x.com/sonia_code/status/2100517619778593231>)
+
+작은 해안에서 조수 높이를 바꾸고 물웅덩이에 남은 생물을 눌러 살펴볼 수 있다.
+
+**크리에이터:** [Sonia](<https://x.com/sonia_code>) · **도구 / 형식:** 인터랙티브 도감, 해양 생물, 데이터 시각화
+
+Sonia는 Astra가 이 일러스트형 바다 도감을 만들었다고 밝혔다. 게시물은 조수 조절과 클릭 가능한 해양 생물을 보여 주지만 공개 빌드나 생물 정보에 대한 독립 검증은 없다.
+
+[원본 게시물](<https://x.com/sonia_code/status/2100517619778593231>) · [비주얼 갤러리 상세 보기](<https://magiccreator.ai/ko/astra#tidal-garden-ocean-guide>)
 
 ### Varun Lohade 포트폴리오
 
@@ -1519,6 +1577,18 @@ Astra가 매물 사진으로 주택을 재구성하고 영상을 만들었다고
 
 [원본 게시물](<https://x.com/realYunfanYe/status/2095612137582526615>) · [비주얼 갤러리 상세 보기](<https://magiccreator.ai/ko/astra#zillow-house-video>)
 
+### Starship 테크니컬 모션 영상
+
+[![Starship 테크니컬 모션 영상 — 크리에이터 게시물의 미리보기](<https://pbs.twimg.com/amplify_video_thumb/2099142033181233152/img/kRilZIhKQHwvbVaJ.jpg>)](<https://x.com/flaceju/status/2099142063807717443>)
+
+선화와 기술 주석으로 Starship을 설명하는 흑백 모션 디자인 시퀀스.
+
+**크리에이터:** [flaceju](<https://x.com/flaceju>) · **도구 / 형식:** 모션 디자인, Starship, 기술 애니메이션
+
+제작자는 완성된 편집을 Astra가 만들었다고 밝혔다. 확인한 프레임에는 기체와 추진계 애니메이션 도해가 보이지만, 게시물은 사용 소프트웨어, 과정, 원본 에셋, 공학적 사실 검증을 설명하지 않는다.
+
+[원본 게시물](<https://x.com/flaceju/status/2099142063807717443>) · [비주얼 갤러리 상세 보기](<https://magiccreator.ai/ko/astra#starship-technical-edit>)
+
 ### 11분 Higgsfield 영상
 
 [![11분 Higgsfield 영상 — 크리에이터 게시물의 미리보기](<https://pbs.twimg.com/amplify_video_thumb/2096491888966852608/img/sOPzOKuspX5PNY8j.jpg>)](<https://x.com/adilinthewild/status/2096501790774817240>)
@@ -1899,6 +1969,18 @@ Adam이 Astra와의 에이전틱 CAD 워크플로를 제시합니다. 클립은 
 
 [원본 게시물](<https://x.com/adamdotnew/status/2096053889141489669>) · [비주얼 갤러리 상세 보기](<https://magiccreator.ai/ko/astra#agentic-mechanical-cad>)
 
+### JEV + Astra 마인크래프트 스피드런
+
+[![JEV + Astra 마인크래프트 스피드런 — 크리에이터 게시물의 미리보기](<https://pbs.twimg.com/amplify_video_thumb/2101542497042481152/img/edco8P9wl-DUp5z8.jpg>)](<https://x.com/rronak_/status/2101544156757950697>)
+
+두 모델로 구성된 마인크래프트 에이전트가 녹화된 실행에서 8분 43초 만에 엔더 드래곤을 쓰러뜨린다.
+
+**크리에이터:** [Ronak Malde](<https://x.com/rronak_>) · **도구 / 형식:** Minecraft, 에이전트, 오픈 소스
+
+Astra가 계획하고 JEV가 구조화된 게임 상태에서 제한된 행동을 골랐으며 Mineflayer가 실행했다. 공개 실행은 조사된 고정 시드, 알려진 좌표, 평화로움 난이도, 이전 실패에서 배운 스킬을 사용했고 화면만 보는 플레이는 아니었다.
+
+[원본 게시물](<https://x.com/rronak_/status/2101544156757950697>) · [크리에이터의 코드](<https://github.com/rmalde/minecraft-agent>) · [비주얼 갤러리 상세 보기](<https://magiccreator.ai/ko/astra#jev-astra-minecraft-speedrun>)
+
 ### 로봇 제어 실험
 
 [![로봇 제어 실험 — 크리에이터 게시물의 미리보기](<https://pbs.twimg.com/media/HRa3vJWaEAAQSRT.jpg>)](<https://x.com/chooi_jeq/status/2096064315115839904>)
@@ -1910,6 +1992,18 @@ Adam이 Astra와의 에이전틱 CAD 워크플로를 제시합니다. 클립은 
 연구자는 이 실험에서 Astra가 95% 과제 점수를, Fable 5.1이 40%를 기록했다고 보고하며 토큰 및 비용 비교도 제시합니다. 이는 실험별 결과이며 일반적 신뢰성의 재현은 아닙니다.
 
 [원본 게시물](<https://x.com/chooi_jeq/status/2096064315115839904>) · [비주얼 갤러리 상세 보기](<https://magiccreator.ai/ko/astra#robot-control-experiment>)
+
+### Astra 마인크래프트 생존 실행
+
+[![Astra 마인크래프트 생존 실행 — 크리에이터 게시물의 미리보기](<https://pbs.twimg.com/media/HSSb6X0aIAAug1l.jpg>)](<https://x.com/ValsAI/status/2099975438886207798>)
+
+공개 평가에서 Astra가 네더 자원을 모으다가 크리퍼에게 진행 상황을 잃는 과정을 기록했다.
+
+**크리에이터:** [Vals AI](<https://x.com/ValsAI>) · **도구 / 형식:** Minecraft, 에이전트 평가, Computer Use
+
+Vals AI는 Astra가 반자동 블레이즈 농장을 만들고 블레이즈 막대와 엔더 진주를 모은 뒤 크리퍼에게 상자와 침대를 잃었다고 전한다. 이는 미완료 실행에 대한 평가자의 기록이며 마인크래프트 클리어가 아니다.
+
+[원본 게시물](<https://x.com/ValsAI/status/2099975438886207798>) · [비주얼 갤러리 상세 보기](<https://magiccreator.ai/ko/astra#astra-minecraft-survival-run>)
 
 ### KiCad의 PCB 배치
 
@@ -2042,6 +2136,30 @@ Astra가 조작을 학습하고 카드 기반 전략 게임을 플레이한 녹�
 작성자는 음성 지시로 Astra가 기존 게임을 플레이하는 장면을 녹화했다고 밝힙니다. 완성 및 사용 관련 주장은 작성자 보고이며 Astra가 게임을 제작하지는 않았습니다.
 
 [원본 게시물](<https://x.com/coolish/status/2096195104809873710>) · [비주얼 갤러리 상세 보기](<https://magiccreator.ai/ko/astra#slay-the-spire-computer-use>)
+
+### RICHI-240 1차대전 암호 분석
+
+[![RICHI-240 1차대전 암호 분석 — 크리에이터 게시물의 미리보기](<https://pbs.twimg.com/media/HSlTt8jW4AIlYXF.png>)](<https://x.com/deredleritt3r/status/2101308530640752762>)
+
+Astra가 손상된 ADFGVX 무전을 복원하고 결과를 역사 기록과 대조했다.
+
+**크리에이터:** [prinz](<https://x.com/deredleritt3r>) · **도구 / 형식:** 암호 분석, 제1차 세계대전, 연구
+
+작성자는 Astra가 누락된 20자의 위치 후보를 시험하고 독일어 패턴으로 결과를 평가한 뒤 역사 기록에서 세 숫자를 추론했다고 전한다. 최초 해독 주장과 역사적 해석은 독립적으로 검증하지 않았다.
+
+[원본 게시물](<https://x.com/deredleritt3r/status/2101308530640752762>) · [비주얼 갤러리 상세 보기](<https://magiccreator.ai/ko/astra#richi-240-cipher>)
+
+### 지속형 메모리 센서스
+
+[![지속형 메모리 센서스 — 크리에이터 게시물의 미리보기](<https://pbs.twimg.com/amplify_video_thumb/2100317260275433472/img/YXMLvVvoehiQ4DAQ.jpg>)](<https://x.com/Argona0x/status/2100317660072337748>)
+
+개인 에이전트가 누적된 파일, 호출, 메모를 탐색 가능한 기억 시각화로 바꾼다.
+
+**크리에이터:** [Argona](<https://x.com/Argona0x>) · **도구 / 형식:** 에이전트 메모리, 시각화, 자동화
+
+Argona는 Astra가 작업 전에 읽고 작업 후 갱신하는 폴더형 메모리 시스템을 설명했다. 시각화와 19일 집계는 제작자 환경의 기록이며 독립 감사된 메모리 벤치마크가 아니다.
+
+[원본 게시물](<https://x.com/Argona0x/status/2100317660072337748>) · [비주얼 갤러리 상세 보기](<https://magiccreator.ai/ko/astra#persistent-memory-census>)
 
 ### Cinema 4D 모델링
 

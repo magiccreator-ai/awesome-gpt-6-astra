@@ -11,7 +11,7 @@ A curated collection of GPT-6 Astra demos: games, Blender & 3D, websites, video 
 >
 > We regularly add new discoveries with original sources and available demo links. Star this repo to save the collection and come back for more.
 
-171 cases · 53 creator-supplied live links · Latest recorded review: 2026-09-14
+181 cases · 54 creator-supplied live links · Latest recorded review: 2026-09-22
 
 **[Explore the visual gallery on MagicCreator →](<https://magiccreator.ai/astra>)** — Browse previews, filter by category, and find creator-supplied live demos.
 
@@ -31,12 +31,12 @@ The preview belongs to its creator and links to the original post; this reposito
 
 ## Contents
 
-- [GPT-6 Astra Games & Playable Demos](#games) (48)
-- [GPT-6 Astra Blender & 3D Demos](#blender) (23)
-- [GPT-6 Astra Website & Web App Demos](#web) (51)
-- [GPT-6 Astra Video Creation Showcase](#video) (15)
+- [GPT-6 Astra Games & Playable Demos](#games) (49)
+- [GPT-6 Astra Blender & 3D Demos](#blender) (24)
+- [GPT-6 Astra Website & Web App Demos](#web) (54)
+- [GPT-6 Astra Video Creation Showcase](#video) (16)
 - [GPT-6 Astra Drawing & Pixel Art](#art) (13)
-- [GPT-6 Astra Other Demos](#others) (21)
+- [GPT-6 Astra Other Demos](#others) (25)
 - [Suggest a demo](#suggest-a-demo)
 
 <a id="games"></a>
@@ -154,6 +154,18 @@ A playable Three.js board game adds animated pieces, guidance cards, AI opponent
 Meng To asked Astra to build from an earlier game reference and refined the result through follow-up prompts. He says the game works, but it is too close to Catan to release without licensing.
 
 [Original post](<https://x.com/MengTo/status/2097291240672993773>) · [Visual gallery details](<https://magiccreator.ai/astra#catan-threejs-board-game>)
+
+### Junnaid Valley Unreal World
+
+[![Junnaid Valley Unreal World — Preview from the creator’s post](<https://pbs.twimg.com/amplify_video_thumb/2101395397445050368/img/F9db-bOLbAgvo4lo.jpg>)](<https://x.com/seftsaint/status/2101395711015497764>)
+
+An existing Godot concept moves into Unreal as a playable landscape with revised trees and lighting.
+
+**Creator:** [eta](<https://x.com/seftsaint>) · **Tools / format:** Unreal Engine, Blender, Game world
+
+The creator used Astra with Unreal and Blender to move an existing Godot concept and continue the game. Some assets came from Meshy, so the result is a multi-tool workflow rather than an all-original Astra build.
+
+[Original post](<https://x.com/seftsaint/status/2101395711015497764>) · [Visual gallery details](<https://magiccreator.ai/astra#junnaid-valley-unreal>)
 
 ### Universe Duel
 
@@ -741,6 +753,18 @@ The creator asked Astra to build a 3D iPod in Blender and use it as the interfac
 
 [Original post](<https://x.com/skirano/status/2095648379455861054>) · [Visual gallery details](<https://magiccreator.ai/astra#ipod-codex-thread-viewer>)
 
+### Qingming Character Model
+
+[![Qingming Character Model — Preview from the creator’s post](<https://pbs.twimg.com/amplify_video_thumb/2100192488543727617/img/IAkoiHbr17A3WjKv.jpg>)](<https://x.com/rionaifantasy/status/2100192604541395335>)
+
+A reference character becomes a detailed 3D figure through an iterative Astra and Blender workflow.
+
+**Creator:** [Rion Wu](<https://x.com/rionaifantasy>) · **Tools / format:** Character modeling, Blender, Reference image
+
+Rion Wu presents the model as an Astra-and-Blender character study refined through many iterations. The quality and token-use statements are the creator's account; no model files were provided for independent inspection.
+
+[Original post](<https://x.com/rionaifantasy/status/2100192604541395335>) · [Visual gallery details](<https://magiccreator.ai/astra#qingming-character-model>)
+
 ### Phone Photos to Blender Building
 
 [![Phone Photos to Blender Building — Preview from the creator’s post](<https://pbs.twimg.com/ext_tw_video_thumb/2095982524044541952/pu/img/NojpJgktJm7E-l-F.jpg>)](<https://x.com/badxstudio/status/2095982983379653113>)
@@ -977,6 +1001,18 @@ Emanuel AOF asked Astra to help explain ankle pain and received the 3D atlas sho
 
 [Original post](<https://x.com/Emanuel_Andre7/status/2096528986390085696>) · [Visual gallery details](<https://magiccreator.ai/astra#interactive-3d-ankle-atlas>)
 
+### Desktop Habitats Aquarium
+
+[![Desktop Habitats Aquarium — Preview from the creator’s post](<https://pbs.twimg.com/amplify_video_thumb/2100662903934193664/img/iUeUBtXa6uk4_iN-.jpg>)](<https://x.com/chaseleantj/status/2100663203076128908>)
+
+A live macOS aquarium wallpaper makes fish react to the cursor and lets users feed them.
+
+**Creator:** [Chase Lean](<https://x.com/chaseleantj>) · **Tools / format:** macOS, Three.js, Interactive wallpaper
+
+Chase Lean says Astra created the interactive aquarium. The open-source project renders two Three.js habitats locally, supports browser previews, and notes that live wallpaper rendering uses more power than a still image.
+
+[Original post](<https://x.com/chaseleantj/status/2100663203076128908>) · [Creator’s code](<https://github.com/chaseleantj/desktop-habitats>) · [Visual gallery details](<https://magiccreator.ai/astra#desktop-habitats-aquarium>)
+
 ### Knicks Tip-In 3D Replay
 
 [![Knicks Tip-In 3D Replay — Preview from the creator’s post](<https://pbs.twimg.com/amplify_video_thumb/2096663265812332544/img/JRENdmreJLLAoTZr.jpg>)](<https://x.com/Flynnjamm/status/2096663293901578438>)
@@ -1059,6 +1095,16 @@ Andrew Aiginin says Astra extended his cell model into this mechanism visualizat
 
 [Original post](<https://x.com/andrewaiginin/status/2096998783351664993>) · [Visual gallery details](<https://magiccreator.ai/astra#ozempic-mechanism-visualization>)
 
+### Roman Dodecahedron Theory Explorer
+
+An interactive archaeological site presents six hypotheses about the Roman dodecahedron.
+
+**Creator:** [Boris Power](<https://x.com/BorisMPower>) · **Tools / format:** Archaeology, Interactive website, Education
+
+Boris Power credits Astra with building the public site in response to a discussion about the artifact's unknown purpose. The experience visualizes competing hypotheses; it does not establish which theory is correct.
+
+[Original post](<https://x.com/BorisMPower/status/2101023784165908610>) · [Live demo](<https://twelve-faces-one-mystery.borisxp.chatgpt.site>) · [Visual gallery details](<https://magiccreator.ai/astra#roman-dodecahedron-theories>)
+
 ### Seoul 3D Atlas
 
 [![Seoul 3D Atlas — Preview from the creator’s post](<https://pbs.twimg.com/amplify_video_thumb/2096557441312034816/img/v3Iur3rDygYBuOdR.jpg>)](<https://x.com/synabreu/status/2096557555086725159>)
@@ -1130,6 +1176,18 @@ A benchmark pairs antibody developability predictions with an interactive explan
 Andrew Aiginin reports Astra led the frontier models in his developability benchmark and built the interactive visualization in about one hour. Neither claim was independently validated, and this is not a clinical tool.
 
 [Original post](<https://x.com/andrewaiginin/status/2098078245350518884>) · [Visual gallery details](<https://magiccreator.ai/astra#antibody-developability-explorer>)
+
+### Tidal Garden Ocean Guide
+
+[![Tidal Garden Ocean Guide — Preview from the creator’s post](<https://pbs.twimg.com/amplify_video_thumb/2100492088500686848/img/-Xye1cTnx7CvHFsf.jpg>)](<https://x.com/sonia_code/status/2100517619778593231>)
+
+An interactive miniature shore lets visitors change the tide and inspect creatures left in tidal pools.
+
+**Creator:** [Sonia](<https://x.com/sonia_code>) · **Tools / format:** Interactive guide, Marine life, Data visualization
+
+Sonia credits Astra with creating the illustrated ocean guide. The post demonstrates tide controls and clickable marine life, but provides no public build or independent check of its biological information.
+
+[Original post](<https://x.com/sonia_code/status/2100517619778593231>) · [Visual gallery details](<https://magiccreator.ai/astra#tidal-garden-ocean-guide>)
 
 ### Varun Lohade Portfolio
 
@@ -1519,6 +1577,18 @@ Astra is credited with reconstructing the house and creating the video from list
 
 [Original post](<https://x.com/realYunfanYe/status/2095612137582526615>) · [Visual gallery details](<https://magiccreator.ai/astra#zillow-house-video>)
 
+### Starship Technical Motion Edit
+
+[![Starship Technical Motion Edit — Preview from the creator’s post](<https://pbs.twimg.com/amplify_video_thumb/2099142033181233152/img/kRilZIhKQHwvbVaJ.jpg>)](<https://x.com/flaceju/status/2099142063807717443>)
+
+A monochrome motion-design sequence uses line art and technical callouts to explain Starship.
+
+**Creator:** [flaceju](<https://x.com/flaceju>) · **Tools / format:** Motion design, Starship, Technical animation
+
+The creator attributes the finished edit to Astra. Sampled frames show animated vehicle and propulsion diagrams, but the post does not document the software, workflow, source assets, or engineering fact-checking.
+
+[Original post](<https://x.com/flaceju/status/2099142063807717443>) · [Visual gallery details](<https://magiccreator.ai/astra#starship-technical-edit>)
+
 ### Eleven-Minute Higgsfield Video
 
 [![Eleven-Minute Higgsfield Video — Preview from the creator’s post](<https://pbs.twimg.com/amplify_video_thumb/2096491888966852608/img/sOPzOKuspX5PNY8j.jpg>)](<https://x.com/adilinthewild/status/2096501790774817240>)
@@ -1899,6 +1969,18 @@ Adam presents its agentic CAD workflow with Astra. The clip illustrates mechanic
 
 [Original post](<https://x.com/adamdotnew/status/2096053889141489669>) · [Visual gallery details](<https://magiccreator.ai/astra#agentic-mechanical-cad>)
 
+### JEV + Astra Minecraft Speedrun
+
+[![JEV + Astra Minecraft Speedrun — Preview from the creator’s post](<https://pbs.twimg.com/amplify_video_thumb/2101542497042481152/img/edco8P9wl-DUp5z8.jpg>)](<https://x.com/rronak_/status/2101544156757950697>)
+
+A two-model Minecraft agent defeats the Ender Dragon in an 8-minute-43-second recorded run.
+
+**Creator:** [Ronak Malde](<https://x.com/rronak_>) · **Tools / format:** Minecraft, Agent, Open source
+
+Astra planned while JEV selected bounded actions from structured game state and Mineflayer executed them. The open-source run used a surveyed fixed seed, known coordinates, Peaceful difficulty, and skills learned across earlier failures; it was not screenshot-only play.
+
+[Original post](<https://x.com/rronak_/status/2101544156757950697>) · [Creator’s code](<https://github.com/rmalde/minecraft-agent>) · [Visual gallery details](<https://magiccreator.ai/astra#jev-astra-minecraft-speedrun>)
+
 ### Robot Control Experiment
 
 [![Robot Control Experiment — Preview from the creator’s post](<https://pbs.twimg.com/media/HRa3vJWaEAAQSRT.jpg>)](<https://x.com/chooi_jeq/status/2096064315115839904>)
@@ -1910,6 +1992,18 @@ A recorded robot-control experiment compares Astra with another model on a speci
 The researcher reports a 95% task score for Astra versus 40% for Fable 5.1, alongside token and cost comparisons. These are results reported for this experiment, not independently reproduced measures of general robot reliability.
 
 [Original post](<https://x.com/chooi_jeq/status/2096064315115839904>) · [Visual gallery details](<https://magiccreator.ai/astra#robot-control-experiment>)
+
+### Astra Minecraft Survival Run
+
+[![Astra Minecraft Survival Run — Preview from the creator’s post](<https://pbs.twimg.com/media/HSSb6X0aIAAug1l.jpg>)](<https://x.com/ValsAI/status/2099975438886207798>)
+
+A public evaluation follows Astra as it gathers Nether resources before a creeper destroys its progress.
+
+**Creator:** [Vals AI](<https://x.com/ValsAI>) · **Tools / format:** Minecraft, Agent evaluation, Computer use
+
+Vals AI reports that Astra built a semi-automatic blaze farm, collected blaze rods and ender pearls, then lost its chest and bed to a creeper. This is an evaluator's account of an incomplete run, not a completed Minecraft victory.
+
+[Original post](<https://x.com/ValsAI/status/2099975438886207798>) · [Visual gallery details](<https://magiccreator.ai/astra#astra-minecraft-survival-run>)
 
 ### PCB Layout in KiCad
 
@@ -2042,6 +2136,30 @@ A recorded session of Astra learning controls and playing a card-based strategy 
 The author used voice instructions and recorded Astra playing an existing game. Completion and usage claims are author-reported; Astra did not create the game.
 
 [Original post](<https://x.com/coolish/status/2096195104809873710>) · [Visual gallery details](<https://magiccreator.ai/astra#slay-the-spire-computer-use>)
+
+### RICHI-240 WWI Cipher Analysis
+
+[![RICHI-240 WWI Cipher Analysis — Preview from the creator’s post](<https://pbs.twimg.com/media/HSlTt8jW4AIlYXF.png>)](<https://x.com/deredleritt3r/status/2101308530640752762>)
+
+Astra reconstructs a damaged ADFGVX radio message and cross-checks the result against historical records.
+
+**Creator:** [prinz](<https://x.com/deredleritt3r>) · **Tools / format:** Cryptanalysis, World War I, Research
+
+The author reports that Astra tested possible locations for 20 missing characters, scored German-language outputs, and used historical records to infer three digits. The claimed first solution and historical interpretation were not independently verified.
+
+[Original post](<https://x.com/deredleritt3r/status/2101308530640752762>) · [Visual gallery details](<https://magiccreator.ai/astra#richi-240-cipher>)
+
+### Persistent Memory Census
+
+[![Persistent Memory Census — Preview from the creator’s post](<https://pbs.twimg.com/amplify_video_thumb/2100317260275433472/img/YXMLvVvoehiQ4DAQ.jpg>)](<https://x.com/Argona0x/status/2100317660072337748>)
+
+A personal agent turns its accumulated files, calls, and notes into a navigable memory visualization.
+
+**Creator:** [Argona](<https://x.com/Argona0x>) · **Tools / format:** Agent memory, Visualization, Automation
+
+Argona describes a folder-based memory system that Astra reads before tasks and updates afterward. The visualization and reported 19-day totals document the creator's setup, not an independently audited memory benchmark.
+
+[Original post](<https://x.com/Argona0x/status/2100317660072337748>) · [Visual gallery details](<https://magiccreator.ai/astra#persistent-memory-census>)
 
 ### Cinema 4D Modeling
 

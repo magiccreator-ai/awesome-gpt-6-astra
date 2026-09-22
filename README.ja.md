@@ -11,7 +11,7 @@ GPT-6 Astraを使ったゲーム、Blender・3D、ウェブサイト、動画、
 >
 > 新しく見つけた作品を、元の出典や公開されている体験リンクとともに随時追加しています。リポジトリにスターを付けて保存し、また新しい作品を見に来てください。
 
-171件の事例 · 作者提供の体験リンク53件 · 最新の記録上の確認日：2026-09-14
+181件の事例 · 作者提供の体験リンク54件 · 最新の記録上の確認日：2026-09-22
 
 **[MagicCreatorのビジュアルギャラリーへ →](<https://magiccreator.ai/ja/astra>)** — プレビューを見て、分類で絞り込み、作者提供の体験リンクを探せます。
 
@@ -31,12 +31,12 @@ GPT-6 Astraを使ったゲーム、Blender・3D、ウェブサイト、動画、
 
 ## 目次
 
-- [GPT-6 Astraのゲームと体験デモ](#games) (48)
-- [GPT-6 AstraのBlender・3Dデモ](#blender) (23)
-- [GPT-6 Astraのウェブサイト・アプリ](#web) (51)
-- [GPT-6 Astraの動画制作事例](#video) (15)
+- [GPT-6 Astraのゲームと体験デモ](#games) (49)
+- [GPT-6 AstraのBlender・3Dデモ](#blender) (24)
+- [GPT-6 Astraのウェブサイト・アプリ](#web) (54)
+- [GPT-6 Astraの動画制作事例](#video) (16)
 - [GPT-6 Astraのイラスト・ピクセルアート](#art) (13)
-- [GPT-6 Astraのその他の事例](#others) (21)
+- [GPT-6 Astraのその他の事例](#others) (25)
 - [作品を推薦する](#suggest-a-demo)
 
 <a id="games"></a>
@@ -154,6 +154,18 @@ Konsti Wohlwendは、Astraがプロトタイプを組み立て、指示なしに
 Meng Toは以前制作したゲームを参照させ、追加プロンプトでAstraの成果を調整しました。ゲームは動作するものの、カタンに酷似しているためライセンスなしでは公開できないと説明しています。
 
 [元投稿](<https://x.com/MengTo/status/2097291240672993773>) · [ギャラリーの詳細](<https://magiccreator.ai/ja/astra#catan-threejs-board-game>)
+
+### Junnaid Valley Unreal ワールド
+
+[![Junnaid Valley Unreal ワールド — 作者の元投稿からのプレビュー](<https://pbs.twimg.com/amplify_video_thumb/2101395397445050368/img/F9db-bOLbAgvo4lo.jpg>)](<https://x.com/seftsaint/status/2101395711015497764>)
+
+既存のGodotコンセプトをUnrealへ移し、木々と照明を調整したプレイ可能な風景。
+
+**作者:** [eta](<https://x.com/seftsaint>) · **ツール・形式:** Unreal Engine, Blender, ゲームワールド
+
+作者はAstra、Unreal、Blenderを使って既存のGodotコンセプトを移行し、ゲーム制作を続けた。一部アセットはMeshy製であり、Astraだけで一から作った作品ではなく複数ツールのワークフロー。
+
+[元投稿](<https://x.com/seftsaint/status/2101395711015497764>) · [ギャラリーの詳細](<https://magiccreator.ai/ja/astra#junnaid-valley-unreal>)
 
 ### Universe Duel
 
@@ -741,6 +753,18 @@ Blender製の3D iPodと従来のiPod風操作でCodexスレッドを閲覧する
 
 [元投稿](<https://x.com/skirano/status/2095648379455861054>) · [ギャラリーの詳細](<https://magiccreator.ai/ja/astra#ipod-codex-thread-viewer>)
 
+### 清明キャラクター3Dモデル
+
+[![清明キャラクター3Dモデル — 作者の元投稿からのプレビュー](<https://pbs.twimg.com/amplify_video_thumb/2100192488543727617/img/IAkoiHbr17A3WjKv.jpg>)](<https://x.com/rionaifantasy/status/2100192604541395335>)
+
+参照キャラクターを、AstraとBlenderの反復作業で精細な3D人物へ仕上げた。
+
+**作者:** [Rion Wu](<https://x.com/rionaifantasy>) · **ツール・形式:** キャラクターモデリング, Blender, 参照画像
+
+Rion Wuは、多数の反復を重ねたAstraとBlenderによるキャラクター研究として公開した。品質とトークン使用量は作者の説明で、モデルファイルは独立確認用に公開されていない。
+
+[元投稿](<https://x.com/rionaifantasy/status/2100192604541395335>) · [ギャラリーの詳細](<https://magiccreator.ai/ja/astra#qingming-character-model>)
+
 ### iPhone写真からBlenderの建物へ
 
 [![iPhone写真からBlenderの建物へ — 作者の元投稿からのプレビュー](<https://pbs.twimg.com/ext_tw_video_thumb/2095982524044541952/pu/img/NojpJgktJm7E-l-F.jpg>)](<https://x.com/badxstudio/status/2095982983379653113>)
@@ -977,6 +1001,18 @@ Emanuel AOFは足首の痛みを理解する手助けをAstraに求め、動画�
 
 [元投稿](<https://x.com/Emanuel_Andre7/status/2096528986390085696>) · [ギャラリーの詳細](<https://magiccreator.ai/ja/astra#interactive-3d-ankle-atlas>)
 
+### Desktop Habitats 水族館
+
+[![Desktop Habitats 水族館 — 作者の元投稿からのプレビュー](<https://pbs.twimg.com/amplify_video_thumb/2100662903934193664/img/iUeUBtXa6uk4_iN-.jpg>)](<https://x.com/chaseleantj/status/2100663203076128908>)
+
+魚がカーソルに反応し、餌やりもできるmacOS向けライブ水族館壁紙。
+
+**作者:** [Chase Lean](<https://x.com/chaseleantj>) · **ツール・形式:** macOS, Three.js, インタラクティブ壁紙
+
+Chase LeanはAstraがインタラクティブ水族館を作成したと説明する。公開コードは2種類のThree.js水槽をローカル描画し、ブラウザ表示にも対応する。ライブ壁紙は静止画より電力を使うとの注意がある。
+
+[元投稿](<https://x.com/chaseleantj/status/2100663203076128908>) · [作者のコード](<https://github.com/chaseleantj/desktop-habitats>) · [ギャラリーの詳細](<https://magiccreator.ai/ja/astra#desktop-habitats-aquarium>)
+
 ### ニックスのティップイン3D再現
 
 [![ニックスのティップイン3D再現 — 作者の元投稿からのプレビュー](<https://pbs.twimg.com/amplify_video_thumb/2096663265812332544/img/JRENdmreJLLAoTZr.jpg>)](<https://x.com/Flynnjamm/status/2096663293901578438>)
@@ -1059,6 +1095,16 @@ Andrew Aigininは、Astraが既存の細胞モデルを約1時間で作用機序
 
 [元投稿](<https://x.com/andrewaiginin/status/2096998783351664993>) · [ギャラリーの詳細](<https://magiccreator.ai/ja/astra#ozempic-mechanism-visualization>)
 
+### ローマ十二面体 仮説エクスプローラー
+
+ローマ十二面体の用途をめぐる6つの仮説を紹介するインタラクティブ考古学サイト。
+
+**作者:** [Boris Power](<https://x.com/BorisMPower>) · **ツール・形式:** 考古学, インタラクティブサイト, 教育
+
+Boris Powerは、用途不明の遺物に関する議論を受け、Astraが公開サイトを構築したと説明する。体験は複数の仮説を可視化するもので、どの説が正しいかを立証するものではない。
+
+[元投稿](<https://x.com/BorisMPower/status/2101023784165908610>) · [体験する](<https://twelve-faces-one-mystery.borisxp.chatgpt.site>) · [ギャラリーの詳細](<https://magiccreator.ai/ja/astra#roman-dodecahedron-theories>)
+
 ### ソウル3Dアトラス
 
 [![ソウル3Dアトラス — 作者の元投稿からのプレビュー](<https://pbs.twimg.com/amplify_video_thumb/2096557441312034816/img/v3Iur3rDygYBuOdR.jpg>)](<https://x.com/synabreu/status/2096557555086725159>)
@@ -1130,6 +1176,18 @@ Adrianna Lakatosは、8,500万件の誕生日データセットをまとめ、As
 Andrew Aigininは、自身の開発適性ベンチマークでAstraが他のフロンティアモデルを上回り、約1時間で可視化も構築したと報告しています。どちらも独立検証されておらず、臨床ツールではありません。
 
 [元投稿](<https://x.com/andrewaiginin/status/2098078245350518884>) · [ギャラリーの詳細](<https://magiccreator.ai/ja/astra#antibody-developability-explorer>)
+
+### 潮の庭 海の図鑑
+
+[![潮の庭 海の図鑑 — 作者の元投稿からのプレビュー](<https://pbs.twimg.com/amplify_video_thumb/2100492088500686848/img/-Xye1cTnx7CvHFsf.jpg>)](<https://x.com/sonia_code/status/2100517619778593231>)
+
+ミニチュアの海岸で潮位を変え、潮だまりに残る生き物をクリックして観察できる。
+
+**作者:** [Sonia](<https://x.com/sonia_code>) · **ツール・形式:** インタラクティブ図鑑, 海洋生物, データ可視化
+
+ソニアは、このイラスト調の海の図鑑をAstraが作成したとしている。投稿では潮位操作とクリック可能な海洋生物を確認できるが、公開版や生物情報の独立検証はない。
+
+[元投稿](<https://x.com/sonia_code/status/2100517619778593231>) · [ギャラリーの詳細](<https://magiccreator.ai/ja/astra#tidal-garden-ocean-guide>)
 
 ### Varun Lohadeのポートフォリオ
 
@@ -1519,6 +1577,18 @@ AIモデルの比較を扱うウェブサイトです。
 
 [元投稿](<https://x.com/realYunfanYe/status/2095612137582526615>) · [ギャラリーの詳細](<https://magiccreator.ai/ja/astra#zillow-house-video>)
 
+### Starship テクニカル・モーション映像
+
+[![Starship テクニカル・モーション映像 — 作者の元投稿からのプレビュー](<https://pbs.twimg.com/amplify_video_thumb/2099142033181233152/img/kRilZIhKQHwvbVaJ.jpg>)](<https://x.com/flaceju/status/2099142063807717443>)
+
+線画と技術的な注釈でStarshipを解説するモノクロのモーションデザイン映像。
+
+**作者:** [flaceju](<https://x.com/flaceju>) · **ツール・形式:** モーションデザイン, Starship, 技術アニメーション
+
+作者は完成映像をAstra制作としている。抽出フレームでは機体と推進系のアニメーション図を確認したが、ソフト、工程、素材元、工学的な事実確認は記録されていない。
+
+[元投稿](<https://x.com/flaceju/status/2099142063807717443>) · [ギャラリーの詳細](<https://magiccreator.ai/ja/astra#starship-technical-edit>)
+
 ### 11分のHiggsfield動画
 
 [![11分のHiggsfield動画 — 作者の元投稿からのプレビュー](<https://pbs.twimg.com/amplify_video_thumb/2096491888966852608/img/sOPzOKuspX5PNY8j.jpg>)](<https://x.com/adilinthewild/status/2096501790774817240>)
@@ -1899,6 +1969,18 @@ AdamがAstraを組み込んだエージェント型CADの工程を紹介して�
 
 [元投稿](<https://x.com/adamdotnew/status/2096053889141489669>) · [ギャラリーの詳細](<https://magiccreator.ai/ja/astra#agentic-mechanical-cad>)
 
+### JEV + Astra Minecraft スピードラン
+
+[![JEV + Astra Minecraft スピードラン — 作者の元投稿からのプレビュー](<https://pbs.twimg.com/amplify_video_thumb/2101542497042481152/img/edco8P9wl-DUp5z8.jpg>)](<https://x.com/rronak_/status/2101544156757950697>)
+
+2モデル構成のMinecraftエージェントが、記録映像で8分43秒でエンダードラゴンを倒す。
+
+**作者:** [Ronak Malde](<https://x.com/rronak_>) · **ツール・形式:** Minecraft, エージェント, オープンソース
+
+Astraが計画し、JEVが構造化ゲーム状態から限定アクションを選び、Mineflayerが実行した。公開コードの実行は調査済み固定シード、既知座標、Peaceful難易度、過去の失敗で学んだスキルを使用し、画面画像だけの操作ではない。
+
+[元投稿](<https://x.com/rronak_/status/2101544156757950697>) · [作者のコード](<https://github.com/rmalde/minecraft-agent>) · [ギャラリーの詳細](<https://magiccreator.ai/ja/astra#jev-astra-minecraft-speedrun>)
+
 ### ロボット制御実験
 
 [![ロボット制御実験 — 作者の元投稿からのプレビュー](<https://pbs.twimg.com/media/HRa3vJWaEAAQSRT.jpg>)](<https://x.com/chooi_jeq/status/2096064315115839904>)
@@ -1910,6 +1992,18 @@ AdamがAstraを組み込んだエージェント型CADの工程を紹介して�
 研究者はAstraの課題スコア95%とFable 5.1の40%を、トークン数と費用の比較とともに報告しています。この実験についての報告値であり、ロボット全般の信頼性を独立に再現・測定したものではありません。
 
 [元投稿](<https://x.com/chooi_jeq/status/2096064315115839904>) · [ギャラリーの詳細](<https://magiccreator.ai/ja/astra#robot-control-experiment>)
+
+### Astra Minecraft サバイバル試行
+
+[![Astra Minecraft サバイバル試行 — 作者の元投稿からのプレビュー](<https://pbs.twimg.com/media/HSSb6X0aIAAug1l.jpg>)](<https://x.com/ValsAI/status/2099975438886207798>)
+
+公開評価でAstraがネザー資源を集めるが、クリーパーに進捗を破壊されるまでを記録。
+
+**作者:** [Vals AI](<https://x.com/ValsAI>) · **ツール・形式:** Minecraft, エージェント評価, Computer Use
+
+Vals AIは、Astraが半自動ブレイズ農場を作り、ブレイズロッドとエンダーパールを集めた後、クリーパーにチェストとベッドを破壊されたと報告する。これは未完走の評価記録で、Minecraftクリア実績ではない。
+
+[元投稿](<https://x.com/ValsAI/status/2099975438886207798>) · [ギャラリーの詳細](<https://magiccreator.ai/ja/astra#astra-minecraft-survival-run>)
 
 ### KiCadでの基板レイアウト
 
@@ -2042,6 +2136,30 @@ Astraが操作方法を学び、カード戦略ゲームをプレイする記録
 作者が音声で依頼し、既存ゲームを遊ぶAstraを録画。クリアや使用量は作者の申告であり、ゲーム自体をAstraが制作したわけではありません。
 
 [元投稿](<https://x.com/coolish/status/2096195104809873710>) · [ギャラリーの詳細](<https://magiccreator.ai/ja/astra#slay-the-spire-computer-use>)
+
+### RICHI-240 第一次大戦暗号解析
+
+[![RICHI-240 第一次大戦暗号解析 — 作者の元投稿からのプレビュー](<https://pbs.twimg.com/media/HSlTt8jW4AIlYXF.png>)](<https://x.com/deredleritt3r/status/2101308530640752762>)
+
+Astraが欠損したADFGVX無線文を復元し、歴史資料と照合した暗号解析。
+
+**作者:** [prinz](<https://x.com/deredleritt3r>) · **ツール・形式:** 暗号解析, 第一次世界大戦, 調査
+
+作者によると、Astraは欠落した20文字の位置候補を試し、ドイツ語らしさを採点し、歴史資料から3桁を推定した。初解読という主張と歴史的解釈は独立検証していない。
+
+[元投稿](<https://x.com/deredleritt3r/status/2101308530640752762>) · [ギャラリーの詳細](<https://magiccreator.ai/ja/astra#richi-240-cipher>)
+
+### 永続メモリ・センサス
+
+[![永続メモリ・センサス — 作者の元投稿からのプレビュー](<https://pbs.twimg.com/amplify_video_thumb/2100317260275433472/img/YXMLvVvoehiQ4DAQ.jpg>)](<https://x.com/Argona0x/status/2100317660072337748>)
+
+個人エージェントが蓄積したファイル、呼び出し、メモを探索可能な記憶ビジュアライゼーションに変換。
+
+**作者:** [Argona](<https://x.com/Argona0x>) · **ツール・形式:** エージェントメモリ, 可視化, 自動化
+
+Argonaは、タスク前に読み、終了後に更新するフォルダ型メモリをAstraに与えたと説明する。可視化と19日間の集計値は作者環境の記録であり、独立監査されたメモリ評価ではない。
+
+[元投稿](<https://x.com/Argona0x/status/2100317660072337748>) · [ギャラリーの詳細](<https://magiccreator.ai/ja/astra#persistent-memory-census>)
 
 ### Cinema 4Dでのモデリング
 
