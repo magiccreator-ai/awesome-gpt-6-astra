@@ -436,6 +436,8 @@ The creator credits Astra and Three.js, describing a persistent ice-wear grid th
 [Original post](<https://x.com/JakeBoyles/status/2096983366327226501>) · [Live demo](<https://vyrld.com/w/rink-life>) · [Visual gallery details](<https://magiccreator.ai/astra#rink-life>)
 
 ### Bubble Wrap Simulator
+- [PromptImage](https://promptimage.cloud) - Free AI image & video studio with a prompt library (signup credits, multi-model). Freemium
+- [GrokVideo Studio](https://grokvideogenerator.dev) - Independent web app for text/image-to-video via Grok Imagine API (Free Trial, 20 credits). Not an official …
 
 [![Bubble Wrap Simulator — Preview from the creator’s post](<https://pbs.twimg.com/amplify_video_thumb/2096980056065314816/img/_duxg6slMRbzLtu1.jpg>)](<https://x.com/crtvTeknologist/status/2096980188126986533>)
 
